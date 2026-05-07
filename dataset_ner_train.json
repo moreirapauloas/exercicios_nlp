@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Instabilidade no sistema NEE",
+    "entities": [
+      [
+        0,
+        14,
+        "PROBLEMA"
+      ],
+      [
+        26,
+        29,
+        "SISTEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Atraso na migração das automações para VMs Win Server",
+    "entities": [
+      [
+        0,
+        7,
+        "PROBLEMA"
+      ],
+      [
+        11,
+        20,
+        "ACAO"
+      ],
+      [
+        42,
+        55,
+        "SISTEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Problemas na integração SAP-SAT demandando retestes",
+    "entities": [
+      [
+        0,
+        9,
+        "PROBLEMA"
+      ],
+      [
+        25,
+        32,
+        "SISTEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Impacto direto em clientes e serviços corporativos",
+    "entities": [
+      [
+        0,
+        7,
+        "IMPACTO"
+      ]
+    ]
+  },
+  {
+    "text": "Falha na identificação de ativos OCI",
+    "entities": [
+      [
+        0,
+        6,
+        "PROBLEMA"
+      ],
+      [
+        35,
+        38,
+        "SISTEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Instabilidades e falhas afetam a migração de trens",
+    "entities": [
+      [
+        0,
+        14,
+        "PROBLEMA"
+      ],
+      [
+        17,
+        24,
+        "PROBLEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Risco de incidentes críticos com impacto ao processo rodo",
+    "entities": [
+      [
+        0,
+        5,
+        "RISCO"
+      ],
+      [
+        9,
+        30,
+        "PROBLEMA"
+      ],
+      [
+        35,
+        42,
+        "IMPACTO"
+      ]
+    ]
+  },
+  {
+    "text": "Dificuldade de contratação de profissionais especialistas em dados",
+    "entities": [
+      [
+        0,
+        25,
+        "PROBLEMA"
+      ],
+      [
+        62,
+        67,
+        "AREA"
+      ]
+    ]
+  },
+  {
+    "text": "Mitigação de vulnerabilidade com eliminação de links públicos",
+    "entities": [
+      [
+        0,
+        10,
+        "ACAO"
+      ],
+      [
+        14,
+        29,
+        "PROBLEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Atualização do firewall da Sede BH para a versão 7.4.6",
+    "entities": [
+      [
+        16,
+        24,
+        "SISTEMA"
+      ],
+      [
+        0,
+        12,
+        "ACAO"
+      ]
+    ]
+  },
+  {
+    "text": "Execução de novos discoverys para novas frentes de atuação",
+    "entities": [
+      [
+        0,
+        8,
+        "ACAO"
+      ]
+    ]
+  },
+  {
+    "text": "Entrada em produção do NEE gerou impacto no serviço GBM",
+    "entities": [
+      [
+        26,
+        29,
+        "SISTEMA"
+      ],
+      [
+        37,
+        44,
+        "IMPACTO"
+      ],
+      [
+        56,
+        59,
+        "SISTEMA"
+      ]
+    ]
+  },
+  {
+    "text": "BUG da plataforma TIBCO decorrente da infraestrutura TIVIT",
+    "entities": [
+      [
+        0,
+        3,
+        "PROBLEMA"
+      ],
+      [
+        18,
+        23,
+        "SISTEMA"
+      ],
+      [
+        53,
+        58,
+        "FORNECEDOR"
+      ]
+    ]
+  },
+  {
+    "text": "Renovação contratual Salesforce em andamento",
+    "entities": [
+      [
+        23,
+        33,
+        "SISTEMA"
+      ],
+      [
+        0,
+        21,
+        "ACAO"
+      ]
+    ]
+  },
+  {
+    "text": "Validação da automação para alerta aos usuários",
+    "entities": [
+      [
+        0,
+        10,
+        "ACAO"
+      ]
+    ]
+  },
+  {
+    "text": "Integração dos modelos de dados com termos de negócio",
+    "entities": [
+      [
+        0,
+        10,
+        "ACAO"
+      ],
+      [
+        24,
+        29,
+        "AREA"
+      ]
+    ]
+  },
+  {
+    "text": "Treinamento do time de Inteligência de Mercado",
+    "entities": [
+      [
+        0,
+        12,
+        "ACAO"
+      ],
+      [
+        22,
+        46,
+        "AREA"
+      ]
+    ]
+  },
+  {
+    "text": "Instalação da suíte de Governança de Dados adquirida",
+    "entities": [
+      [
+        0,
+        11,
+        "ACAO"
+      ],
+      [
+        21,
+        43,
+        "AREA"
+      ]
+    ]
+  },
+  {
+    "text": "Integração dados Comercial com ingestão de dados do GBM",
+    "entities": [
+      [
+        0,
+        10,
+        "ACAO"
+      ],
+      [
+        18,
+        28,
+        "AREA"
+      ],
+      [
+        58,
+        61,
+        "SISTEMA"
+      ]
+    ]
+  },
+  {
+    "text": "Processo de higienização de relatórios Power BI não utilizados",
+    "entities": [
+      [
+        0,
+        27,
+        "ACAO"
+      ],
+      [
+        43,
+        51,
+        "SISTEMA"
+      ]
+    ]
+  }
+]

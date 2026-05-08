@@ -4030,5 +4030,11 @@
     "label": 0,
     "origem": "real",
     "confianca": "alta"
+  },
+  {
+    "texto": "(favor não apagar este link)",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
   }
 ]

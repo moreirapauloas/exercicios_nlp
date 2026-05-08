@@ -4012,5 +4012,23 @@
     "label": 0,
     "origem": "real",
     "confianca": "media"
+  },
+  {
+    "texto": "ENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês.",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  },
+  {
+    "texto": "Entregas significativas no mês:",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  },
+  {
+    "texto": "Síntese do mês",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
   }
 ]

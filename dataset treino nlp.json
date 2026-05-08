@@ -4114,5 +4114,11 @@
     "label": 0,
     "origem": "real",
     "confianca": "alta"
+  },
+  {
+    "texto": "Serviço de Dados",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
   }
 ]

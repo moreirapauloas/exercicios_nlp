@@ -863,13 +863,6 @@
   {
     "ano": 2025,
     "mes": "Março",
-    "area": null,
-    "responsavel": null,
-    "texto": "GER. Ferrovia – Síntese de fevereiro de 2025\n-\nPontos positivos\nPontos negativos\nPontos de atenção\n+\n!\nSistema de Geometria e Perfil de Trilho\nNovo atraso na data da FAT do 1º Sistema de Inspeção Autônomo de Geometria – previsão para primeira semana de maio\nMBC MR\nSistema de Geometria e Perfil de Trilho\nAvanço da inspeção do Sistema de Imagem no corredor CL (85%)\nMBC MR\nSistema de Geometria e Perfil de Trilho\nDificuldade na disponibilização de um vagão para o 2º Sistema de Inspeção de Geometria, do corredor CN\nImpossibilidade de realizar pintura do vagão FRD nas instalações da VLI devido à irregularidade de licença ambiental da oficina\nMBC MR\nAtualizado em 07.mar.2025"
-  },
-  {
-    "ano": 2025,
-    "mes": "Março",
     "area": "GERÊNCIA DE TRANS. DIGITAL OP. PORTOS E TERMINAIS",
     "responsavel": "Luciano",
     "texto": "Pontos positivos:\nLinha Mestra – AMZ Inteligente TIPLAM: Concluída as correções nos equipamentos do AMZ 1, 2 e 3 de grãos, liberando o go-live;\nSUITE SIOP - Porto/Expedição: Conclusão das correção de DI's (Declaração de Importação) - Total: 631; Encerradas: 570; Pendente: 6; Solicitação para permanecer aberto com saldo: 55 (esta ação corrigiu inconsistências na gestão do volume de importação do TIPLAM).\n\nPontos negativos:\nLinha Mestra – AMZ Inteligente: Postergação do início da implantação escopo 2025 para o segundo trimestre, após concluídas as negociações contratuais;\nSuite SIOP (serviço AMS): Processo de mobilização da DXC em atraso aguardando negociação interna sobre saldo contratual; Impacto no plano de redução de OpEx;\nRequalificação Suite SIOP: PROJETO NIEMEYER – Atraso na validação do roadmap macro do fluxo de valor para autorizar o desenvolvimento dos novos módulos e concluir o material da PDD.\n\nPróximos Passos / Pontos de Atenção:\nSUITE SIOP (serviço AMS): Negocia aditivo contratual com suprimetnos para viabilizar o KT - mar/25;\nRequalificação SIOP: Alocar novos analistas para mitigar o risco da não continuidade da analista Bia.\nRequalificação SIOP: Defesa da PDD 2025/2027. Mar/25;\nRequalificação SIOP – Niemeyer: Validação do roadmap macro do fluxo de valor para autorizar o desenvolvimento dos novos módulos. Mar./25;\nLinha Mestra – AMZ Inteligente: Realizar a ativação dos AZF2 do TIPLAM - mar/25;\nLinha Mestra –  POM: Entrega da onda 02 (pós MVP). Mar/25;\nSíntese do mês | Gerência de Trans. Digital Op. Portos e Terminais\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nEntregas significativas no mês: Não existe\nResponsável: Luciano\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nStatus: Atualizado"
@@ -1022,112 +1015,112 @@
     "texto": "Pontos positivos:\n\nSICOF: Fechamos todas as entregas previstas para ano 2024\nPremiação AEVO: 2º lugar na categoria Inovação de Transformação\nWorkshop Futuro com IA no Jurídico\nSíntese do mês | Gerência de Inovação\nPontos negativos:\nPróximos Passos/ Pontos de Atenção:\n\nAvaliação da Brasil Agritest: 6 dimensões  \nAvaliação do potencial de novos negócios: BP Aspiracional\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês:\nSICOF: Fechamos todas as entregas previstas para o ano de 2024\nPremiação AEVO: 2º lugar na categoria Inovação de Transformação\nStatus: atualizado\nResponsável: Fernanda"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loïc",
     "texto": "-\nPontos positivos\n\n[LD P&T] GO-Live SIOP Expedição  18/11 permitindo o sunset do SIACON, c/ ~R$800k/aa de OpEx.\u000b\n[LD P&T] LM – Controle Remoto de carregador de Navio: em 23/11 foi iniciado o uso da solução no CN01(berço 02) do TIPLAM. Potencial de reduzir até 3h nas operações de carregamento de navios, por otimizar rechego do porão.\n\n[DADOS] pesquisa de maturidade em dados (modelo DAMA) feita pela EY ficou em 2,25 para uma meta este ano de 2 (1ª pesquisa = abaixo de 1)\nPontos negativos\n \n[FLINK] Atraso do projeto estimado em 2 mês em decorrência do processo decisório sobre cenários de negócio: Faturamento As-Is vs BPO. Reunião com os GGs será agendada para deliberação.\n\n [MBV VP] GED Alfresco: atraso na instalação dos componentes em ambiente Windows, gerando riscos para o go live em 2024.\n\n\n[LD P&T] LM – AMZ Inteligente: após repetidas interrupções da energia elétrica no TPSL o sistema de leitura apresentou falhas. Visita técnica para correção está prevista para o dia 17/12.\nPontos de atenção/Próximos Passos\n\n[LD FER] PP MBC MR:  instalação de 3 novos kits em Dezembro, atingindo o objetivo de 34 instalações em 2024. \n\n[LD FER] PP Rastreabilidade vagões na CN:  Implantação do sistema em produção.\n\n[LD P&T] PP SIOP 2.0  Requalificação - POM- Homologação e uso em produção do MVP para os fluxos de exportação do TIPLAM – dez/24;\n+\n!\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nSINTESE GER. GERAL TILD\u000bTILD\nStatus: atualizado\nResponsável: Loïc"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE OPERAÇÃO E PLATAFORMAS DIGITAIS",
     "responsavel": "André Braz",
     "texto": "Pontos positivos:\n\n[Conectividade 2.0]: conclusão da implantação de wifi industrial em áreas operacionais no TIPA, TIPN, TIOP, TIUB, TIA e TIGU. Implementação de redundância de conectividade com STARLINK como contingência no TPD, TIA e TIUB.\n\n[FLOU]: testes avançados do sistema para substituição do legado Tácito em 27/12. Sistema bastante elogiados pelos usuários das áreas comerciais e planejamento. \n\n[Major incident]: concluido o processo de notificação automática de incidentes criticos, associado ao plano de resposta de crise, PDCA para melhoria continua(problem) para os sistemas sob gestão de operações digitais. A área de controles internos reconheceu a TILD como área referência na VLI no assunto gestão da continuidade de negócio e crises.\n\n\n\nPontos de atenção:\n\n[FLINK]: atraso do projeto estimado em 2 mês em decorrência do processo decisório sobre cenários de negócio: Faturamento As-Is vs BPO. Reunião com os GGs será agendada para deliberação.\nSíntese do mês | Gerência de Operação e plataformas digitais\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nEntregas significativas no mês: N/A\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nStatus: desatualizado\nResponsável: André Braz"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": "Juliano",
     "texto": "Lembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nSíntese do mês | Gerência de Segurança da Informação\nEntregas significativas no mês: \nImplantação de Gestão de Acessos (AD) e Vulnerabilidades (Claroty) no TPSL;\nStatus: desatualizado\nResponsável: Juliano"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA CORPORATIVA DE DADOS",
     "responsavel": "Cristiane Leão",
     "texto": "Síntese do mês | Gerência Corporativa de Dados\nPontos positivos:\nJornada Data Driven: \nMDM: Treinamento Data steward no módulo MDM Informática\nMDM: Construção APIs Gestão e Granular que vão alimentar o TIBCO para consumo dos sistemas VLI.  \nEntrega do Catálogo de dados para Self-service BI, PWB e DW, incluindo linhagem entre modelos semânticos e modelos físicos\nGestão centralizada de Arquiteto de Dados: Processo de assinatura do contrato – Squadra\nDados Mestres: Desenho da proposta de TO BE para Mercadoria VLI\nAdvanced Analytics: \nIA para classificação de temas nas contribuições de audiência pública da concessão da FCA junto a ANTT: Alguns resultados promissores foram obtidos com uso do Copilot\nCoE Serviços de Dados:\nPiloto da implantação da esteira CI/CD para deploy de relatórios do Power BI\nComunicação e suporte junto a áreas de negócio para regularização de gateways Power BI (conectividade) fora da governança\nPontos negativos: n/a\nPróximos Passos / Pontos de Atenção:\nJornada Data Driven: \nMDM: Rastreabilidade dos consumidores de cliente através do Tibco.\nMDM: Testes de consumo do cliente Gestão através do sistema Flou\nEntrega do Catálogo para participantes dos sistemas 3F e MDM\nDivulgação do resultado da pesquisa de Maturidade\n Avaliação de impactos nos negócios da VLI da proposta de TO BE para mercadoria VLI\nAdvanced Analytics: \nAmbiente produtivo MBC e esteira de delivery (Synapse e Data Lake)\nIndicador de acurácia disponível e padronizado nos ambientes de Machine Learning\nCoE Serviços de Dados: \nPainéis e indicadores de Governança de Dados para sistemas transacionais\nPainel de indicadores de ofensores do DW Corporativo para apoio aos times de Produtos responsáveis pela sustentação das soluções\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês: Pesquisa de Maturidade realizada entre os dias 04/11 até 14/11\nResponsável: Cristiane Leão\nStatus: Atualizado"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA TRANSFORMAÇÃO DIGITAL FERROVIAS",
     "responsavel": "Guilherme",
     "texto": "Síntese do mês | Gerência Transformação Digital Ferrovias\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS:\nDescrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÃO EXISTE”\nEntregas significativas no mês:\n[MBC VP] Plataforma de Dados: Entregue funcionalidade para Tie Planning.\n[Controle Remoto Locomotivas] Entregue instalação das câmeras fixas no TIUB que garante segurança na utilização do controle e melhorar a operação e gestão do pátio com um todo\n[Rastreabilidade vagões CN] Finalizado a instalação física dos 10 pontos de leitura ao longo do corredor CN.\nOutros Slides\u000bGA TD Ferrovia\nStatus:\natualizado\nResponsável: Guilherme"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL OP. PORTOS E TERMINAIS",
     "responsavel": "Luciano",
     "texto": "Pontos positivos:\nLinha Mestra – Controle Remoto CN (Carregador de Navio): entrega em produção da iniciativa no CN 01  do TIPLAM.\nSuite SIOP - Expedição: subida em produção no dia 18/11 com operação assistida até o dia 29/11 em parceria com a equipe do TRATO. \nSuite SIOP – EDGE e Balança publicados no TIPLAM permitindo o encerramento de \nLinha Mestra – SPEED: iniciada a utilização do sistema no PECÉM, com total de 08 navios planejados e operados no mês de novembro/24, atingindo o uso em 100% dos portos VLI.\n\n\nPontos negativos:\nLinha Mestra – Speed: atraso na apuração e validação dos resultados do segundo semestre. Previsão de conclusão para a semana de 16 a 20/12.\nLinha Mestra – AMZ Inteligente: Após repetidas interrupções da energia elétrica no TPSL o sistema de leitura apresentou falhas. Visita técnica para correção está prevista para o dia 17/12.\nSuite SIOP – Expedição: Algumas falhas ocorreram durante a operação assistida. 16 itens foram corrigidos e estamos com backlog de 5 em execução. Estamos aguardando o planejamento do backlog de itens postergados durante o projeto.\n\n\nPróximos Passos / Pontos de Atenção:\nSUITE SIOP: Publicar a funcionalidade de faturamento integrada com a balança ferroviária do TIPF – dez/24;\nLinha Mestra - SIOP 2.0  Requalificação - POM- Homologação e uso em produção do MVP para os fluxos de exportação do TIPLAM – dez/24;\nLinha Mestra – AMZ Inteligente – TPSL : P.P. Realizar o Go-live da solução no TIPLAM e TIUB - dez/24;\nLinha Mestra – Controle Remoto CN: P.P. Replicar as melhorias da programação do CN 1 para o CN 2 do TIPLAM – dez/24. \nLinha Mestra – Speed: P.P. Realizar a apuração e validação dos ganhos financeiros – dez/24.\nProteção à Vida: Habilitar a integração do App com o Trato dez/24. (Entrada do Trato no TIPLAM habilitou o púbico rodoviários na utilização do Proteção à Vida).\nSíntese do mês | Gerência de Trans. Digital Op. Portos e Terminais\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nEntregas significativas no mês: \nGO-Live SIOP Expedição: Em produção desde 18/11 permitindo o sunset do SIACON, com redução de aproximadamente 0,80MM anuais de OpEx.\nLinha Mestra – Controle Remoto de carregador de Navio: Em 23/11 foi iniciado o uso da solução no CN01(berço 02) do TIPLAM. Iniciativa com potencial de reduzir até 3h nas operações de carregamento de navios, por evitar a redução da taxa efetiva durante o rechego do porão.\nStatus: atualizado\nResponsável: Luciano"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL PLANEJAMENTO E CORPORATIVO",
     "responsavel": null,
     "texto": "Pontos positivos:\nNiemeyer Segurança: Conclusão do trabalho de Niemeyer com Segurança do Trabalho, com definição das melhorias e novo sistema a ser implantado (Intelex), sistema capaz de absorver também processos de Segurança Operacional, Saúde e Meio Ambiente.\nNiemeyer RH: Definição do sistema para transformação de RH, sendo esse a solução cloud da LG, que consegue abrangir a maior quantidade de capacidades de RH.\nLow Code: Conclusão do assessment ao ambiente de Power Platform da VLI, com montagem do plano de saneamento do ambiente.\nLow Code: Realização de 2 treinamentos técnicos de Power Platform, explicando os conceitos das ferramentas e dos ambientes, 1 para o público de TI e outro para os principais makers.\nSelf-service Analytics: Conclusão de 12 camadas semânticas de dados da operação, disponibilização dos metadados de 6 camadas, criação de materiais de orientação e de serviço de suporte ao self-service analytics e treinamento das primeiras equipe (Planejamento de Curto e Longo Prazo).\nDW Corporativo: 7 dos 11 principais ofensores do ambiente de analytics foram tratados e consumo de CPU do servidor do SQL Server saiu de uma média de 57% para uma média de 47%, com destaque para a queda do período de fechamento contábil, saindo de 53% para 48%.\n\nPontos negativos:\nS&OP Digital: Atraso no processo de contratação da Enacom, gerando riscos para início dos desenvolvimentos da CN no primeiro trimestre de 2025.\nAlfresco: Atraso na instalação dos componentes em ambiente windows, gerando riscos para o go live em 2024.\n\nPróximos Passos / Pontos de Atenção:\nP.P. Niemeyer Segurança: Contratação do sistema para implantação em 2025.\nP.P. Niemeyer RH: Definição do plano de transformação, com as mudanças de processo necessárias, a tratativa das \"Automações RH\" e a definição dos módulos a serem implantados em cada ano.\nP.P. DW Corporativo: Conclusão dos BIs de Segurança Operacional fase 1, Atração e Seleção e Gestão de Terceiros.\nP.P. Alfresco: Finalização da instalação dos componentes, migração de documentos e 1º go live da solução.\nP.P. S&OP Digital: Realizar novo contrato com Enacom para desenvolvimentos em 2025.\nP.P. RPA: Finalização de processo concorrencial para renovação/nova contratação de empresa para manutenção e desenvolvimento de automações.\nResponsáveis: Paulo Moreira\n\nStatus:   Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nSíntese do mês | Gerência de Trans. Digital Planejamento e Corporativo\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês: Conclusão do trabalho de Niemeyer com Segurança do trabalho e definição de novo sistema.\nImplantação, divulgação e treinamento de novo serviço de suporte ao Self-service Analytics com implantação de 12 novas camadas semânticas de dados da operação da VLI."
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL COMERCIAL E CLIENTE",
     "responsavel": null,
     "texto": "Pontos positivos:\n[Bancos Replicas SIOP como base de informação para DW e Clientes] Ambiente estabilizado e atendendo às necessidades de dados do DW e dos Clientes. Monitoramento contínuo ativado. \nPIPELINE AZURE DEVOPS SALESFORCE: Ativado e em operação assistida (Versionamento, qualidade de código, testes automatizados, CONVISO Vulnerabilidades, CI e CD).\n[Inteligência de Mercado]: Entrega de Painéis de Indicadores com destaque para Margem Vagão Dia – por fluxo, corredor e Cliente (Visão detalhada)\n\nPontos negativos: \n[Torre de Controle]  Monitoramento carga VLI em malha de terceiros. Apenas 10% de tudo que transportamos começa e termina na malha VLI e 90% dependemos da Vale, MRS e Rumo. Alta dependência de dados operacionais de terceiros o que nos impede de trabalhar a previsibilidade das entregas para os clientes [OTIF On-Time In-Full – Pedido do cliente entregue no tempo e na quantidade correta]. (Visão detalhada)\n\nPróximos Passos / Pontos de Atenção:\nP.P.: [Smart Sales] Jornada Comercial Integrada fase 1 – Sprint 3 em andamento.\nP.P.: [Smart Sales] Jornada Comercial Integrada fase 2 – Especificação técnica em elaboração, com RC e início da contratação em Jan/25.\nP.P.: [Dados VALE]: Processos de integração com o cliente Gerdau – Ação com a Vale (concluído ) e EDI VLI a definir\nP.P.: [Iniciativa CX] TORRE: Integração com UNILOG (em homologação).\nP.P.: [Iniciativa CX] TORRE: Melhorar qualidade informação operacional com dados GBM Combustível e Tegram (12/24 até 02/25).\nP.P.: [Estrutura time LD Com&Clientes]: Estudo nova estrutura para atender o CLIENTE (Suporte, Serviço de Integrações e Dados).\nP.A.: [AMS Comercial]: Estudo reorganização do time de suporte, treinamento ServiceNow, Processos e Governança TILD\nP.A.: [Smart Sales] PV Digital: Produto congelado até substituição total pelo Salesforce em 2025\nP.A.: [Smart Sales] Jetsons: Produto congelado até substituição total pelo Salesforce em 2025 (exceto Jetsons preços)\nSíntese do mês | Gerência de Trans. Digital Comercial e Cliente\nResponsáveis: Leonardo Figueiredo\n\nStatus:  atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês: Não Existe"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE INOVAÇÃO",
     "responsavel": "Fernanda",
     "texto": "Pontos positivos:\n\nBrasil Agritest: Início da etapa de rebranding\nArmazena: Execução do teste operacional 2\nInovação aberta: Estruturação de projeto para captação de R$ 1Mi de  recurso não reembolsável em parceria com FURG e MEXTEC para acelerar o desenvolvimento de uma tecnologia inovadora para monitoramento de correias. \n\nComitê de Inovação: baixo engajamento da diretoria com o tema\nSíntese do mês | Gerência de Inovação\nPontos negativos:\nPróximos Passos/ Pontos de Atenção:\n\nPróximos passos VLI2sea\nRefinar governança InovaVLI Ventures integrado com a GG Multimodalidade e Novos Negócios\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês:\nCaptação de R$ 1Mi de  recurso não reembolsável em parceria com FURG e MEXTEC para acelerar o desenvolvimento de uma tecnologia inovadora para monitoramento de correias. \nArmazena: Execução do teste operacional 2\nStatus: atualizado\nResponsável: Fernanda"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Dezembro",
     "area": "GERÊNCIA TECNOLOGIA DO TRATO",
     "responsavel": null,
     "texto": "Pontos positivos:\nPontos negativos:\nPróximos Passos/ Pontos de Atenção:\nResponsáveis: Cristiane Leão\n\nStatus:   Atualizado\nRodadas de alinhamentos para enfatizar o estudo de viabilidade técnica e financeira aos envolvidos\nMigração Service AIDE para ServiceNow  -  não há orçamento nem disponibilidade de time.   Projeto será cancelado em 2024 e previsto apenas para 2025.   Todos envolvidos alinhados.\nApresentação Executiva formalizada em meta\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nSíntese do mês | Gerência Tecnologia do Trato\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês: Finalização das Especificações Funcionais e Técnicas para Migração GCP para AZURE"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Novembro",
     "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loic",
     "texto": "-\nPontos positivos\n\n[LD FER] LM: controle remoto Locomotivas: realização de 5 carregamentos utilizando o controle remoto com sucesso (mantendo a taxa próxima aos valores operacionais). 3 Js (tulha A) + 2 Cs (tulha B)\u000b \n[Ganhos digitais] - R$ 27,9 MM ytd (Torre de Controle R$ 25,56MM + R$2,34MM Planej. Colaborativo) e R$7,2MM utilizando a S&OP Digital no corredor CS\n\n[SI] Implantação de Gestão de Acessos (AD) e Vulnerabilidades TA (Claroty) no TPSL\nPontos negativos\n \n[FLINK] Atraso do projeto estimado em 1 mês em decorrência do processo decisório sobre cenários de negócio: Faturamento As-Is vs BPO. Reunião com os GGs será agendada para deliberação\n\n [MBV VP] Sistema de Geometria: Atividades paralisadas devido a acidente com trabalhadores \n\n[LD P&T] SIOP – Módulo Expedição (eliminação SIACON): Nova postergação do go-live no TIPLAM de 21/10 para 18/11.\nPontos de atenção/Próximos Passos\n\nPP [LD CORP] Fluxo de Valor de Segurança: contratação no sistema para implantação em 2025\n\nPP [LD CORP] Fluxo de Valor RH     definição das soluções do plano de transformação e montagem do roadmap de transformação\n\nPP [LD COM] - TORRE: após Nitro (Out), Integração com UNILOG (11/24)\n\nPP [INOV] Finalização do pré-piloto do Armazena\n+\n!\nResponsável: Loic\n\nStatus: Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Novembro",
     "area": "GERÊNCIA DE OPERAÇÃO E PLATAFORMAS DIGITAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\n\n[MICROSOFT]: Estratégia de renovação do contrato de Cloud com redução de 3% do price list e ações de engenharia que reduziram o custo acumulado em R$2MM/2024\n\n[Operações de TI]: Operações de sistemas e infra estáveis, atendimento a 678 incidentes com SLA de 99,7% e zero perda de volume/financeira pelo negócio. \n\n\n\nPontos de atenção:\n\n[GPTW]: Elaborado o plano de ação do time SAP visando endereçar as dores da pesquisa que justificam um resultado ruim. O RH está diretamente envolvido. O plano de carreira e trabalho hibrido/presencial fora os itens de reduziram a nota da pesquisa.\n\n[FLINK]: atraso do projeto estimado em 1 mês em decorrência do processo decisório sobre cenários de negócio: Faturamento As-Is vs BPO. Reunião com os GGs será agendada para deliberação.\nSíntese do mês | Gerência de Operação e plataformas digitais\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nEntregas significativas no mês: N/A\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nResponsáveis: André Braz\nStatus:  Atualizado"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Novembro",
     "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": "Juliano Gomes",
     "texto": "Responsável: Juliano Gomes\n\nStatus:  Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nSíntese do mês | Gerência de Segurança da Informação\nEntregas significativas no mês: \nImplantação de Gestão de Acessos (AD) e Vulnerabilidades (Claroty) no TPSL;"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Novembro",
     "area": "GERÊNCIA CORPORATIVA DE DADOS",
     "responsavel": null,
     "texto": "Responsáveis: Cristiane Leão/Karla\n\nStatus:  Desatualizado\nSíntese do mês | Gerência Corporativa de Dados\nPontos positivos:\nJornada Data Driven: \nMDM: Geração da primeira versão do Golden Record Cliente em produção;\nMDM: Correção base de dados Localidade (fonte Correios) em produção para disponibilizar APIs consulta FLINK e NEE;\nMDM: Evolução desenho de arquitetura com os critérios de consumo das informações do MDM pelos sistemas foco;\nEntrega do catálogo de dados dos sistemas FLINK e FLOU\nPlanejamento da pesquisa de maturidade 2024 com EY ; Workshops de Governança de Dados, DW e Integração e Interoperabilidade.\nConteúdo Portal: Qualidade de Dados, Linhagem de dados: volume Realizado\nGestão centralizada de Arquiteto de Dados: Execução da primeira rodada de avaliação das propostas recebidas da requisição de compras. filtrando 4 dos 6 fornecedores para contratação.\nDados Mestres: Definição de hipóteses de propostas de AS IS para Mercadoria.\nDados Mestres: Redefinição dos trabalhos em Área Operacional\nAdvanced Analytics: \nProjeto MBC-VP.\nHabilitação do ambiente de desenvolvimento Synapse e Data Lake para o primeiro Engenheiro de Dados do MBC VP\nPrimeiro assunto priorizado para automatização  - Inspeção de Geometria. Primeira versão do MVA criado (Documento de arquitetura do projeto). Início do desenvolvimento dos primeiros pipelines. \nAnálise de Sentimento GPTW\nPrimeiras réplicas DW para Data Lake em produção\nCoE Serviços de Dados:\nCatalogação do piloto do Self Service de dados e apresentação para área de negócio (Aender – Planejamento Longo Prazo)\nSolução para interrupção automática de sessões de usuários no DW que estejam onerando indevidamente o ambiente\nServiço de validação de modelos de dados no escopo do Data Lake\nServiço de suporte para otimização de relatórios PBI ofensores\nPontos negativos: n/a\nPróximos Passos / Pontos de Atenção:\nJornada Data Driven: \nMDM: Construção dos processos de carga incremental do Salesforce através do consumo TIBCO;\nMDM: Deploy do Golden Record incremental em produção; ; Retroalimentação PNE; \nMDM: Construção APIs que vão alimentar o TIBCO para consumo dos sistemas FLINK, FLOU e SAP;\nEntrega do Catálogo de dados para outros assuntos para Self-service BI, PWB e DW.\nRealização da pesquisa de maturidade ( 04/11 – 15/11) ; Material de resultado da pesquisa\nTreinamento Data Stewards: Glossário de termos\nDados Mestres: Avaliação de impactos nos negócios da VLI da proposta se AS IS para o domínio de produto.\nDados Mestres: Desenho AS IS do domínio de áreas operacionais\nAdvanced Analytics: \nReplicador Data Lake para DW\nAmbiente produtivo MBC VP e esteira de delivery (Synapse e Data Lake)\nCoE Serviços de Dados: \nSelf Service: Teste integrado ; Estratégia de divulgação e ampliação ; Produção do Índice de evolução do Self-Service\nMelhoria da solução de rebuid de índices para intervir apenas em tabelas fragmentadas e redução de custo de processamento\nComunicação e suporte junto a áreas de negócio para regularização de gateways Power BI (conectividade) fora da governança\nPainés e indicadores de Governança de Dados para sistemas transacionais\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS: Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÂO EXISTE”\nEntregas significativas no mês: INFORMATICA | Linhagem de Dados de \"Volume Realizado\""
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Novembro",
     "area": "GERÊNCIA TRANSFORMAÇÃO DIGITAL FERROVIAS",
     "responsavel": "Guilherme Soares",
     "texto": "Responsável:\u000bGuilherme Soares\n\n\nStatus:\u000bAtualizado\nSíntese do mês | Gerência Transformação Digital Ferrovias\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nENTREGAS SIGINIFICATIVAS DO MÊS:\nDescrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÃO EXISTE”\nEntregas significativas no mês:\u000bMBC VP: Finalização da arquitetura de dados e especificação da automatização do envio de dados de geometria para a plataforma.\nControle Remoto Locomotivas: realização de 5 carregamentos utilizando o controle remoto com sucesso (mantendo a taxa próxima aos valores operacionais). 3 Js (tulha A) + 2 Cs (tulha B).\nOutros Slides\u000bGA TD Ferrovia"
   },
   {
-    "ano": 2025,
+    "ano": 2024,
     "mes": "Novembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL OP. PORTOS E TERMINAIS",
     "responsavel": null,
@@ -1248,9 +1241,9 @@
   {
     "ano": 2024,
     "mes": "Setembro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": "Juliano Gomes",
-    "texto": "Responsável: Juliano Gomes\n\nStatus:  Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”."
+    "texto": "Responsável: Juliano Gomes\n\nStatus:  Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1304,9 +1297,9 @@
   {
     "ano": 2024,
     "mes": "Agosto",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loic",
-    "texto": "-\nPontos positivos\n[LD FER] kick-off instalação controle remoto locos no TIUB + 5 primeiras instalações do kit MBC MR (5/34)\u000b\n[LD P&T] Speed: 100% dos navios operados no TPD, TMIB, TIPLAM e TPSL + AMZ Inteligente TPSL: conclusão das instalação e comissionamento dos robôs AMZ 07 do TPSL. Em homologação \u000b\n[LD COM] Assistente Virtual VLI via WhatsApp (fila de Vagões e Previsão de Ofertas de Vagões)\u000b\n[Operações Digitais] Processo de Crises: novo processo de comunicação, rastreabilidade e resposta aos incidentes.\nPontos negativos\n [LD CORP] S&OP Digital: novos desenvolvimentos paralizados no momento, e desmobilização do time de desenvolvedores da Enacom\u000b\n [SI] Identificadas 80 contas de e-mail vazadas (29 atuais) em portais externos (mercado livre, linkedin, netshoes, etc.), 7 perfis em redes sociais e 8 aplicativos não oficiais identificados como VLI na internet\u000b\n[Recorrência de problemas de intercambio FNS e descarga Tegram]:  recorrência de atraso na descarga por falha de recebimento de peso de clientes VLI pelo TEGRAM. Foi identificada falha no sistema GTS (TEGRAM), correção realizada na última semana e após correção não houve novos erros. .\nPontos de atenção/Próximos Passos\n [Data Driven] Entrega do desenho de AS IS do ciclo de vida de Dados Mestre de Produto\u000b\n [LD P&T] Speed Corporativo: concluir o processo de implantação no PECÉM, cobrindo 100% das operações marítimo portuárias da VLI\u000b\n [LD CORP] S&OP Digital: incerteza na entrega do trabalho pela Bain que prometeu nova data limite para entrega do escopo no dia 15/08.\u000b\n[LD CORP] fluxo de Valor RH: definição das soluções do plano de transformação e montagem do roadmap de transformação\n+\n!\nResponsável: Loic\n\nStatus: Desatualizado"
+    "texto": "-\nPontos positivos\n[LD FER] kick-off instalação controle remoto locos no TIUB + 5 primeiras instalações do kit MBC MR (5/34)\u000b\n[LD P&T] Speed: 100% dos navios operados no TPD, TMIB, TIPLAM e TPSL + AMZ Inteligente TPSL: conclusão das instalação e comissionamento dos robôs AMZ 07 do TPSL. Em homologação \u000b\n[LD COM] Assistente Virtual VLI via WhatsApp (fila de Vagões e Previsão de Ofertas de Vagões)\u000b\n[Operações Digitais] Processo de Crises: novo processo de comunicação, rastreabilidade e resposta aos incidentes.\nPontos negativos\n [LD CORP] S&OP Digital: novos desenvolvimentos paralizados no momento, e desmobilização do time de desenvolvedores da Enacom\u000b\n [SI] Identificadas 80 contas de e-mail vazadas (29 atuais) em portais externos (mercado livre, linkedin, netshoes, etc.), 7 perfis em redes sociais e 8 aplicativos não oficiais identificados como VLI na internet\u000b\n[Recorrência de problemas de intercambio FNS e descarga Tegram]:  recorrência de atraso na descarga por falha de recebimento de peso de clientes VLI pelo TEGRAM. Foi identificada falha no sistema GTS (TEGRAM), correção realizada na última semana e após correção não houve novos erros. .\nPontos de atenção/Próximos Passos\n [Data Driven] Entrega do desenho de AS IS do ciclo de vida de Dados Mestre de Produto\u000b\n [LD P&T] Speed Corporativo: concluir o processo de implantação no PECÉM, cobrindo 100% das operações marítimo portuárias da VLI\u000b\n [LD CORP] S&OP Digital: incerteza na entrega do trabalho pela Bain que prometeu nova data limite para entrega do escopo no dia 15/08.\u000b\n[LD CORP] fluxo de Valor RH: definição das soluções do plano de transformação e montagem do roadmap de transformação\n+\n!\nResponsável: Loic\n\nStatus: Desatualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1318,9 +1311,9 @@
   {
     "ano": 2024,
     "mes": "Agosto",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": "Juliano Gomes",
-    "texto": "Responsável: Juliano Gomes\n\nStatus:  Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”."
+    "texto": "Responsável: Juliano Gomes\n\nStatus:  Atualizado\nLembrete:\u000bAo atualizar, alterar a cor do texto para “preto”.\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1374,9 +1367,9 @@
   {
     "ano": 2024,
     "mes": "Julho",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loic",
-    "texto": "-\nPontos positivos\n[LM] Speed Corporativo: Implantação concluída em 4 dos 5 portos da VLI (TPD, TMIB, TIPLAM e TPSL), gerando entre abril e maio a redução total de 40h na operação de marítimas da VLI. (ganho de junho em validação)\u000b\n[LM] AMZ Inteligente TPSL: Conclusão das obras de instalação dos robôs e equipamentos de conectividade no AMZ 07 do TPSL. \n\n[Niemeyer] fluxo de Valor de RH: finalização do mapeamento com camada de motivação, capacidades,  de serviços de negócio, e montagem do vendor list de possíveis soluções digitais.\nPontos negativos\n[LM] Controle Remoto de Locomotivas: Primeiro equipamento chegou ao Brasil e caiu no canal vermelho da Receita Federal\u000b\n[LM] MBC VP: Sistema de Geometria: recebimento em fábrica em 2024 adiado. Fornecedor alega que mudança no modelo do vagão impactou prazo. Equipe da VP está em negociação junto ao fornecedor para reverter situação. Alto risco de impacto em meta 2024 e no escopo de 2025. Sistema de Imagem: caminhão segue com movimentação reduzida devido à clonagem do chassi\u000b\n[SIOP 2.0] baixa performance da equipe Accenture em AMS (+15% tickets YoY) & desenvolvimento (Módulo Expediçao Rodo e API Recinto) => plano de ação acordado com liderança ACN\nPontos de atenção/Próximos Passos\n PP LM: preparação de material para Conversa com o Presidente\u000b\n PP SAT: Acompanhar a contratação de serviço de dados para os dispositivos móveis e a implantação da funcionabilidade de acesso offline. Execução e avaliação dos testes de performance, stress e carga\u000b\n PP LM AMZ Inteligente – TPSL : início do setup dos equipamentos em julho e início da digitalização de estoque previsto para agosto/24.\u000b\nPP LM SPEED: concluir o processo de implantação no PECÉM, cobrindo 100% das operações marítimo portuárias da VLI.\n+\n!\nResponsável: Loic\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[LM] Speed Corporativo: Implantação concluída em 4 dos 5 portos da VLI (TPD, TMIB, TIPLAM e TPSL), gerando entre abril e maio a redução total de 40h na operação de marítimas da VLI. (ganho de junho em validação)\u000b\n[LM] AMZ Inteligente TPSL: Conclusão das obras de instalação dos robôs e equipamentos de conectividade no AMZ 07 do TPSL. \n\n[Niemeyer] fluxo de Valor de RH: finalização do mapeamento com camada de motivação, capacidades,  de serviços de negócio, e montagem do vendor list de possíveis soluções digitais.\nPontos negativos\n[LM] Controle Remoto de Locomotivas: Primeiro equipamento chegou ao Brasil e caiu no canal vermelho da Receita Federal\u000b\n[LM] MBC VP: Sistema de Geometria: recebimento em fábrica em 2024 adiado. Fornecedor alega que mudança no modelo do vagão impactou prazo. Equipe da VP está em negociação junto ao fornecedor para reverter situação. Alto risco de impacto em meta 2024 e no escopo de 2025. Sistema de Imagem: caminhão segue com movimentação reduzida devido à clonagem do chassi\u000b\n[SIOP 2.0] baixa performance da equipe Accenture em AMS (+15% tickets YoY) & desenvolvimento (Módulo Expediçao Rodo e API Recinto) => plano de ação acordado com liderança ACN\nPontos de atenção/Próximos Passos\n PP LM: preparação de material para Conversa com o Presidente\u000b\n PP SAT: Acompanhar a contratação de serviço de dados para os dispositivos móveis e a implantação da funcionabilidade de acesso offline. Execução e avaliação dos testes de performance, stress e carga\u000b\n PP LM AMZ Inteligente – TPSL : início do setup dos equipamentos em julho e início da digitalização de estoque previsto para agosto/24.\u000b\nPP LM SPEED: concluir o processo de implantação no PECÉM, cobrindo 100% das operações marítimo portuárias da VLI.\n+\n!\nResponsável: Loic\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1388,9 +1381,9 @@
   {
     "ano": 2024,
     "mes": "Julho",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1444,9 +1437,9 @@
   {
     "ano": 2024,
     "mes": "Junho",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loic",
-    "texto": "-\nPontos positivos\n[Inovação] BR Agritest – entrega fase 1 em São Carlos com 85% de precisão (Dentro do previsto)\u000b\n[Linha Mestra] Otimização dos tombadores TIUB: ganho Real 2,50MM x Orçado 2,07MM.\u000b\n[SI] SIEM Trato no QRadar (SOC Redbelt passa a monitorar o ambiente),  Table Top Brookfield\u000b\n[Niemeyer] Fluxo de Valor de Segurança: Finalização camada de motivação e capacidades, e mapeamento de serviços de negócio.\nPontos negativos\n[SI] Estamos desatualizados nas versões de Firewalls O FG-1101E (7.0 é a nossa atual) está entrando em processo de \"end of engineering support\" a partir de maio.\u000b\n[SI] Redesenho de Perfis/SOD: O atraso na reconstrução dos perfis se deve a não conclusão dos testes principalmente da área de manutenção. \n\n [LD CORP] Novo GED: Paralização do projeto devido a baixa capacity de Logística Digital para condução do projeto.\n\n [Dados VALE]: Problemas com integrações, nível de serviço para  sustentação da integração com a VALE.\nPontos de atenção/Próximos Passos\n P.P. Linha Mestra: Gestão de mudanças na execução dos projetos 2024 e refinar ganhos das iniciativas.\n\n P.A. Migração de bases FLOU: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do FLOU. \u000b\n P.A. CI: Necessidade de redução do time pela metade devido à redução de orçamento para pagamento à Bain.\u000b\nP.A. Stratws: Proposta muito alta do fornecedor para implantação do módulo de metas.\n\n P.A. PV e Jetsons: Renovação do contrato IOASYS será por contratação direta.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loic\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[Inovação] BR Agritest – entrega fase 1 em São Carlos com 85% de precisão (Dentro do previsto)\u000b\n[Linha Mestra] Otimização dos tombadores TIUB: ganho Real 2,50MM x Orçado 2,07MM.\u000b\n[SI] SIEM Trato no QRadar (SOC Redbelt passa a monitorar o ambiente),  Table Top Brookfield\u000b\n[Niemeyer] Fluxo de Valor de Segurança: Finalização camada de motivação e capacidades, e mapeamento de serviços de negócio.\nPontos negativos\n[SI] Estamos desatualizados nas versões de Firewalls O FG-1101E (7.0 é a nossa atual) está entrando em processo de \"end of engineering support\" a partir de maio.\u000b\n[SI] Redesenho de Perfis/SOD: O atraso na reconstrução dos perfis se deve a não conclusão dos testes principalmente da área de manutenção. \n\n [LD CORP] Novo GED: Paralização do projeto devido a baixa capacity de Logística Digital para condução do projeto.\n\n [Dados VALE]: Problemas com integrações, nível de serviço para  sustentação da integração com a VALE.\nPontos de atenção/Próximos Passos\n P.P. Linha Mestra: Gestão de mudanças na execução dos projetos 2024 e refinar ganhos das iniciativas.\n\n P.A. Migração de bases FLOU: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do FLOU. \u000b\n P.A. CI: Necessidade de redução do time pela metade devido à redução de orçamento para pagamento à Bain.\u000b\nP.A. Stratws: Proposta muito alta do fornecedor para implantação do módulo de metas.\n\n P.A. PV e Jetsons: Renovação do contrato IOASYS será por contratação direta.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loic\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1458,9 +1451,9 @@
   {
     "ano": 2024,
     "mes": "Junho",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1514,9 +1507,9 @@
   {
     "ano": 2024,
     "mes": "Maio",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loic",
-    "texto": "-\nPontos positivos\n[Linha Mestra] Speed: Go live TPD e TMIB em abril , antecipando a geração de ganhos prevista para Junho. (validação até 10/05) \n\n[Segurança operacional]: alocação recurso full time para aceleração do fluxo de valor (Niemeyer) e roadmap \n\n5o Edição do Empreendedores Inova VLI / Início da POC Manufatura Aditiva / Início da POC APUC / Trilha Digital e Inovação\n\n Redução ambiente INFRA SIACON em 50% com previsão de desligar totalmente o serviço em Agosto\nPontos negativos\n[Orçamento/GMG] solicitação de 80 licenças office para colaboradores novos/ mudança função e 135 celulares/chips sem orçamento\n\n [SAP] auditoria licenças SAP em Junho com risco de acesso indireto 66 usuários SAT que não possuem licenciamento. Assunto será discutido com o GG e líder SAT em reunião no dia 16/05.\n\n [SIOP] Módulo Expedição (eliminação SIACON): novo ETA sinalizado por ACN / Integração Balança (Toledo) – Nova alteração de escopo por parte da Toledo nas soluções SPF e Guardian\nPontos de atenção/Próximos Passos\n [Fire Drill -  Table Top Brookfield]: teste de mesa no dia 14 de Maio, cujo objetivo é demonstrar a resposta a um incidente de ataque de ramsonware na VLI.\u000b\n [S&OP] Tomada de decisão de seguimento com Enacom ou Bain.\u000b\n [Rastreamento vagões CN]: Recebimento dos materiais. Acompanhamento da RC da infra. Finalizar tagueamento em toda a frota FNS. Integração dos sistemas com a torre de monitoramento e instalação das antenas em campo.\n\n  [Inovação] Contratação Playstudio / 1o Teste da Agritest\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loic\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[Linha Mestra] Speed: Go live TPD e TMIB em abril , antecipando a geração de ganhos prevista para Junho. (validação até 10/05) \n\n[Segurança operacional]: alocação recurso full time para aceleração do fluxo de valor (Niemeyer) e roadmap \n\n5o Edição do Empreendedores Inova VLI / Início da POC Manufatura Aditiva / Início da POC APUC / Trilha Digital e Inovação\n\n Redução ambiente INFRA SIACON em 50% com previsão de desligar totalmente o serviço em Agosto\nPontos negativos\n[Orçamento/GMG] solicitação de 80 licenças office para colaboradores novos/ mudança função e 135 celulares/chips sem orçamento\n\n [SAP] auditoria licenças SAP em Junho com risco de acesso indireto 66 usuários SAT que não possuem licenciamento. Assunto será discutido com o GG e líder SAT em reunião no dia 16/05.\n\n [SIOP] Módulo Expedição (eliminação SIACON): novo ETA sinalizado por ACN / Integração Balança (Toledo) – Nova alteração de escopo por parte da Toledo nas soluções SPF e Guardian\nPontos de atenção/Próximos Passos\n [Fire Drill -  Table Top Brookfield]: teste de mesa no dia 14 de Maio, cujo objetivo é demonstrar a resposta a um incidente de ataque de ramsonware na VLI.\u000b\n [S&OP] Tomada de decisão de seguimento com Enacom ou Bain.\u000b\n [Rastreamento vagões CN]: Recebimento dos materiais. Acompanhamento da RC da infra. Finalizar tagueamento em toda a frota FNS. Integração dos sistemas com a torre de monitoramento e instalação das antenas em campo.\n\n  [Inovação] Contratação Playstudio / 1o Teste da Agritest\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loic\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1528,9 +1521,9 @@
   {
     "ano": 2024,
     "mes": "Maio",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1584,9 +1577,9 @@
   {
     "ano": 2024,
     "mes": "Abril",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "André",
-    "texto": "-\nPontos positivos\n[Vênus]:Visitas realizadas em 15 sites para negociação com a VALE dos termos de tecnologia e verificação da infraestrutura local.\n\n[Inovação]: Execução da POC APU: Tecnologia que possibilita a substituição do motor principal das locomotivas durante períodos de inatividade, por Etanol. \n\n[Rastreabilidade vagões na CN]: Antecipação da instalação das novas tags de RFID para vagões. Serão 3000 vagões a serem concluídos até Ago/24\nPontos negativos\nLinha Mestra - AMZ Inteligente e Pátio de futuro: Novo atraso na conclusão das negociações comerciais com o fornecedor. Nova previsão de suprimentos para 10/04 \n\n [SI] Defesa de Perímetro e Segurança em Redes: estamos desatualizados nas versões de Firewalls recomendadas pelo fabricante sendo necessário a interrupção programada do ambiente para correção\n\n [CRM e Torre de Controle] Problema de qualidade do produto – reunião Ana Borges e Leo em SP com a Sales Force para expor os problemas em nível executivo.\nPontos de atenção/Próximos Passos\n [SI] Vulnerabilidade crítica da VPN SSL que demandará atualização de nossos Firewalls\n\n [Fire Drill -  Table Top Brookfield]: em planejamento teste de mesa a ser realizado no dia 30 abril, cujo objetivo é demonstrar a resposta a um incidente de ataque de ramsonware na VLI   \n\n[Governança de projetos] reforçar a disciplina visão acompanhamento executivo e aderência ao orçamentos Vs ganhos.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: André\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[Vênus]:Visitas realizadas em 15 sites para negociação com a VALE dos termos de tecnologia e verificação da infraestrutura local.\n\n[Inovação]: Execução da POC APU: Tecnologia que possibilita a substituição do motor principal das locomotivas durante períodos de inatividade, por Etanol. \n\n[Rastreabilidade vagões na CN]: Antecipação da instalação das novas tags de RFID para vagões. Serão 3000 vagões a serem concluídos até Ago/24\nPontos negativos\nLinha Mestra - AMZ Inteligente e Pátio de futuro: Novo atraso na conclusão das negociações comerciais com o fornecedor. Nova previsão de suprimentos para 10/04 \n\n [SI] Defesa de Perímetro e Segurança em Redes: estamos desatualizados nas versões de Firewalls recomendadas pelo fabricante sendo necessário a interrupção programada do ambiente para correção\n\n [CRM e Torre de Controle] Problema de qualidade do produto – reunião Ana Borges e Leo em SP com a Sales Force para expor os problemas em nível executivo.\nPontos de atenção/Próximos Passos\n [SI] Vulnerabilidade crítica da VPN SSL que demandará atualização de nossos Firewalls\n\n [Fire Drill -  Table Top Brookfield]: em planejamento teste de mesa a ser realizado no dia 30 abril, cujo objetivo é demonstrar a resposta a um incidente de ataque de ramsonware na VLI   \n\n[Governança de projetos] reforçar a disciplina visão acompanhamento executivo e aderência ao orçamentos Vs ganhos.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: André\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1598,9 +1591,9 @@
   {
     "ano": 2024,
     "mes": "Abril",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1654,9 +1647,9 @@
   {
     "ano": 2024,
     "mes": "Março",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loïc",
-    "texto": "-\nPontos positivos\n[SI]: finalizada a migração das aplicações do ISAM/IAM para o Verify Saas, eliminação 15 VMs com redução de custo ~R$300k aa Cloud\n\n[SI]: Implementação da solução Qualys de automatização de Patches (agentes) para servidores (Windows 100% implantado e Linux 31%).\n\n[SIOP] redução de 60% das crises em comparação com fev/23 (2/5). Redução de 63% no acumulado Jan e Fev 2024 x 2023.\nPontos negativos\n  [SI] Gestão de Vulnerabilidades: queda em suas atualizações devido a configuração de ferramenta automática (Qualys) em andamento\n\n [SI] Defesa de Perímetro e Segurança em Redes: estamos desatualizados nas versões de Firewalls recomendadas pelo fabricante sendo necessário a interrupção programada do ambiente para correção\n\n [CRM e Torre de Controle] Problema de qualidade de serviço com o fornecedor Everymind – Notificação contratual enviada e plano de transição para novo parceiro (ACN) em andamento.\nPontos de atenção/Próximos Passos\n [SI] Gestão de Identidades: \u000bplanejamento junto a TA das novas unidades que serão implementadas AD em 2024\u000b\n [SI] Defesa de Perímetro e Segurança em Redes: Continuidade da correção de agentes proxy (Plano de ação e tratativas em ondas devido a criticidade) & simplificação das regras de firewall BH e Rua Helena \u000b\u000b[Linha Mestra] Gestão de mudanças na execução dos projetos 2024 e refinar ganhos das iniciativas. \n\n[FER/P&T] decisão SAT até final Março\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[SI]: finalizada a migração das aplicações do ISAM/IAM para o Verify Saas, eliminação 15 VMs com redução de custo ~R$300k aa Cloud\n\n[SI]: Implementação da solução Qualys de automatização de Patches (agentes) para servidores (Windows 100% implantado e Linux 31%).\n\n[SIOP] redução de 60% das crises em comparação com fev/23 (2/5). Redução de 63% no acumulado Jan e Fev 2024 x 2023.\nPontos negativos\n  [SI] Gestão de Vulnerabilidades: queda em suas atualizações devido a configuração de ferramenta automática (Qualys) em andamento\n\n [SI] Defesa de Perímetro e Segurança em Redes: estamos desatualizados nas versões de Firewalls recomendadas pelo fabricante sendo necessário a interrupção programada do ambiente para correção\n\n [CRM e Torre de Controle] Problema de qualidade de serviço com o fornecedor Everymind – Notificação contratual enviada e plano de transição para novo parceiro (ACN) em andamento.\nPontos de atenção/Próximos Passos\n [SI] Gestão de Identidades: \u000bplanejamento junto a TA das novas unidades que serão implementadas AD em 2024\u000b\n [SI] Defesa de Perímetro e Segurança em Redes: Continuidade da correção de agentes proxy (Plano de ação e tratativas em ondas devido a criticidade) & simplificação das regras de firewall BH e Rua Helena \u000b\u000b[Linha Mestra] Gestão de mudanças na execução dos projetos 2024 e refinar ganhos das iniciativas. \n\n[FER/P&T] decisão SAT até final Março\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1668,9 +1661,9 @@
   {
     "ano": 2024,
     "mes": "Março",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1724,9 +1717,9 @@
   {
     "ano": 2024,
     "mes": "Fevereiro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loïc",
-    "texto": "-\nPontos positivos\n[Rally da Safra]: presença (gemba) nos terminais e portos dos corredores CS, CL e CN para entrega das ações priorizadas pelas operações. \n\n[Conectividade/Redes]: expansão de Wifi para Eldorado e Divinópolis, implantação do 4G VIVO para TIPLAM, adequações em Paulínia e oficina de ribeirão para estabilização da rede. \n\n[SIOP] Jan/24 redução de 30% do número de incidentes YoY / handover Accenture  desmob. 64% dos 14 profissionais Ivory. (faltam API Recintos e Júpiter / ETA Maio 24)\nPontos negativos\n PCM do Futuro: Devolução referente finalização contrato OKTO junto ao jurídico VLI e fornecedor (Carta finalização contratual).\n\n SAT: Definição referente ao roll out SAT para VLI. Reunião junto ao fornecedor para tratar performance.\n\n [105] Gerdau declinou parceria com VLI2sea devido “ao baixo nível de serviço na ferrovia”\nPontos de atenção/Próximos Passos\n[Data Driven] construção de plano de trabalho detalhado com entregas e datas\n\n [Smart Sales] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Salesforce – “Plan & Design”\n\n [105] Definição futuro VLI2sea / contratação PlayStudio\u000b \n Prêmio Inovação Valor Economico\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: atualizado"
+    "texto": "-\nPontos positivos\n[Rally da Safra]: presença (gemba) nos terminais e portos dos corredores CS, CL e CN para entrega das ações priorizadas pelas operações. \n\n[Conectividade/Redes]: expansão de Wifi para Eldorado e Divinópolis, implantação do 4G VIVO para TIPLAM, adequações em Paulínia e oficina de ribeirão para estabilização da rede. \n\n[SIOP] Jan/24 redução de 30% do número de incidentes YoY / handover Accenture  desmob. 64% dos 14 profissionais Ivory. (faltam API Recintos e Júpiter / ETA Maio 24)\nPontos negativos\n PCM do Futuro: Devolução referente finalização contrato OKTO junto ao jurídico VLI e fornecedor (Carta finalização contratual).\n\n SAT: Definição referente ao roll out SAT para VLI. Reunião junto ao fornecedor para tratar performance.\n\n [105] Gerdau declinou parceria com VLI2sea devido “ao baixo nível de serviço na ferrovia”\nPontos de atenção/Próximos Passos\n[Data Driven] construção de plano de trabalho detalhado com entregas e datas\n\n [Smart Sales] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Salesforce – “Plan & Design”\n\n [105] Definição futuro VLI2sea / contratação PlayStudio\u000b \n Prêmio Inovação Valor Economico\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1738,9 +1731,9 @@
   {
     "ano": 2024,
     "mes": "Fevereiro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1794,9 +1787,9 @@
   {
     "ano": 2024,
     "mes": "Janeiro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loïc",
-    "texto": "-\nPontos positivos\n[Modernização TISL]: wifi 6 no corporativo e wifi industrial no pátio de produtos de clientes e galpão, novas fibras e ampliação do backbone no site\u000b \n[Data Driven] suíte de ferramentas de governança de dados instalada e disponibilizada para uso; início do acesso às bases de dados de cliente utilizando a ferramenta IDMC\n\n[CoE RPA] consolidação dos ganhos de 2023, totalizando \u000bR$ 540k em ganhos de produtividade gerados pelas automações.\nPontos negativos\n[CRM & Smart Sales] mudanças no time e falta de representatividade das áreas de negócio como responsável pelas soluções digitais. Fortalecer os papéis e responsabilidades de PMs, POs, Normativos, Key Users e Heavy Users.\u000b \n[LM FER MBC VP]: Infraestrutura/Telecom: equipamentos com entrega para 2024 (orçamento para pagamento estava previsto para 2023).\n\n[P&T – Proteção à vida]: falta de participação de SS e resistência supervisão Tiplam. Reunião marcada em 15/2 com lideranças para definir plano.\nPontos de atenção/Próximos Passos\n[PP Cyber] Patch Management (inTune)\u000b\n[PP Cyber] contin. migração  aplicações do ISAM para Verify Saas (10 de 13)\u000b\n[PP Cyber] contin. da correção de agentes proxy (forcepoint) (em ondas devido à criticidade) / contin.  simplificação regras firewall BH e Rua Helena (fortinet) (ETA 08/03)\u000b\n[PP LM FER] Pátio do Futuro: Estudos de infra necessária no TIUB e aquisição e implantação do 1º controle remoto no TIUB. Elaboração da especificação técnica para RC de aquisição de 4 controles remotos.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[Modernização TISL]: wifi 6 no corporativo e wifi industrial no pátio de produtos de clientes e galpão, novas fibras e ampliação do backbone no site\u000b \n[Data Driven] suíte de ferramentas de governança de dados instalada e disponibilizada para uso; início do acesso às bases de dados de cliente utilizando a ferramenta IDMC\n\n[CoE RPA] consolidação dos ganhos de 2023, totalizando \u000bR$ 540k em ganhos de produtividade gerados pelas automações.\nPontos negativos\n[CRM & Smart Sales] mudanças no time e falta de representatividade das áreas de negócio como responsável pelas soluções digitais. Fortalecer os papéis e responsabilidades de PMs, POs, Normativos, Key Users e Heavy Users.\u000b \n[LM FER MBC VP]: Infraestrutura/Telecom: equipamentos com entrega para 2024 (orçamento para pagamento estava previsto para 2023).\n\n[P&T – Proteção à vida]: falta de participação de SS e resistência supervisão Tiplam. Reunião marcada em 15/2 com lideranças para definir plano.\nPontos de atenção/Próximos Passos\n[PP Cyber] Patch Management (inTune)\u000b\n[PP Cyber] contin. migração  aplicações do ISAM para Verify Saas (10 de 13)\u000b\n[PP Cyber] contin. da correção de agentes proxy (forcepoint) (em ondas devido à criticidade) / contin.  simplificação regras firewall BH e Rua Helena (fortinet) (ETA 08/03)\u000b\n[PP LM FER] Pátio do Futuro: Estudos de infra necessária no TIUB e aquisição e implantação do 1º controle remoto no TIUB. Elaboração da especificação técnica para RC de aquisição de 4 controles remotos.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2024,
@@ -1808,9 +1801,9 @@
   {
     "ano": 2024,
     "mes": "Janeiro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2024,
@@ -1862,196 +1855,196 @@
     "texto": "Pontos positivos:\nSíntese do mês| Gerência do Trato\nPontos negativos:\nPróximos Passos/ Pontos de Atenção:\nResponsáveis: Cristiane Leão\n\nStatus:   Desatualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": "Loïc",
-    "texto": "-\nPontos positivos\n[Cyber]: integração SSO & SAP (1200 usuários)\u000b\n[LD P&T] Redução de 52% das crises YTD (73  35 crises) | Suporte aos usuários: Redução de 1.531 (28%) chamados/incidentes YTD (5.486  3.955) \n\n[Mamute CX] Torre de Controle: Ativação de 100% das Torres de Controles (Centro Leste, Centro Sudeste, Centro Norte, Minas Rio, Minas Bahia aconteceu em 08/12). Segue operação assistida, estabilização, sustentação e melhorias\nPontos negativos\n [Cyber] projeto SOD/Revisão de Perfis: risco de atraso na conclusão do SOD (de Controles Internos) devido a mobilização das áreas de negócio (ações de Change em andamento com Comunicação)\n\n [LD FER]: PCM do Futuro: Segundo avaliação do PCM, solução OKTO não atende. Negociação de distrato em andamento junto ao jurídico VLI e fornecedor. \n\n [Integrações Vale] os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale\nPontos de atenção/Próximos Passos\n PP [LD P&T] Abertura de Vagões: aguardando proposta técnica e orçamento de 03 empresas de engenharia e robótica que realizaram visita técnica. Agendada para jan/24 a visita da Pollux (Braço de automação e robótica da Accenture). Propostas devem ser entregues em jan e fev/24.\n\n [Dados] Instalar e disponibilizar as ferramentas da suíte de Governança de Dados adquirida (Informatica); \n\n [Cyber] Riscos, Compliance e Conscientização: discussão draft auditoria externa/2023 e desdobramento junto aos times + Disparo da próxima campanha de Engenharia Social\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: Atualizado"
+    "texto": "-\nPontos positivos\n[Cyber]: integração SSO & SAP (1200 usuários)\u000b\n[LD P&T] Redução de 52% das crises YTD (73  35 crises) | Suporte aos usuários: Redução de 1.531 (28%) chamados/incidentes YTD (5.486  3.955) \n\n[Mamute CX] Torre de Controle: Ativação de 100% das Torres de Controles (Centro Leste, Centro Sudeste, Centro Norte, Minas Rio, Minas Bahia aconteceu em 08/12). Segue operação assistida, estabilização, sustentação e melhorias\nPontos negativos\n [Cyber] projeto SOD/Revisão de Perfis: risco de atraso na conclusão do SOD (de Controles Internos) devido a mobilização das áreas de negócio (ações de Change em andamento com Comunicação)\n\n [LD FER]: PCM do Futuro: Segundo avaliação do PCM, solução OKTO não atende. Negociação de distrato em andamento junto ao jurídico VLI e fornecedor. \n\n [Integrações Vale] os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale\nPontos de atenção/Próximos Passos\n PP [LD P&T] Abertura de Vagões: aguardando proposta técnica e orçamento de 03 empresas de engenharia e robótica que realizaram visita técnica. Agendada para jan/24 a visita da Pollux (Braço de automação e robótica da Accenture). Propostas devem ser entregues em jan e fev/24.\n\n [Dados] Instalar e disponibilizar as ferramentas da suíte de Governança de Dados adquirida (Informatica); \n\n [Cyber] Riscos, Compliance e Conscientização: discussão draft auditoria externa/2023 e desdobramento junto aos times + Disparo da próxima campanha de Engenharia Social\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nResponsável: Loïc\n\nStatus: Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE OPERAÇÃO E PLATAFORMAS DIGITAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\n[PESQUISA DE SATISFAÇÃO TILD]: Importante evolução nos quesitos de celulares (65%==>81%), computadores (72%-->77%), manutenção elevada da satisfação com Teams e videoconferência.\n\n[ITOM CMDB]: concluída importante etapa de Discovery dos ativos VLI. Já está disponível visão licenciamentos, sistemas, integrações, bancos de dados e majorie incidente \n\n[Modernização TISL]: expansão de wifi 6 no corporativo e wifi industrial no pátio de produtos de clientes e galpão, novas fibras e ampliação do backbone no site, habilidade iniciativas digitais para industria 4.0 e maior estabilidade das operações. \n\nPontos negativos:\n[PESQUISA DE SATISFAÇÃO TILD]: piora da satisfação em relação a rede corporativa 70%==>62% e piora nos indicadores de satisfação com logística digital. \n\n[Plano de estabilização SIOP]: paralização de ações para adoção de boas práticas de desenvolvimento e sustentação(devops), com risco de incidentes críticos com impacto ao processo rodo. Elevada incidência de acesso direto a base de dados sem contrapartida planejada; Ausência de cobertura de código para fragilidades de segurança e qualidade de código; Ações não requerem orçamento e podem ser executadas com time próprio.\n\nPontos atenção: \n[MOC 4.0 Requisito Legal]: Adequações dos sistemas da cadeia de faturamento Synchro e SAP para atendimento ao novo modelo de nota fiscal 4.0 a partir de 31/jan/2024. A VLI concluiu atualização do SAP com sucesso e está com 65% dos testes integrados do Synchro em andamento. Time fortemente pressionado por prazo e demandas não previstas (auditoria externa, ISO, etc); A VALE atrasou o início das adequações, com que é um risco a VLI sendo endereçado por contratos logísticos e faturamento.\nSíntese do mês| Gerência de Operação e plataformas digitais\nResponsáveis:  André Braz\n\nStatus:  Desatualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA CORPORATIVA DE DADOS",
     "responsavel": null,
     "texto": "Responsáveis:  Alexandre Loss\n\nStatus:  Atualizado\nSíntese do mês| Gerência Corporativa de Dados\nPontos positivos:\nJornada Data Driven: \nConcluída a avaliação de Maturidade em Dados DMBOK/DAMA 2023 com confirmação de evolução positiva: 0,77 em 2021  1,50 em 2023\nFinalização dos épicos de Definição de Data Stewards, Capacitação de Data Stewards e Arquitetura para Sistemas VLI Não Governados\nMinistrados treinamentos de qualidade de dados e de políticas e processos para os Data Stewards\nDiscoverys realizados e novos épicos iniciados em Q4\nDefinição de roadmap macro para instalação e disponibilização da suíte de ferramentas de governança de dados\nHigienização de acessos dos sistemas FLINK, FLOU e SICOF em produção trazendo mais segurança para o ambiente sem impacto para os projetos.\nNovo piloto de esteira de implantação de scripts de mudança de estrutura de banco de dados automatizada.\nInício dos trabalhos da arquitetura da dados corporativa no projeto de refatoração do SIOP (Programação Rodoviária)\nFinalização de duas metas 2023 envolvendo catálogo e qualidade de dados com a geração de evidências no sistema AGIR\nInício dos épicos de Normativo e Regramento de Dados Mestres e Jornada do Cliente\nAdvanced Analytics: \nAmbientes Machine Learning (até PRD) para os projetos Centro de Inteligência e Preditivo de Turnover\nAmbiente DEV Synapse/Data Lake para o projeto Manutenção Baseada em Condição (MBC)\nTemplate Synapse para preparação de dados\n\n\nPontos negativos:\nNada relevante\n\n\nPróximos Passos / Pontos de Atenção:\nJornada Data Driven: \nInstalar e disponibilizar as ferramentas da suíte de Governança de Dados adquirida (Informatica); \nAdequar o épico de qualidade de dados orientando-o para a utilização da suíte de GD em Q1 de 2024.\nInício do Discovery para implementação do catálogo de dados na ferramenta da Informática.\nDesenho de solução para dados de clientes validado pela arquitetura\nAdvanced Analytics: \nSoluções produtivas de predição do Centro de Inteligência e do Preditivo de Turnover 100% operante no novo ambiente Machine Learning governado\nTemplates Synapse especializados para ingestão Oracle e SQL Server\nCoE Serviços de Dados: \nRollout da solução de deploy automatização para criação de Job SSIS e Execução de Cargas no ambiente de Analytics para todos os times;\nPiloto da solução de autonomia para executar/interromper Job SSIS em produção para os times de projeto"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA TRANSFORMAÇÃO DIGITAL FERROVIAS",
     "responsavel": "Guilherme Soares",
     "texto": "Pontos positivos:\n[Mamute] Linha Mestra: Validação das fichas de meta compartilhadas com as engenharias.\n[Mamute] Preditiva 4.0: Em processo de compra de 1 kit Morgaoo para instalação em uma locomotiva e 1 kit Morgaoo para instalação em uma máquina de via. Orçamento aprovado para instalação em 34 locomotivas em 2024 e BP para as outras 46 locomotivas em 2025.\nMonitoramento de temperatura de rodeiros: Dormente instrumentado falhou ao tentar realizar a leitura de eixos, e voltou ao laboratório. Foi realizado novo teste com sucesso em Ribeirão Preto na última semana de novembro.\nSAT: Concluída implantação no TMIB e realizado planejamento do roll out pros demais portos e terminais.\n[Mamute] Pátio do Futuro: DocTec sobre PoC Controle Remoto enviado ao César Toniolo para avaliação.\nPontos negativos:\n[Mamute] MBC VP: Infraestrutura/Telecom: Projeto com necessidade de pagar equipamentos ainda em 2023 mas fornecedor sem perspectiva de cumprir entrega. Plataforma de Análise de Dados de Via: Pendente assinatura de contrato para aquisição.\nPCM do Futuro: Segundo avaliação do PCM, solução OKTO não atende. Negociação de distrato em andamento junto ao jurídico VLI e fornecedor.\nPróximos Passos / Pontos de Atenção:\nP.P. [Mamute] Linha Mestra: Confecção das fichas de meta compartilhadas com as engenharias dada priorização das iniciativas com orçamento.\nP.P. [Mamute] Pátio do Futuro: Apresentação do resultado da PoC para Fabrício Rezende dia 21.dez. Abertura das PEPs para aquisições 2024.\nP.P. [Mamute] MBC VP: Geral: Instalação de equipamentos de telecom para extração dos dados dos equipamentos estacionados em Divinópolis.\nP.P. [Mamute] Preditiva 4.0: Concluir documento sobre a avaliação dos kits testados na PoC e enviar para aprovação.\nP.P. Monitoramento de temperatura de rodeiros: Dormente instrumentado será reinstalado em Estiva Jerbi em 18.dez.\nP.P. SAT: Roll out pros demais portos e terminais em 2024. Configurar Elastic e realizar análise de performance da ferramenta.\nP.A. SAT: Necessário realizar análise de performance da ferramenta.\nP.A. Acionamento automático de maquinistas: Pendente área avaliar orçamento recebido.\nResponsável:\u000bGuilherme Soares\n\n\nStatus:\u000batualizado\nSíntese do mês | Gerência Transformação Digital Ferrovias\nSlide Linha Mestra\nAtualizado\n(favor não apagar este link)\nSlide\u000bOrçamento Linha Mestra\n(favor não apagar este link)"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL OP.  PORTOS E TERMINAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\nLogistica Digital: Duas iniciativas de Pontos e Terminais ficaram entre as 3 finalistas (150 participantes) do Prêmio INOVATIVOS 2023 no evento Innovation Xperience Conference 2023 (Iniciativas: Speed e Meteorologia Portuária); \nSuite SIOP: Redução de 52% das crises em comparação a 2022. (jan-nov 2022: 73 x 35 crises de 2023) | Suporte aos usuários: Redução de 1.531 (28%) chamados/incidentes no ano de 2023 devido as ações de melhoria estrutural da aplicação e do suporte aos usuários. Acumulado de janeiro à novembro 2022: 5.486 x 3.955 de 2023. \nSIOP Integração TPD X VALE: Entrega em produção da API conforme cronograma acordado com a TA e a Operação do TPD. Objetivo: Mitigação Risco Operacional por não atendimento a requisitos legais.\nHandover SIOP – ACCENTURE: Iniciado o KT (Knowledge transfer da Ivory para o squad Accenture). Conclusão de 100% do plano de transição previsto para maio/2023.\n\nPontos negativos:\nSUITE SIOP - Porto: Impactos no prazo de entrega do 1º pacote da API Recintos (05/12)  por falhas no ambiente de homologação.\nMeta equipe Suite SIOP: Meta de entrega do SIOP EDGE e CLOUD não atingida em 2023 devido a indefinições arquiteturais e de ambiente.\nNovo WMS (INFOR): Atraso no desenvolvimento por parte da Arcelor postergou a entrada em produção para janeiro de 2024.\nSAT P&T:  Ocorreram instabilidades Da ferramenta impactando a operação do TMIB. Fornecedor atuando nas melhorias para mitigar riscos para os demais sites previstos no rollout.\n\nPróximos Passos / Pontos de Atenção:\nP.P. Suíte SIOP: Elaborar plano de atendimento local para o pico de Safra. – jan/24\nP.A. SIOP Porto: Planejamento das correções e novas implementações na API Recintos em linha. Conclusão prevista para maio/2024;\nP.P. WMS TISL: Concluir a homologação da integração com a APERAM, prevista para o dia 29/12.\nP.P. Abertura de Vagões: Aguardando proposta técnica e orçamento de 03 empresas de engenharia e robótica que realizaram visita técnica. Agendado para jan/24 a visita da Pollux (Braço de automação e robótica da Accenture). Propostas devem ser entregues em jan e fev/24.\nSíntese do mês| Gerência de Trans. Digital Op.  Portos e Terminais\nResponsáveis:  Luciano Pereira\n\nStatus:  Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL PLANEJAMENTO E CORPORATIVO",
     "responsavel": null,
     "texto": "Pontos positivos:\nDW Suprimentos: Finalização das entregas do DW Suprimentos.\nStratws +Valor: Finalização do projeto de implantação do módulo de iniciativas do Stratws com encerramento do projeto.\nMegabuyer: Conclusão dos desenvolvimentos do novo Megabuyer e homologação da solução.\nSistema Bain: Mobilização de equipe TILD para projeto com 1 representante de cada área\n\nPontos negativos:\nGestão 4.0: Atraso na integração para provisionamento de usuários.\nAgir: Atraso na integração do Agir com IAM. Possível impacto na apuração de metas para PLR.\n\nPróximos Passos / Pontos de Atenção:\nP.P. S&OP Digital: Finalização da homologação da solução completa para todos os corredores.\nP.P. Megabuyer: Finalização pentest e go live da solução. \nP.P. DW Financeiro: Conclusão de todos os desenvolvimentos e homologação.\nP.A. Centro de Inteligência, Gestão 4.0 e DWs: Conclusão do processo concorrencial de novo fornecedor e necessidade de troca de fornecedor.\nP.A. Centro de Inteligência: Não aprovação da PDD gerando possível desmobilização das equipes de desenvolvimento.\nSíntese do mês| Gerência de Trans. Digital Planejamento e Corporativo\nResponsáveis: Paulo Moreira\n\nStatus:   Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL COMERCIAL E CLIENTE",
     "responsavel": null,
     "texto": "Pontos positivos:\n[Mamute CX] Torre de Controle: Controle de estadia Usiminas utilizando recursos da Torre de Controle – Sistema em uso pelo time de Operações Acessórias. Plano de rollout para demais clientes previsto para o primeiro semestre de 2024;\n[Mamute CX] Torre de Controle: Ativação de 100% das Torres de Controles (Centro Leste, Centro Sudeste, Centro Norte, Minas Rio, Minas Bahia aconteceu em 08/12). Segue operação assistida, estabilização, sustentação e melhorias;\n[Mamute Eficiência Comercial] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos Comerciai” envolvendo PV Digital, Jetsons e Netlex (ativação em 27/11).\n\nPontos negativos: \n[Mamute CX] Torre de Controle: Constantes problemas com as integrações de dados entre os sistemas Vale e VLI. Os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale.\n\nPróximos Passos / Pontos de Atenção:\nP.P.: [Mamute CX] Torre de Controle: Solução de gestão de estadia na Torre de Controle – planejamento rollout 2024 para os demais clientes / Segmentos;\nP.P.: [Mamute CX] CRM: Integração entre CRM e SAP com o objetivo de centralizar a criação e padronização dos dados de clientes granulares. Em testes integrados, Go Live replanejamento para (14/12  16/01/2024);\nP.P.: [Mamute CX] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Salesforce e Whatsapp (01/2024)\nP.P.: [Mamute CX] CRM: Concluído o vínculo dos Clientes Segmentação e Gestão no CRM e  Saneamento e padronização do dado do Cliente “Gestão” em 95% entre CRM e FLOU – (Conclusão em dez/23);\nP.P.: [Mamute CX] CRM e Torre de Controle: Estabelecer fluxo de sustentação e melhoria contínua 12/23\nP.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Salesforce – “Plan & Design” contratado com início em 30/10 –(conclusão 19/01/24  02/02/2024).\nSíntese do mês| Gerência de Trans. Digital Comercial e Cliente\nResponsáveis: Leonardo Figueiredo\n\nStatus:   atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": null,
     "responsavel": null,
     "texto": "Responsáveis: Leonardo Figueiredo\n\nStatus:   atualizado\n[Mamute Eficiência Comercial] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos” comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 27/11).\nRetornar"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Dezembro",
     "area": "GERÊNCIA DE INOVAÇÃO",
     "responsavel": null,
     "texto": "Pontos positivos:\nFinalização do Piloto DTI: Formação de PO\nAssinatura do contrato do projeto APU a Etanol \nInovação no Evento de Melhoria Continua \nEvolução Agritest \nMVP Sem C\n\n\n    Desaceleração Inova VLI Ventures e Seeds\nSíntese do mês| Gerência de Inovação\nPontos negativos:\nPróximos Passos/ Pontos de Atenção:\n\nPiloto Suzano: redução do consumo de diesel com utilização de hidrogênio\nResponsáveis: Fernanda Pires\n\nStatus:   Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[TIVIT]: concluída a migração de 100% dos serviços e ativos de TI VLI para cloud e DC Ascenty com sucesso\u000b\n[Cyber] Acessos em TA: Finalizado implementação gestão de acessos nas unidades do TIPLAM, TPD e a a revisão do AD do CCO\u000b\n[Mamute CX] Torre de Controle: Entrega da Torre de Controle no Corredor Centro Norte\nPontos negativos\n [Cyber] projeto SOD/Revisão de Perfis: risco de atraso na conclusão do SOD (de Controles Internos) devido a mobilização das áreas de negócio (ações de Change em andamento com Comunicação)\n\n [SAP]: Falha de backbone da operadora ORANGE causou indisponibilidade no SAP de 3 horas. Durante a crise, observou que havia falha de configuração da redundância (ainda na TIVIT), portanto, falha na contingencia. Plano de ação já implementado. \n\n [Integrações Vale] os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale.\nPontos de atenção/Próximos Passos\n PA [MOC 4.0 Requisito Legal]: Adequações dos sistemas da cadeia de faturamento Synchro e SAP para atendimento ao novo modelo de nota fiscal 4.0 a partir de 31/jan/2024. A VLI concluiu atualização do SAP com sucesso e está com 65% dos testes integrados do Synchro em andamento. A VALE atrasou o início das adequações, com que é um risco a VLI sendo endereçado por contratos logísticos e faturamento.\n\nPP: assessment maturidade dados 2023 baseado no DAMA (medir evolução)\n\n PA [P&T] SIOP Porto: planejamento das correções e novas implementações na API Recintos em linha. Conclusão prevista para maio/2024;\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n[TIVIT]: concluída a migração de 100% dos serviços e ativos de TI VLI para cloud e DC Ascenty com sucesso\u000b\n[Cyber] Acessos em TA: Finalizado implementação gestão de acessos nas unidades do TIPLAM, TPD e a a revisão do AD do CCO\u000b\n[Mamute CX] Torre de Controle: Entrega da Torre de Controle no Corredor Centro Norte\nPontos negativos\n [Cyber] projeto SOD/Revisão de Perfis: risco de atraso na conclusão do SOD (de Controles Internos) devido a mobilização das áreas de negócio (ações de Change em andamento com Comunicação)\n\n [SAP]: Falha de backbone da operadora ORANGE causou indisponibilidade no SAP de 3 horas. Durante a crise, observou que havia falha de configuração da redundância (ainda na TIVIT), portanto, falha na contingencia. Plano de ação já implementado. \n\n [Integrações Vale] os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale.\nPontos de atenção/Próximos Passos\n PA [MOC 4.0 Requisito Legal]: Adequações dos sistemas da cadeia de faturamento Synchro e SAP para atendimento ao novo modelo de nota fiscal 4.0 a partir de 31/jan/2024. A VLI concluiu atualização do SAP com sucesso e está com 65% dos testes integrados do Synchro em andamento. A VALE atrasou o início das adequações, com que é um risco a VLI sendo endereçado por contratos logísticos e faturamento.\n\nPP: assessment maturidade dados 2023 baseado no DAMA (medir evolução)\n\n PA [P&T] SIOP Porto: planejamento das correções e novas implementações na API Recintos em linha. Conclusão prevista para maio/2024;\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA DE OPERAÇÃO E PLATAFORMAS DIGITAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\n[ENCERRAMENTO OPERAÇÕES TIVIT]: concluída a migração de 100% dos serviços e ativos de TI VLI para cloud e DC Ascenty com sucesso; Mitigação de risco TIVIT e modernização de infraestrutura e das aplicações concluída com sucesso.\n\n[ITOM CMDB]: concluída importante etapa de Discovery dos ativos VLI. Já está disponível visão licenciamentos, sistemas, integrações, bancos de dados e majorie incidente \n\n[Expansão WIFI 5]: expansão de wifi em 15 localidades da VLI, reutilizando antenas em excelente estado oriundas da sede BH, após o rollout o wifi 6. A nova cobertura já foi reconhecida durante o termômetro de satisfação TILD\n\nPontos negativos:\n[SAP]:Falha de backbone da operadora ORANGE causou indisponibilidade no SAP de 3 horas. Durante a crise, observou que havia falha de configuração da redundância (ainda na TIVIT), portanto, falha na contingencia. Plano de ação já implementado. \n\n[Plano de estabilização SIOP]: paralização de ações para adoção de boas práticas de desenvolvimento e sustentação(devops), com risco de incidentes críticos com impacto ao processo rodo. Elevada incidência de acesso direto a base de dados sem contrapartida planejada; Ausência de cobertura de código para fragilidades de segurança e qualidade de código; Ações não requerem orçamento e podem ser executadas com time próprio.\n\nPontos atenção: \n[MOC 4.0 Requisito Legal]: Adequações dos sistemas da cadeia de faturamento Synchro e SAP para atendimento ao novo modelo de nota fiscal 4.0 a partir de 31/jan/2024. A VLI concluiu atualização do SAP com sucesso e está com 65% dos testes integrados do Synchro em andamento. Time fortemente pressionado por prazo e demandas não previstas (auditoria externa, ISO, etc); A VALE atrasou o início das adequações, com que é um risco a VLI sendo endereçado por contratos logísticos e faturamento.\nSíntese do mês| Gerência de Operação e plataformas digitais\nResponsáveis:  André Braz\n\nStatus:  Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA CORPORATIVA DE DADOS",
     "responsavel": null,
     "texto": "Responsáveis:  Alexandre Loss\n\nStatus:  Atualizado\nSíntese do mês| Gerência Corporativa de Dados\nPontos positivos:\nJornada Data Driven: \nFinalização do MVP do MDM de Clientes com geração do profilling dos dados de cadastro de 8 sistemas fontes definidos (FLINK, Salesforce, PNE, Netlex, SIOP Administração, SIOP Portos, Conecta, SAP – Interface Pública).\nTodas as regras de qualidade de dados para o MVP do MDM Clientes validadas e aprovadas pelo Data Steward; \nInicio do Discovery do MDM de Clientes\nReposição rápida do especialista em MDM; \nConcluída aquisição da suíte de governança e gerenciamento de dados e realização do kick-off para instalação, com validação e pré-aprovação dos requisitos de segurança e arquitetura.\nPublicação de novos procedimentos (PRO): Modelagem de dados Preliminar e Modelagem de dados Física\nCapacitação básica dos Data Steward de Formação de Trens, Intercâmbio, Formalização e Faturamento.\nDiscussão e alinhamento sobre o dado mestre - Area Operacional\nDesdobramento para TILD sobre o início da atuação da Arquitetura de Dados Corporativa em sistemas não governados\nPiloto (SICOF) da esteira DevOps para implantação de DDL em andamento\nAdvanced Analytics: \nReposição de profissional com perfil Engenheiro de Dados retomando atividades desta frente\nProcessamento da solução de predição do Centro de Inteligência no novo ambiente de Machine Learning de DEV\nEntrega da esteira DevOps de Machine Learning dentro dos requisitos do time de DevOps VLI e boas práticas definidas pelo time da Microsoft\n\nPontos negativos:\nNão foi possível identificar o Data Steward do domínio de Expedição em função de gargalo de atividades\n\nPróximos Passos / Pontos de Atenção:\nJornada Data Driven: \nAvaliação de Maturidade em Dados DMBOK/DAMA 2023\nInstalar e disponibilizar as ferramentas da suite de governança de dados adquiridas; \nFinalização do Épico de Arquitetura para sistemas Internos (Sistemas não governados)\nDiscovey e início de  épicos de Q4.\nApresentação do profilling dos dados MVP para os responsáveis pelos sistemas : Conecta, Flink, SAP, PNE/NEE.\nGeração do roadmap do MDM de Clientes.\nAdvanced Analytics: \nAtualização e ampliação do roadmap\nEntrega dos templates de preparação/processamento de dados (aceleradores)\nAtivação da esteira devops até produção no ambiente Machine Learning do Centro de Inteligência\nCoE Serviços de Dados: \nRollout da solução de deploy automatização para criação de Job SSIS e Execução de Cargas no ambiente de Analytics para todos os times;\nPiloto da solução de autonomia para executar/interromper Job SSIS em produção para os times de projeto"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA TRANSFORMAÇÃO DIGITAL FERROVIAS",
     "responsavel": "Guilherme Soares",
     "texto": "Pontos positivos:\n[Mamute] Linha Mestra: Definido orçamento para projetos da Linha Mestra junto à Engenharia e com suporte da mesma.\n[Mamute] MBC VP: Equipamento de Imagem: Kick off da implantação com a Pavemetrics realizado no dia 27.out.2023. Sistema Autônomo de Geometria: Assinatura de contrato tripartite para aquisições do equipamento.\n[Mamute] Preditiva 4.0: Geral: Concluídas ambas as PoCs. Definido arquiteto de solução para evoluir as definições de arquitetura do projeto como parte do MBC MR. Morgaoo: segue como solução para toda a frota de DASH-9.\nMonitoramento de temperatura de rodeiros: A Tailored Resources finalizou a instalação do dormente instrumentado em Estiva Jerbi.\nSAT: Iniciada operação assistida da ferramenta integrada ao SAP em TIPN para P&T.\nPontos negativos:\n[Mamute] Linha Mestra: Repriorização projetos de acordo com o orçamento aprovado.\n[Mamute] Preditiva 4.0:  Ai4: não obteve sucesso nos testes realizados necessitando de novos testes para o caso de cobrir toda a frota restante.\n[Mamute] Pátio do Futuro: Atraso no fluxo de aprovação e muita desinformação e falta de padrão na aprovação.\nPCM do Futuro: Término do contrato com o fornecedor não sendo possível a continuidade da homologação da ferramenta. Fase de negociação e discussão das novas cláusulas contratuais para novo contrato.\nPróximos Passos / Pontos de Atenção:\nP.P. [Mamute] Pátio do Futuro: Defesa da PDD da temática Pátio do Futuro da Linha Mestra com escopo da iniciativa de Controle Remoto de Locomotivas para operações de carregamento e descarga no TIUB.\nP.P. [Mamute] MBC VP: Geral: Validação da base georreferenciada de curvas e tangentes.\nP.P. [Mamute] Preditiva 4.0: Morgaoo: Emitir a requisição de compra de mais 2 kits a serem instalados em locomotivas.\nP.P. Monitoramento de temperatura de rodeiros: Coleta de dados. Instalação do dormente instrumentado em ZRP.\nP.P. SAT: Iniciar em novembro a operação assistida no TMIB e avaliar continuidade da ferramenta na VLI. \nP.P. Acionamento automático de maquinistas: Avaliar orçamento recebido.\nP.A. SAT: Necessário realizar análise de performance da ferramenta.\nResponsável:\u000bGuilherme Soares\n\n\nStatus:\u000bAtualizado\nSíntese do mês | Gerência Transformação Digital Ferrovias\nSlide Linha Mestra\nAtualizado\n(favor não apagar este link)\nSlide\u000bOrçamento Linha Mestra\n(favor não apagar este link)"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL OP.  PORTOS E TERMINAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\nSuite SIOP: Setembro e outubro sem registro de crise operacionais com causa-raiz ligada a camada de sistemas do SIOP. No ano houve redução de 53% nas crises em comparação a 2022. (jan-out 2022: 66 crises x 2023:31 crises).\nSuite SIOP: Suporte aos usuários – Redução de 18% nos incidentes devido a correções de bugs e Débitos Técnicos e redução de 38% nas requisições funcionais. Redução total de 26,85% de todos os chamados em comparação a 2022 (acumulado jan-out: 5.046 x 3.691). \nSAT - Mobilidade na Manutenção P&T: Go-live realizado no TIPN com treinamento e operação assistida. 1º site de P&T a receber a solução SAT.\nOpenWMS TISL (KMM): Concluída a migração de infraestrutura do integrador com a USIMINAS. Novo ambiente permitirá estabilidade e redução de incidentes e reclamações do cliente.  \n\nPontos negativos:\nIntegração TPD X VALE: API de envio de peso das balanças está em homologação, porém a área de negócio solicitou revisão de regras de quebras e retenções, que não foram previstas inicialmente pela operação. Postergação da entrega gera um risco operacional com a Vale. \nOpenWMS TISL (KMM): Abertura de reclamação formal da USIMINAS devido a falhas na integração dos sistemas. Problema mitigado com a migração de ambiente.\nMamute [Plano de Carregamento Inteligente]: Ausência da PO do projeto impactou os ganhos do TIPLAM e a estratégia de recuperação da meta de 2023;\nLinha Mestra: Valor aprovado no orçamento 2024 não permite a execução de iniciativas habilitadoras/estruturantes. Priorizado iniciativas operacionais.\n\nPróximos Passos / Pontos de Atenção:\nP.P. SAT: Rollout para TMIB planejada para novembro. Demais sites planejados para 2024.\nP.A. SAT: Foram identificados GAPs que demandarão melhorias que irão concorrer com as solicitações da ferrovia.\nP.A. SIOP Porto: Planejamento das correções e novas implementações na API Recintos em linha. Conclusão prevista para maio/2024;\nP.A. WMS TISL: Mudanças nas especificações de integração com os clientes está demandando mais esforço do fornecedor, impactando o prazo de implantação do novo WMS.\nP.A. SIOP Júpiter: Mosaic desmobilizou o seu time de TI até a definição da nova data de Closing; Transição do projeto paralisada.\nSíntese do mês| Gerência de Trans. Digital Op.  Portos e Terminais\nResponsáveis:  Luciano Pereira\n\nStatus:  Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL PLANEJAMENTO E CORPORATIVO",
     "responsavel": null,
     "texto": "Pontos positivos:\nMamute Planejamento Dinâmico: Meta de ganhos 2024 concluída e aprovada pelo TO e Sponsors. Evidência na pasta.\nConcorrencial DTI concluída.\n\nPontos negativos:\nMamute Planejamento Dinâmico: PDD 2024 não indicada pela diretoria financeira. Embargo no quesito ganhos em volume não inclusos no Orçamento\nStratws Iniciativas TO: Limite de licenças Power BI Pro não permite que proprietário do workspace execute melhorias no dasboard iniciativas demandado pela Escritório de Transformação\nGestão 4.0: Atraso na integração do Stratws com IAM para provisionamento de usuários.\n\nPróximos Passos / Pontos de Atenção:\nP.A Mamute Planejamento Dinâmico: Área de negócio (GG Planejamento Curto Prazo) estuda pleitear a PDD como habilitadora sem ganho previsto em 2024 para avançar nos gates de aprovação.\nP.A Mamute Planejamento Dinâmico: Risco de descontinuidade das iniciativas S&OP Digital e Smartplanner do Programa MPD por adoção de outra solução de mercado indicada pela diretoria executiva. \nP.P Mamute Planejamento Dinâmico: Alinhamento com liderança e Sponsor sobre a continuidade dos produtos Smartplanner/S&OP Digital\nSíntese do mês| Gerência de Trans. Digital Planejamento e Corporativo\nResponsáveis: Paulo Moreira\n\nStatus:  Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA DE TRANS. DIGITAL COMERCIAL E CLIENTE",
     "responsavel": null,
     "texto": "Pontos positivos:\n[Mamute CX] Torre de Controle: Entrega da Torre de Controle no Corredor Centro Norte\n\nPontos negativos: \n[Mamute CX] Torre de Controle: Constantes problemas com as integrações de dados entre os sistemas Vale e VLI. Os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale.\n\n\nPróximos Passos / Pontos de Atenção:\nP.P.: [Mamute Eficiência Comercial] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos” comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/11);\nP.P.: [Mamute Eficiência Comercial] Conclusão da integração entre CRM e SAP com o objetivo de centralizar a criação e padronização dos dados de clientes granulares.\nP.P.: [Mamute Eficiência Comercial] Construção da solução de gestão de estadia na Torre de Controle – MVP com a Usiminas e depois será replicados para os demais clientes - 12/23\nP.P.: [Mamute CX] CRM e Torre de Controle: Estabelecer fluxo de sustentação e melhoria contínua 12/23\nP.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Salesforce – “Plan & Design” Salesforce contratado com início em 30/10 – Iniciado e com prazo de conclusão 19/01/24\nP.P.: [Mamute CX] Torre de Controle: Rollout para os corredores Minas Rio e Minas Bahia\nSíntese do mês| Gerência de Trans. Digital Comercial e Cliente\nResponsáveis: Leonardo Figueiredo\n\nStatus:   Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Novembro",
     "area": "GERÊNCIA DE INOVAÇÃO",
     "responsavel": null,
     "texto": "Pontos positivos:\nPrograma Empreendedores: realização de agendas semanais de sustentação com iniciativas premiadas no Programa: retomada do trabalho já realizado e construção do Canvas de MVP + Execução 1º MVP SemC \nRealização Webinar dia da Inovação (11/10) | Inovação orientada ao cliente \nPrêmio 100 Open \nAvanço no contrato do projeto APU a Etanol e no projeto cooperado com Ipiranga \nInteresse Comgás no projeto Locomotivas Dual Fuel e CEMIG no projeto Reboque Elétrico \n\n\n\n     Paralização do Farol Brasil (Armazena)\n     Cancelamento do Comitê de Inovação\nSíntese do mês| Gerência de Inovação\nPontos negativos:\nPróximos Passos/ Pontos de Atenção:\n\nEstratégia de Inovação x Momento da VLI\nResponsáveis: Fernanda Pires\n\nStatus:   Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[Mamute CX] Torre de Controle: Entrega da Torre de Controle no Corredor Centro Sudeste em Paulínia\n\n[Plano de estabilização da rede de dados/Teams]  Concluído o direcionamento de tráfego de 12 sites VLI (PECEM,TIPLAM,TMIB,QPM,ENG. BHERING,IMPERATRIZ,TIPA,TIPN,TIPI,TIPF,TIOP) para conexão do Teams de vídeo conferência direto para Ascenty/Microsoft, evitando a centralização por BH \n\n[Inovação/Novos Negócios]:  Entrega do BMS Farol Brasil.\nPontos negativos\n [Ferrovia]: GPV Ferrovias tem apresentado instabilidades e falhas que afetam a migração de trens no CN, faturamento e replicações de dados para o conecta e centro de inteligência. As tratativas vale são mais lentas do que desejado com tempo de resposta longo. Ações de escalonamento estão sendo feitas entre TI das empresas e contratos logísticos, ainda sem pronta solução visto que o contrato entre as empresas não possui nível de serviço.\nPontos de atenção/Próximos Passos\nP.A. [SIOP Porto] Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024\n\n P.A. [SAT] Necessário realizar análise de performance da ferramenta e avaliar permanência da VLI\n\nP.A. [Mamute Planejamento Dinâmico] atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do CI / Necessidade de +R$2MM para entrega do escopo desejado e comprometido em meta em 2023.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  atualizado"
+    "texto": "-\nPontos positivos\n[Mamute CX] Torre de Controle: Entrega da Torre de Controle no Corredor Centro Sudeste em Paulínia\n\n[Plano de estabilização da rede de dados/Teams]  Concluído o direcionamento de tráfego de 12 sites VLI (PECEM,TIPLAM,TMIB,QPM,ENG. BHERING,IMPERATRIZ,TIPA,TIPN,TIPI,TIPF,TIOP) para conexão do Teams de vídeo conferência direto para Ascenty/Microsoft, evitando a centralização por BH \n\n[Inovação/Novos Negócios]:  Entrega do BMS Farol Brasil.\nPontos negativos\n [Ferrovia]: GPV Ferrovias tem apresentado instabilidades e falhas que afetam a migração de trens no CN, faturamento e replicações de dados para o conecta e centro de inteligência. As tratativas vale são mais lentas do que desejado com tempo de resposta longo. Ações de escalonamento estão sendo feitas entre TI das empresas e contratos logísticos, ainda sem pronta solução visto que o contrato entre as empresas não possui nível de serviço.\nPontos de atenção/Próximos Passos\nP.A. [SIOP Porto] Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024\n\n P.A. [SAT] Necessário realizar análise de performance da ferramenta e avaliar permanência da VLI\n\nP.A. [Mamute Planejamento Dinâmico] atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do CI / Necessidade de +R$2MM para entrega do escopo desejado e comprometido em meta em 2023.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIA DE OPERAÇÃO E PLATAFORMAS DIGITAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\n\n[Plano de ação de estabilização da rede de dados/Teams]: plano de ação apresentado ao Loïc e Rute com ações de revisão da arquitetura de dados e gestão de trafego de segurança da informação. Concluído o direcionamento de trafego de 12 sites VLI (PECEM,TIPLAM,TMIB,QPM,ENG. BHERING,IMPERATRIZ,TIPA,TIPN,TIPI,TIPF,TIOP) para conexão do Teams de vídeo conferencia direto para Acenty/Microsoft, evitando a centralização por BH. Os sites reportaram excelente performance das transmissões após a revisão.\n\n[TIVIT]: migração da primeira perna do último link de dados ativo (SAP-ORANGE) para Ascenty com sucesso; No final do mês de outubro eliminaremos a comunicação da TIVIT e encerraremos nossa relação técnica e comercial com o parceiro. \n\n[Operações de TI]: recorde na tratativas de incidentes críticos de TI (severidade 1) dentro do SLA (até 3hrs), mitigando interrupções e paralisações dos sistemas e infraestrutura de TI paras operações.\n\n\nPontos negativos:\n[Ferrovia]: Ambiente GPV Ferrovias tem apresentado instabilidades e falhas que afetam a migração de trens no corredor centro norte, faturamento e replicações de dados para o conecta e centro de inteligência. As tratativas vale são mais lentas do que desejado com tempo de resposta longo. Ações de escalonamento estão sendo feitas entre TI das empresas e contratos logísticos, ainda sem pronta solução visto que o contrato entre as empresas não possui nível de serviço. \n\n[Plano de estabilização SIOP]: paralização de ações para adoção de boas práticas de desenvolvimento e sustentação(devops), com risco de incidentes críticos com impacto ao processo rodo. Elevada incidência de acesso direto a base de dados sem contrapartida planejada; Ausência de cobertura de código para fragilidades de segurança e qualidade de código; Ações não requerem orçamento e podem ser executadas com time próprio.\nSíntese do mês| Gerência de Operação e plataformas digitais\nResponsáveis:  André Braz\n\nStatus:  Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIA CORPORATIVA DE DADOS",
     "responsavel": null,
     "texto": "Responsáveis:  Alexandre Loss\n\nStatus:  Atualizado\nSíntese do mês| Gerência Corporativa de Dados\nPontos positivos:\nJornada Data Driven: \nCinco fontes de dados do MDM com regras de qualidade de dados técnica e de negócio validadas e aprovadas pelo Data Steward;\nNomeação de dois Data Steward: domínios de Formação de Trens e Intercâmbio\nProcesso de aquisição da suíte de ferramentas de governança de dados em estágio final de aprovação;\nNova PRO sobre desenho de solução para dados publicada e desdobrado para utilização dos arquitetos dos projetos (FLINK, FLOU, SICOF e NEE);\nExecução das frentes em Q3/23 conforme planejado (arquitetura de dados para sistemas não governados, grupo de trabalho ger. dados e outros de Gov. de Dados;\nProposta de roadmap para Q4/23 e Q1/24 definida e aprovada;\nRetorno às atividades da Denise, especialista em Governança de Dados, após afastamento;\nEntrada de novo recurso para atuação na frente de habilitação;\nAdvanced Analytics: \nInício da frente de Arquitetura de Dados nos projetos MBC e Smart Pricing voltada para a nova plataforma Data Lake\nEntrega do serviço de formação e repasse da arquitetura Data Lake e Machine Learning\nProposta revisada da esteira DevOps de Machine Learning dentro dos requisitos do time de DevOps VLI e boas práticas definidas pelo time da Microsoft\nCoE Serviços de Dados: \nEntrega do marco 4 da Meta Advanced Analytics “Suporte Power BI. Disponibilizar serviços de suporte à plataforma de self service BI (Power BI) aos usuários de negócio”\n\nPontos negativos:\nConstante turnover no parceiro Triggo.ai: 1 a 2 profissionais / mês\n\nPróximos Passos / Pontos de Atenção:\nJornada Data Driven: \nAcompanhar o processo de compra da suíte de ferramentas para gerenciamento e governança de dados;  \nPublicação de novos PRO (Procedimento Operacional) relacionado a arquitetura de dados; \nValidar e aprovar regras de qualidade de dados para as duas últimas fontes de dados do MDM;  \nProvidenciar a reposição do especialista em MDM;\nEfetuar os discoverys e dar início aos épicos de Q4.\nCapacitação básica dos Data Steward: domínios de Formação de Trens, Intercâmbio, Faturamento e Formalização e identificação de DS para Expedição Ferroviária;\nAdvanced Analytics: \nMigração e Adaptação de Códigos do CI para o Novo Ambiente de ML DEV\nAtualização e ampliação do roadmap\nEntrega da esteira DevOps de Machine Learning dentro dos requisitos do time de DevOps VLI e boas práticas definidas pelo time da Microsoft\nCoE Serviços de Dados: \nRollout da solução de deploy automatização para criação de Job SSIS e Execução de Cargas no ambiente de Analytics para todos os times;\nPiloto da solução de autonomia para executar/interromper Job SSIS em produção para os times de projeto\nInicio do mapeamento dos Gateway Externos de Power BI para futura desativação"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIAS DE CAMPO E UTILIZAÇÃO DA LINHA MESTRA PARA CONSTRUÇÃO DE MATERIAL DE APOIO AO PROCESSO DE ORÇAMENTAÇÃO VLI QUE CONSOLIDA AS FRENTES DE TRANSFORMAÇÃO DIGITAL E ENGENHARIAS.",
     "responsavel": null,
     "texto": "Pontos positivos:\n[Mamute] Linha Mestra: Apresentação das linhas de defesa de orçamento junto aos corredores, diretorias e gerências de campo e utilização da Linha Mestra para construção de material de apoio ao processo de orçamentação VLI que consolida as frentes de Transformação Digital e Engenharias.\n[Mamute] Pátio do Futuro: Testes/PoC no TPSL utilizando o equipamento da EFC realizados com sucesso, gerando subsídios para a composição da PDD.\n[Mamute] Preditiva 4.0: Ai4: Instalação concluída na locomotiva 6190, sendo necessário ajustes nas informações coletadas, como frequência de coleta e layout de dashboard.\nMonitoramento de temperatura de rodeiros: A Tailored Resources finalizou a fabricação do dormente instrumentado que será instalado para monitoramento da temperatura.\nSAT: Iniciada operação assistida da ferramenta integrada ao SAP em Divinópolis para MR e VP.\nPontos negativos:\n[Mamute] MBC VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual (tripartite). Situação já escalada.\nAcionamento automático de maquinistas: Testes finalizados com resultados positivos. Buildflex enviou proposta que está em avaliação pela área de negócio. Saída da liderança impactou nos prazos.\nPróximos Passos / Pontos de Atenção:\nP.P. [Mamute] Linha Mestra: Defesa de orçamento junto aos corredores, consolidando as frentes de Transformação Digital e Engenharias.\nP.P. [Mamute] MBC VP: Geral: Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem: Assinatura de contrato tripartite para aquisições dos equipamentos.\nP.P. [Mamute] Pátio do Futuro: Submissão da PDD da temática Pátio do Futuro da Linha Mestra com escopo da iniciativa de Controle Remoto de Locomotivas para operações de carregamento e descarga no TIUB.\nP.P. [Mamute] Preditiva 4.0: Morgaoo: Emitir a requisição de compra de mais 2 kits a serem instalados em locomotivas. Evoluir na definição da arquitetura de dados do projeto.\nP.P. Monitoramento de temperatura de rodeiros: Instalação do dormente instrumentado está prevista para a semana de 16 de outubro.\nP.P. SAT: Iniciar em outubro a operação assistida no TIPN e avaliar continuidade da ferramenta na VLI. \nP.A. SAT: Necessário realizar análise de performance da ferramenta\nP.P. PCM do Futuro: Previsão de início de teste da ferramenta pelo PCM em outubro.\nResponsáveis:\u000bGuilherme Soares,\nFlavia, Cris\ne Thailer\nStatus:\u000bAtualizado (20230-10-09)\nSíntese do mês | Gerência Transformação Digital Ferrovias\nSlide Linha Mestra\nAtualizado\n(favor não apagar este link)"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIA DE TRANS. DIGITAL OP.  PORTOS E TERMINAIS",
     "responsavel": null,
     "texto": "Pontos positivos:\n[Mamute] Plano de Carregamento Inteligente: Iniciado o rollout para os berços do TIPLAM, gerando ganhos 0,5MM em setembro frente aos 0,21MM previstos. Tendência de recuperação da meta até novembro/23.\nSuite SIOP: Mês de setembro sem registro de crise operacionais com causa raiz ligada ao sistema SIOP (redução de 48,3% nas crises 2022 x 2023). Redução de 34% dos chamados e incidentes no mês de set/23 x set/22, no acumulado do ano a redução é de 27%.\nSAT - Mobilidade na Manutenção P&T: Iniciada a execução do plano de Implantação em P&T. Treinamento em setembro e operação no TIPN e TMIB em outubro e novembro;\n\nPontos negativos:\nSuite SIOP | Júpiter: Postergações do Closing VLI X Mosaic impactando planejamento inicial de transferência dos ativos de TI. Sem data prevista;\nSuite SIOP |  Porto: API Recintos possui gaps de implementação que podem gerar autuações e outras sanções por parte da Receita Federal; Necessário mobilização das áreas corporativas para interpretação da legislação e definição de regas;\nControle de acesso TMIB: Solução de OCR implantada pela equipe de Segurança ao Negócio não atende as normas da RFB, risco de autuação e outras penalidades; Demanda em análise pelo time TILD a pedido do Porto. \nMeteorologia Portuária: Assinatura do convênio entre VLI x Defesa Civil continua sem previsão;\nAPP DBO - Postergado para 2024 a conclusão do projeto devido a mudança nos requisitos de segurança e alto custo do Pentest; (Pentest representa 40% do valor do desenvolvimento);\nPróximos Passos / Pontos de Atenção:\nP.A. SIOP Júpiter: Servidor alocado para o projeto ficará sem suporte a partir de janeiro/2024. Trata-se de um equipamento obsoleto que não permite novo contrato de suporte com a DELL; \nP.A. SIOP Porto: Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024;\nP.P. WMS TISL: Serviço de integração do sistema atual (OpenWMS) terá ambiente migrado para sanar impactos e reclamações da Usiminas – até 16/10;\nSíntese do mês| Gerência de Trans. Digital Op.  Portos e Terminais\nResponsáveis:  Luciano Pereira\n\nStatus:  atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIA DE TRANS. DIGITAL PLANEJAMENTO E CORPORATIVO",
     "responsavel": null,
     "texto": "Pontos positivos:\nGestão 4.0: Go live dos primeiros módulos (Performance Corporativa e Análise e Solução de Problemas).\nControle de EPIs: Go live da plataforma MOB para controle de entrega de EPIs.\nPortal de Fornecedores: Go live da página no site VLI onde fornecedores podem abrir chamados para o time financeiro da VLI a respeito do processamento de NFs.\n\nPontos negativos:\nMamute Planejamento Dinâmico: Indefinição de validação de acesso a informações por parte da Vale, gerando atraso em algumas integrações.\nGestão 4.0: Atraso na integração do Stratws com IAM para provisionamento de usuários.\n\nPróximos Passos / Pontos de Atenção:\nP.A Mamute Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do Centro de Inteligência.\nP.A Mamute Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.\nP.A Mamute Planejamento Dinâmico: Dificuldade nas tratativas da integração com GPV da Vale.\nSíntese do mês| Gerência de Trans. Digital Planejamento e Corporativo\nResponsáveis: Paulo Moreira\n\nStatus:   Atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIA DE TRANS. DIGITAL COMERCIAL E CLIENTE",
     "responsavel": null,
     "texto": "Pontos positivos:\n[Mamute CX] Torre de Controle: Entrega da Torre de Controle no Corredor Centro Sudeste em Paulínia-SP\n\n\nPontos negativos: \n[Mamute CX] Torre de Controle: Constantes problemas com as integrações de dados entre os sistemas Vale e VLI. Os tickets abertos começaram a ser atendidos, porém temos que manter guarda alta até formalizar um processo junto a Vale.\n\n\nPróximos Passos / Pontos de Atenção:\nP.P.: [Mamute CX] CRM e Torre de Controle: Estabelecer fluxo de sustentação e melhoria contínua;\nP.P.: [Mamute CX] Salesforce: Negociação final com o implementador Salesforce sobre escopo fechado e próximas fases;\nP.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Salesforce – “Plan & Design” Salesforce contratado com início em 30/10;\nP.P.: [Mamute Eficiência Comercial] Ativação do novo processo de padrão de negociação e operacionalização de contratos comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/10);\nP.P.: [Smart Sales] Revisão da estratégia de organização de time e estrutura de sustentação;\nP.P.: [Mamute CX] Torre de Controle: Rollout para os corredores Centro Norte e Minas Rio e Minas Bahia\nSíntese do mês| Gerência de Trans. Digital Comercial e Cliente\nResponsáveis: Leonardo Figueiredo\n\nStatus:   atualizado"
   },
   {
-    "ano": 2024,
+    "ano": 2023,
     "mes": "Outubro",
     "area": "GERÊNCIA DE INOVAÇÃO",
     "responsavel": null,
@@ -2060,9 +2053,9 @@
   {
     "ano": 2023,
     "mes": "Setembro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[Mamute Planejamento Dinâmico]: ganhos de R$5,3M acum (meta R$5,2M) com captura dos primeiros ganhos do Smartplanner (R$0,22M / T_24 R$0,5M) através da melhoria de ciclo médio de vagões plataforma da Siderurgia (CL)\n\n[Mamute]: go-live Torre de Controle Itacibá e instalação infra Torre Paulínia para go-live em Setembro\u000b\n[InovaVLI Empreendedores]: Demoday da 4o Edição\nPontos negativos\n [CONECTIVIDADE]: incidentes críticos ocasionados por anomalia de tráfego em novo proxy e sucessões de impactos no Portal nota de expedição no último mês; Processo requer melhor gestão e planejamento para novas mudanças e alterações de ambientes\n\n[SIOP]: evolução de maturidade de devops e plano de melhorias (por corte de $)\n\n[Mamute CX] Torre de Controle / Planejamento Dinâmico:  problemas com as integrações de dados entre os sistemas Vale e VLI. Temos 4 solicitações de melhorias registradas no portal Vale e dentre estas temos caso datado de abril de 2023 (Demandas: 23628, 23629, 23373, 23304 e 24537)\nPontos de atenção/Próximos Passos\nP.A. [Mamute] [Otimização dos tombadores]: Acompanhar a realização de correções e melhorias solicitadas pelo terminal ao fornecedor – até 29/09\u000b\nP.A. SIOP Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09\u000b\nP.A Mamute Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do Centro de Inteligência. / Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n[Mamute Planejamento Dinâmico]: ganhos de R$5,3M acum (meta R$5,2M) com captura dos primeiros ganhos do Smartplanner (R$0,22M / T_24 R$0,5M) através da melhoria de ciclo médio de vagões plataforma da Siderurgia (CL)\n\n[Mamute]: go-live Torre de Controle Itacibá e instalação infra Torre Paulínia para go-live em Setembro\u000b\n[InovaVLI Empreendedores]: Demoday da 4o Edição\nPontos negativos\n [CONECTIVIDADE]: incidentes críticos ocasionados por anomalia de tráfego em novo proxy e sucessões de impactos no Portal nota de expedição no último mês; Processo requer melhor gestão e planejamento para novas mudanças e alterações de ambientes\n\n[SIOP]: evolução de maturidade de devops e plano de melhorias (por corte de $)\n\n[Mamute CX] Torre de Controle / Planejamento Dinâmico:  problemas com as integrações de dados entre os sistemas Vale e VLI. Temos 4 solicitações de melhorias registradas no portal Vale e dentre estas temos caso datado de abril de 2023 (Demandas: 23628, 23629, 23373, 23304 e 24537)\nPontos de atenção/Próximos Passos\nP.A. [Mamute] [Otimização dos tombadores]: Acompanhar a realização de correções e melhorias solicitadas pelo terminal ao fornecedor – até 29/09\u000b\nP.A. SIOP Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09\u000b\nP.A Mamute Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do Centro de Inteligência. / Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.\n+\n!\nResponsáveis:  Loïc \n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2081,9 +2074,9 @@
   {
     "ano": 2023,
     "mes": "Setembro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus: Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus: Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2123,9 +2116,9 @@
   {
     "ano": 2023,
     "mes": "Agosto",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[Inovação]: assinatura Contrato Agristest e 4º ano seguido entre as mais inovadoras do Brasil, subimos 28 posições no ranking do Prêmio do Valor Inovação\n\n[Mamute]: Preditiva 4.0 protótipo  instalado em locomotiva (8685),  enviando informações do EGU conforme o esperado.\n\n[DATA DRIVEN]: Evolução na definição de regras de qualidade dos dados para o MDM e criação das 4 primeiras bases de dados de réplicas referentes aos sistemas: Flink, Conect@, Netlex e Sicof.\nPontos negativos\n [LD Ferrovias- SAT]: Fornecedor não concluiu todas as correções no sistema. Sem previsão para implantação em produção para ferrovia e P&T. Necessária deliberação TILD sobre a continuidade do projeto e impactos.\n\n[Mamute CX] Torre de Controle: dependência da VALE em relação a compartilhamento de dados operacionais e  dificuldade nas adaptações sistêmicas.\n\u000b[LD P&T]: inciativa para automatização da abertura e fechamento de tampas de vagões com estimativa de custo elevada e não viabiliza o BC. Equipe Logística Digital P&T avaliando novas rotas de solução.\nPontos de atenção/Próximos Passos\n[Dados] : Validação das regras de qualidade de dados para o MDM junto aos Data Stewards e definição de ferramenta;\n\n[Riscos e compliance]: discussão do relatório draft da auditoria externa/2023 e desdobramento junto aos times TILD\n\n[Mamute Planejamento Dinâmico]: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.\n+\n!\nResponsáveis:  Loïc (André)\n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n[Inovação]: assinatura Contrato Agristest e 4º ano seguido entre as mais inovadoras do Brasil, subimos 28 posições no ranking do Prêmio do Valor Inovação\n\n[Mamute]: Preditiva 4.0 protótipo  instalado em locomotiva (8685),  enviando informações do EGU conforme o esperado.\n\n[DATA DRIVEN]: Evolução na definição de regras de qualidade dos dados para o MDM e criação das 4 primeiras bases de dados de réplicas referentes aos sistemas: Flink, Conect@, Netlex e Sicof.\nPontos negativos\n [LD Ferrovias- SAT]: Fornecedor não concluiu todas as correções no sistema. Sem previsão para implantação em produção para ferrovia e P&T. Necessária deliberação TILD sobre a continuidade do projeto e impactos.\n\n[Mamute CX] Torre de Controle: dependência da VALE em relação a compartilhamento de dados operacionais e  dificuldade nas adaptações sistêmicas.\n\u000b[LD P&T]: inciativa para automatização da abertura e fechamento de tampas de vagões com estimativa de custo elevada e não viabiliza o BC. Equipe Logística Digital P&T avaliando novas rotas de solução.\nPontos de atenção/Próximos Passos\n[Dados] : Validação das regras de qualidade de dados para o MDM junto aos Data Stewards e definição de ferramenta;\n\n[Riscos e compliance]: discussão do relatório draft da auditoria externa/2023 e desdobramento junto aos times TILD\n\n[Mamute Planejamento Dinâmico]: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.\n+\n!\nResponsáveis:  Loïc (André)\n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2144,9 +2137,9 @@
   {
     "ano": 2023,
     "mes": "Agosto",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2186,9 +2179,9 @@
   {
     "ano": 2023,
     "mes": "Julho",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n [Estoque Sobre Trilhos Norte]: operação assistida; ganhos em apuração pelo PPC e TILD\n\n [Suite SIOP]: Redução de 40% das crises no primeiro semestre de 2023(21) x 2022(35), com 1/3 das ocorrências relacionadas a camada de  aplicação \n\n [Novo Sistema +Valor (Stratws)]:\u000b Go live do novo sistema para suportar o programa +Valor.\nPontos negativos\n [Suite SIOP] - Projeto Júpiter - Novas requisições da RFB (Requisitos Legais) irão gerar custos não previstos no OpEx\u000b\n[Suite SIOP]: Desmobilização de 80% dos squads por motivos orçamentários impacta a entrega de melhorias\u000b\n[Mamute P&T]: PDD segue aguardando aprovação. Aprovação após julho inviabiliza a implantação e geração de ganhos em 2023\nPontos de atenção/Próximos Passos\nPP [Dados] contratação de suíte de governança de dados (MDM, metadados, catálogos, linhagem, qualidade) para embasar projeto data driven\n\nPP [Mamute CX]: início dos trabalhos de auditoria externa 2023\u000b\n PP [InovaVLI Seeds] Assinatura contrato BR Agritest \n\nPA [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais para mitigar conflito, sobreposição de funções  e oportunidades com o Salesforce;\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n [Estoque Sobre Trilhos Norte]: operação assistida; ganhos em apuração pelo PPC e TILD\n\n [Suite SIOP]: Redução de 40% das crises no primeiro semestre de 2023(21) x 2022(35), com 1/3 das ocorrências relacionadas a camada de  aplicação \n\n [Novo Sistema +Valor (Stratws)]:\u000b Go live do novo sistema para suportar o programa +Valor.\nPontos negativos\n [Suite SIOP] - Projeto Júpiter - Novas requisições da RFB (Requisitos Legais) irão gerar custos não previstos no OpEx\u000b\n[Suite SIOP]: Desmobilização de 80% dos squads por motivos orçamentários impacta a entrega de melhorias\u000b\n[Mamute P&T]: PDD segue aguardando aprovação. Aprovação após julho inviabiliza a implantação e geração de ganhos em 2023\nPontos de atenção/Próximos Passos\nPP [Dados] contratação de suíte de governança de dados (MDM, metadados, catálogos, linhagem, qualidade) para embasar projeto data driven\n\nPP [Mamute CX]: início dos trabalhos de auditoria externa 2023\u000b\n PP [InovaVLI Seeds] Assinatura contrato BR Agritest \n\nPA [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais para mitigar conflito, sobreposição de funções  e oportunidades com o Salesforce;\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2207,9 +2200,9 @@
   {
     "ano": 2023,
     "mes": "Julho",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2249,9 +2242,9 @@
   {
     "ano": 2023,
     "mes": "Junho",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n [Suite SIOP]: Redução de 46% das crises de janeiro a maio de 2023(35) x 2022(19), com 1/3 das ocorrências relacionadas a camada de  aplicação/ Projeto Júpiter - Auditoria de alfandegamento realizada sem pontos de correção para os Itens de TI.\n\n [SAP] Go-Live do projeto de restruturação da interface de combustíveis (SAP com UNIDATA), substituindo o FTP pelo SAP PI para o Posto de Eldorado-MG.\n\n [Smart CoE] RPA: entrega de 2 automações (Compliance Shipping e Levantamento de eventos críticos de VP) levando a um total de 7 com 2 iminentes (ETA médio = 40 dias).\nPontos negativos\n [Cyber] recorrência de profissionais na campanhas de phishing. Ainda temos profissionais que constantemente tem sido vítima dos simulados (280 vítimas <> 7% com 17 recorrentes)\n\n [Inova VLI Seeds]: baixo entendimento de operação por grupo de “consultoria de PDD” levando a atraso (governança CVC própria necessária) \n\n [Mamutes P&T Inteligentes]: atraso na aprovação por diretoria inviabiliza a implantação e geração de ganho em 2023, risco de impacto para as metas TILD;\nPontos de atenção/Próximos Passos\nPP [Cyber] Gestão de Identidades: conclusão da integração SalesForce/Conecta/Ciam & revisão do AD (gestão de domínios e contas de usuário) para o CCO e início da implantação para TIPLAM\n\nPP [Mamute CX]: preparação entrega do MVP CRM em julho23 / migrar portais de Atendimento, Faturamento e Indenizações para o Salesforce \n\nPA [P&T] WMS TISL: Risco de paralisação da implantação devido à falta de orçamento por parte da Operação. Risco sendo tratado com GG e GA da operação\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n [Suite SIOP]: Redução de 46% das crises de janeiro a maio de 2023(35) x 2022(19), com 1/3 das ocorrências relacionadas a camada de  aplicação/ Projeto Júpiter - Auditoria de alfandegamento realizada sem pontos de correção para os Itens de TI.\n\n [SAP] Go-Live do projeto de restruturação da interface de combustíveis (SAP com UNIDATA), substituindo o FTP pelo SAP PI para o Posto de Eldorado-MG.\n\n [Smart CoE] RPA: entrega de 2 automações (Compliance Shipping e Levantamento de eventos críticos de VP) levando a um total de 7 com 2 iminentes (ETA médio = 40 dias).\nPontos negativos\n [Cyber] recorrência de profissionais na campanhas de phishing. Ainda temos profissionais que constantemente tem sido vítima dos simulados (280 vítimas <> 7% com 17 recorrentes)\n\n [Inova VLI Seeds]: baixo entendimento de operação por grupo de “consultoria de PDD” levando a atraso (governança CVC própria necessária) \n\n [Mamutes P&T Inteligentes]: atraso na aprovação por diretoria inviabiliza a implantação e geração de ganho em 2023, risco de impacto para as metas TILD;\nPontos de atenção/Próximos Passos\nPP [Cyber] Gestão de Identidades: conclusão da integração SalesForce/Conecta/Ciam & revisão do AD (gestão de domínios e contas de usuário) para o CCO e início da implantação para TIPLAM\n\nPP [Mamute CX]: preparação entrega do MVP CRM em julho23 / migrar portais de Atendimento, Faturamento e Indenizações para o Salesforce \n\nPA [P&T] WMS TISL: Risco de paralisação da implantação devido à falta de orçamento por parte da Operação. Risco sendo tratado com GG e GA da operação\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2270,9 +2263,9 @@
   {
     "ano": 2023,
     "mes": "Junho",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2312,9 +2305,9 @@
   {
     "ano": 2023,
     "mes": "Maio",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n [Sistemas RH]: Conclusão da migração para cloud, com melhoria da produtividade, velocidade do processo de cálculo da folha e outros.  \n\n[DR]: Ativação técnica de site DR (disaster recovery) para sincronismo em tempo real dos BD da cadeia CT-e e RH.\n\n [Mamute] Linha Mestra: Entrega final da Etapa 2 da Linha Mestra pela Radix com listagem de iniciativas, roadmap, ganhos e investimentos por iniciativa.\nPontos negativos\n [Suprimentos]:  pelo quarto mês consecutivo, Suprimentos apresenta baixa aderência na performance de compras estratégicas planejadas, com forte impacto em todas as frentes TILD\n\n[Mamute 2023] PDD: Atraso na aprovação da PDD. Será necessário defesa da PDD com postergação de iniciativas para 2024;\nPontos de atenção/Próximos Passos\n PP [Migração TIVIT]: Migração do segundo firewall para Ascenty (operação kombi), migração dos links de internet, migração do balance F5 e TIBCO / desligamento de máquinas Sparc no mês de Maio\u000b\n [Mamute CX] CRM: Migrar portais de Atendimento, Faturamento e Indenizações para o Salesforce;\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n [Sistemas RH]: Conclusão da migração para cloud, com melhoria da produtividade, velocidade do processo de cálculo da folha e outros.  \n\n[DR]: Ativação técnica de site DR (disaster recovery) para sincronismo em tempo real dos BD da cadeia CT-e e RH.\n\n [Mamute] Linha Mestra: Entrega final da Etapa 2 da Linha Mestra pela Radix com listagem de iniciativas, roadmap, ganhos e investimentos por iniciativa.\nPontos negativos\n [Suprimentos]:  pelo quarto mês consecutivo, Suprimentos apresenta baixa aderência na performance de compras estratégicas planejadas, com forte impacto em todas as frentes TILD\n\n[Mamute 2023] PDD: Atraso na aprovação da PDD. Será necessário defesa da PDD com postergação de iniciativas para 2024;\nPontos de atenção/Próximos Passos\n PP [Migração TIVIT]: Migração do segundo firewall para Ascenty (operação kombi), migração dos links de internet, migração do balance F5 e TIBCO / desligamento de máquinas Sparc no mês de Maio\u000b\n [Mamute CX] CRM: Migrar portais de Atendimento, Faturamento e Indenizações para o Salesforce;\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2333,9 +2326,9 @@
   {
     "ano": 2023,
     "mes": "Maio",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2375,9 +2368,9 @@
   {
     "ano": 2023,
     "mes": "Abril",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n [Cadeia Ct-e]: Conclusão da migração para cloud, com melhoria da produtividade, velocidade do processo de faturamento e carregamento de trens, com redução de incidentes. Evidencias indicam performance até 10 vezes mais rápida para geração de CT-e ferroviários.\u000b\n [Empreendedores Inova VLI] 47 iniciativas inscritas, 26 para o eixo Logística de Excelência e 21 para o eixo Logística Sustentável, com a participação de 188 empregados\nPontos negativos\n [Suprimentos]:  pelo terceiro mês consecutivo, Suprimentos apresenta baixa aderência na performance de compras estratégicas planejadas, com forte impacto em todas as frentes TILD\u000b\n [SIOP] entrega de “Raio-X” com análise de:\nArquitetura (8 critérios)\nTecnologia (3)\nEngenharia (8)\nQualidade de código (4)\nSegurança (4)\nDados (7)\nProcessos de desenvolvimento (4)\n Negócio (3)\n\nWorkshop presencial (30 pessoas) realizado para continuidade plano 2023 e PDD 2024 \nTroca de fornecedor em curso\nPontos de atenção/Próximos Passos\n PP [Migração TIVIT]: Migração do segundo firewall para Ascenty (operação kombi), migração dos links de internet, migração do balance F5 e TIBCO / desligamento de máquinas Sparc no mês de Maio\u000b\n PP – [Mamute] Linha Mestra: Início da Implantação / PA Definir melhor forma de apresentar visão estratégica sobre a frente da Linha Mestra.\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado"
+    "texto": "-\nPontos positivos\n [Cadeia Ct-e]: Conclusão da migração para cloud, com melhoria da produtividade, velocidade do processo de faturamento e carregamento de trens, com redução de incidentes. Evidencias indicam performance até 10 vezes mais rápida para geração de CT-e ferroviários.\u000b\n [Empreendedores Inova VLI] 47 iniciativas inscritas, 26 para o eixo Logística de Excelência e 21 para o eixo Logística Sustentável, com a participação de 188 empregados\nPontos negativos\n [Suprimentos]:  pelo terceiro mês consecutivo, Suprimentos apresenta baixa aderência na performance de compras estratégicas planejadas, com forte impacto em todas as frentes TILD\u000b\n [SIOP] entrega de “Raio-X” com análise de:\nArquitetura (8 critérios)\nTecnologia (3)\nEngenharia (8)\nQualidade de código (4)\nSegurança (4)\nDados (7)\nProcessos de desenvolvimento (4)\n Negócio (3)\n\nWorkshop presencial (30 pessoas) realizado para continuidade plano 2023 e PDD 2024 \nTroca de fornecedor em curso\nPontos de atenção/Próximos Passos\n PP [Migração TIVIT]: Migração do segundo firewall para Ascenty (operação kombi), migração dos links de internet, migração do balance F5 e TIBCO / desligamento de máquinas Sparc no mês de Maio\u000b\n PP – [Mamute] Linha Mestra: Início da Implantação / PA Definir melhor forma de apresentar visão estratégica sobre a frente da Linha Mestra.\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2396,9 +2389,9 @@
   {
     "ano": 2023,
     "mes": "Abril",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2438,9 +2431,9 @@
   {
     "ano": 2023,
     "mes": "Março",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[Mamute CX] CRM & Torre: Entrega das primeiras Sprints\n[Fonte Primária – Dado do Cliente] Definido Data Steward para o dado do cliente VLI “Luiza Cypriano, Walter Costa e Igor Vasconcelos\n[Fonte Primária – Dado do Cliente] Origem do dado do cliente será o CRM “Saleforce”\nSuite SIOP | Terminais: \u000bComissionamento do SIOP Automação Rodoviária\nSuite SIOP | Porto: Fase 01/02 da API Recintos (obrigações Legais RFB) em produção. Fase 02 prevista para abril/23\nSuite SIOP: Redução de 46% no número de incidentes (YoY fev. 367 x 196). No acumulado jan+fev redução de 45%\nPontos negativos\n[Suprimentos]: fortes atrasos que podem afetar metas dos times\n[Migração cloud]: anomalia na configuração do Golden Gate que causou rollbacks (PVLI, RH); chamado aberto na Oracle\n[Cyber] destrato com IBM/Qriar e contratação de 2º colocado \nSuite SIOP | Terminais: Impactos na implantação do SIOP Automação Rodoviária no Terminal de Porto Franco devido a problemas com equipamentos da TA; Terminal Operando, mas com automação parcial até a conclusão das correções por parte do fornecedor\nPontos de atenção/Próximos Passos\nPP – [Mamute] Linha Mestra: entrega LM\nPA – [Mamute] Inspeção visual de vagões com câmera: Câmeras instaladas, porém não foi possível rodar o software desenvolvido. CIMATEC acompanhando a equipe para resolução; Necessário definir a forma de sustentação do software desenvolvido com a CIMATEC\nP.P.: [Mamute CX] CRM: Revisão técnica do Salesforce com Arquitetura, SI e Dados\nP.A.: [Mamute Eficiência Comercial] Definição dos POs para as frentes de Jetsons Contratos e PV Digital\nP.A.: [Mamute CX] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03\n+\n!\nResponsáveis:  Loïc\n\nStatus:  atualizado"
+    "texto": "-\nPontos positivos\n[Mamute CX] CRM & Torre: Entrega das primeiras Sprints\n[Fonte Primária – Dado do Cliente] Definido Data Steward para o dado do cliente VLI “Luiza Cypriano, Walter Costa e Igor Vasconcelos\n[Fonte Primária – Dado do Cliente] Origem do dado do cliente será o CRM “Saleforce”\nSuite SIOP | Terminais: \u000bComissionamento do SIOP Automação Rodoviária\nSuite SIOP | Porto: Fase 01/02 da API Recintos (obrigações Legais RFB) em produção. Fase 02 prevista para abril/23\nSuite SIOP: Redução de 46% no número de incidentes (YoY fev. 367 x 196). No acumulado jan+fev redução de 45%\nPontos negativos\n[Suprimentos]: fortes atrasos que podem afetar metas dos times\n[Migração cloud]: anomalia na configuração do Golden Gate que causou rollbacks (PVLI, RH); chamado aberto na Oracle\n[Cyber] destrato com IBM/Qriar e contratação de 2º colocado \nSuite SIOP | Terminais: Impactos na implantação do SIOP Automação Rodoviária no Terminal de Porto Franco devido a problemas com equipamentos da TA; Terminal Operando, mas com automação parcial até a conclusão das correções por parte do fornecedor\nPontos de atenção/Próximos Passos\nPP – [Mamute] Linha Mestra: entrega LM\nPA – [Mamute] Inspeção visual de vagões com câmera: Câmeras instaladas, porém não foi possível rodar o software desenvolvido. CIMATEC acompanhando a equipe para resolução; Necessário definir a forma de sustentação do software desenvolvido com a CIMATEC\nP.P.: [Mamute CX] CRM: Revisão técnica do Salesforce com Arquitetura, SI e Dados\nP.A.: [Mamute Eficiência Comercial] Definição dos POs para as frentes de Jetsons Contratos e PV Digital\nP.A.: [Mamute CX] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03\n+\n!\nResponsáveis:  Loïc\n\nStatus:  atualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2459,9 +2452,9 @@
   {
     "ano": 2023,
     "mes": "Março",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2501,9 +2494,9 @@
   {
     "ano": 2023,
     "mes": "Fevereiro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[P&T] Kick-off raio-X SIOP com duração de 1 mês\n[Inova] Aprovação VC Brasil Agritest & Biz Model Shaping - Torre Brasil\n[TEC] migração do ERP ORACLE da TIVIT para OCI (-R$26k/mês / -1 SPARC de 5)\n[TEC] novo contrato impressão com Simpress(atual) = renovação 60% do parque e -R$170k/ano\n[TEC] migração serviço backups da TIVIT para DXC (TIPF, TMIB, TPSL, BH, TIPLAM e demais terminais em andamento)\n[FER] Inspeção vagões TPD: chegada das câmeras, início das adequações no site \n[FER] Sensonic: validação da compra de um módulo para CL (Campos Altos, cobrindo a Serra do Tigre)\n[CORP] novo Sistema +Valor: Straws definido como solução\nPontos negativos\n[3 F´s] projetos com atraso superior a 5 meses, decorrente da ausência de PO por longo período (FLOG – 4 meses) e baixa alocação de PO de faturamento no FLINK. Os atrasos interferem no cronograma do FLOU, mantém custos e gastos de projetos além do planejado, assunto amplamente discutido em comitê com os líderes.\n[TEC] migração BD cadeia CT-e falhou pela 2ª vez e foi remarcada para 22/2 (substituição DBA)\n[CORP] DW Suprimentos: Paralização do projeto devido à indisponibilidade de PO\n[CORP] Megabuyer: paralização dos desenvolvimentos devida custo Digital Access\n[Linha Mestra] e [Mamute] MBC VP: falta da visão da estratégia de conectividade e integração tecnológica entre as áreas: LD FER,  TI, TA, TO, Arquitetura Corporativa, Segurança da Informação e Engenharia 4.0\nPontos de atenção/Próximos Passos\n[TEC] aquisição de solução de WIFI 6: 2 ondas (1- 65 unidades para SEDE VLI, SP e DVL; 2- 120 APs para atender a 150 localidades VLI)\n[INOVA] Iniciar a 4o Edição do Programa Empreendedores Inova VLI\n[COM] Smart Pricing – estratégia de migração 4I para VLI em conjunto com Arquitetura\n[COM] definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado\n[COM] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03\n[Linha Mestra] visita da Radix nas unidades do Corredor CS para apresentação das iniciativas mapeadas e coleta de percepções dos líderes operacionais – até 10/03\n[MAMUTE P&T] César Toniolo irá defender a PDD no comité de CapEx de mar/2023;\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Desatualizado"
+    "texto": "-\nPontos positivos\n[P&T] Kick-off raio-X SIOP com duração de 1 mês\n[Inova] Aprovação VC Brasil Agritest & Biz Model Shaping - Torre Brasil\n[TEC] migração do ERP ORACLE da TIVIT para OCI (-R$26k/mês / -1 SPARC de 5)\n[TEC] novo contrato impressão com Simpress(atual) = renovação 60% do parque e -R$170k/ano\n[TEC] migração serviço backups da TIVIT para DXC (TIPF, TMIB, TPSL, BH, TIPLAM e demais terminais em andamento)\n[FER] Inspeção vagões TPD: chegada das câmeras, início das adequações no site \n[FER] Sensonic: validação da compra de um módulo para CL (Campos Altos, cobrindo a Serra do Tigre)\n[CORP] novo Sistema +Valor: Straws definido como solução\nPontos negativos\n[3 F´s] projetos com atraso superior a 5 meses, decorrente da ausência de PO por longo período (FLOG – 4 meses) e baixa alocação de PO de faturamento no FLINK. Os atrasos interferem no cronograma do FLOU, mantém custos e gastos de projetos além do planejado, assunto amplamente discutido em comitê com os líderes.\n[TEC] migração BD cadeia CT-e falhou pela 2ª vez e foi remarcada para 22/2 (substituição DBA)\n[CORP] DW Suprimentos: Paralização do projeto devido à indisponibilidade de PO\n[CORP] Megabuyer: paralização dos desenvolvimentos devida custo Digital Access\n[Linha Mestra] e [Mamute] MBC VP: falta da visão da estratégia de conectividade e integração tecnológica entre as áreas: LD FER,  TI, TA, TO, Arquitetura Corporativa, Segurança da Informação e Engenharia 4.0\nPontos de atenção/Próximos Passos\n[TEC] aquisição de solução de WIFI 6: 2 ondas (1- 65 unidades para SEDE VLI, SP e DVL; 2- 120 APs para atender a 150 localidades VLI)\n[INOVA] Iniciar a 4o Edição do Programa Empreendedores Inova VLI\n[COM] Smart Pricing – estratégia de migração 4I para VLI em conjunto com Arquitetura\n[COM] definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado\n[COM] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03\n[Linha Mestra] visita da Radix nas unidades do Corredor CS para apresentação das iniciativas mapeadas e coleta de percepções dos líderes operacionais – até 10/03\n[MAMUTE P&T] César Toniolo irá defender a PDD no comité de CapEx de mar/2023;\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Desatualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2522,9 +2515,9 @@
   {
     "ano": 2023,
     "mes": "Fevereiro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,
@@ -2564,9 +2557,9 @@
   {
     "ano": 2023,
     "mes": "Janeiro",
-    "area": null,
+    "area": "GER. GERAL TILD\u000bTILD",
     "responsavel": null,
-    "texto": "-\nPontos positivos\n[Prep. Safra]: plano safra c/  monitoramento de links, instalação de de equipamentos de redes de dados  modernos em P&T, plano de suporte integrado SIOP, UNILOG e UNICOM, atualização servidores, sistemas operacionais e código fonte.\n[Investimento corrente]: 92%  execução do investimento corrente de infra e sistemas legados, aplicados à renovação da infra de dados e voz, 40 sites nos corred. CN, DL, CS e MB. \n[Cyber]: proteção endpoints;  instalação de 100% dos ativos de TA mapeados (134 equipamentos)\n[CORP] CoE: desenv. de 2 processos de automação, Inteligov: ferramenta de relacionamento institucional.\nPontos negativos\n[Synchro cloud]: rollback go-live novo Synchro cloud em Novembro. Postergação da janela de atualização para o próximo dia 27/12, já aprovada por PPC.\n[Impacto na migração de trens VLI na EFC]: falha infra TIBCO VALE, c/ incidente em operação VLI (sem impacto de volume).\n[Suite SIOP]: reposição do PO do SIOP Porto com previsão para janeiro/23.\n[DW Suprimentos]: saída da VLI do PO do projeto.\n[INOV]: restrições jurídicas para parcerias internacionais\nPontos de atenção/Próximos Passos\n[INOV]: finalizar contrato com parceiro de Ventures\n[INOV]: reunião c/ GGs do Comercial para apresentar a proposta de Valor da 105\n[INOV]: Construção do plano de comunicação\n[Saída TIVIT]: Go live banco de dados da cadeia Ct-e previsto para o dia 09/01 e banco de RH no dia 10/02.\n[Cyber]: finalização da etapa do BIA e início das análises de riscos dos ativos\n[FER]: inspeção visual de vagões com câmera. Contrato com CIMATEC. Câmeras c/ previsão de chegada para Jan. 2023\n[CORP]: CoE: Entrega das outras 3 automações\n[COM]: finalização das contratações CRM e Torre de Controle\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Desatualizado"
+    "texto": "-\nPontos positivos\n[Prep. Safra]: plano safra c/  monitoramento de links, instalação de de equipamentos de redes de dados  modernos em P&T, plano de suporte integrado SIOP, UNILOG e UNICOM, atualização servidores, sistemas operacionais e código fonte.\n[Investimento corrente]: 92%  execução do investimento corrente de infra e sistemas legados, aplicados à renovação da infra de dados e voz, 40 sites nos corred. CN, DL, CS e MB. \n[Cyber]: proteção endpoints;  instalação de 100% dos ativos de TA mapeados (134 equipamentos)\n[CORP] CoE: desenv. de 2 processos de automação, Inteligov: ferramenta de relacionamento institucional.\nPontos negativos\n[Synchro cloud]: rollback go-live novo Synchro cloud em Novembro. Postergação da janela de atualização para o próximo dia 27/12, já aprovada por PPC.\n[Impacto na migração de trens VLI na EFC]: falha infra TIBCO VALE, c/ incidente em operação VLI (sem impacto de volume).\n[Suite SIOP]: reposição do PO do SIOP Porto com previsão para janeiro/23.\n[DW Suprimentos]: saída da VLI do PO do projeto.\n[INOV]: restrições jurídicas para parcerias internacionais\nPontos de atenção/Próximos Passos\n[INOV]: finalizar contrato com parceiro de Ventures\n[INOV]: reunião c/ GGs do Comercial para apresentar a proposta de Valor da 105\n[INOV]: Construção do plano de comunicação\n[Saída TIVIT]: Go live banco de dados da cadeia Ct-e previsto para o dia 09/01 e banco de RH no dia 10/02.\n[Cyber]: finalização da etapa do BIA e início das análises de riscos dos ativos\n[FER]: inspeção visual de vagões com câmera. Contrato com CIMATEC. Câmeras c/ previsão de chegada para Jan. 2023\n[CORP]: CoE: Entrega das outras 3 automações\n[COM]: finalização das contratações CRM e Torre de Controle\n+\n!\nResponsáveis:  Loïc\n\nStatus:  Desatualizado\nSINTESE GER. GERAL TILD\u000bTILD"
   },
   {
     "ano": 2023,
@@ -2585,9 +2578,9 @@
   {
     "ano": 2023,
     "mes": "Janeiro",
-    "area": null,
+    "area": "GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO",
     "responsavel": null,
-    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado"
+    "texto": "Responsáveis: Juliano Gomes\n\nStatus:  Atualizado\nSíntese do mês | Gerência de Segurança da Informação"
   },
   {
     "ano": 2023,

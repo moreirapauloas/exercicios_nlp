@@ -6,13 +6,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Recorrência de problemas de intercambio FNS e descarga Tegram]: tivemos recorrência de falhas de intercambio com a VALE com impacto em trens por falha de negócio em faturamento, motivo erro de cadastro e ausência de preço/fluxo contratual. Recorrência de atraso na descarga por falha de recebimento de peso de clientes VLI pelo TEGRAM. Foi identificado falha no sistema GTS (TI TEGRAM), correção realizada na última semana e após correção não houve novos erros.",
+    "texto": "[Recorrência de problemas de intercambio FNS e descarga Tegram]: tivemos recorrência de falhas de intercambio com a Empresa C1 com impacto em trens por falha de negócio em Setor A10, motivo erro de cadastro e ausência de preço/fluxo contratual. Recorrência de atraso na descarga por falha de recebimento de peso de clientes Empresa C0 pelo TEGRAM. Foi identificado falha no sistema GTS (TI TEGRAM), correção realizada na última semana e após correção não houve novos erros.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute CX] Torre de Controle: Rollout para os corredores Minas Rio e Minas Bahia",
+    "texto": "P.P.: [Projeto P47] Projeto P49: Rollout para os corredores Minas Rio e Minas Bahia",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -36,7 +36,7 @@
     "confianca": "media"
   },
   {
-    "texto": "Linha Mestra – Speed Corporativo: Atraso na adoção do novo processo de otimização do plano de descarregamento de navios no PECÉM. Plano de ação já elaborado e em execução.",
+    "texto": "Projeto P51 – Speed Corporativo: Atraso na adoção do novo processo de otimização do plano de descarregamento de navios no PECÉM. Plano de ação já elaborado e em execução.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -48,7 +48,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Linha Mestra: Início da Implantação;",
+    "texto": "P.P. – [Projeto P46] Projeto P51: Início da Implantação;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -72,13 +72,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Estratégia do novo aditivo de contrato com o fornecedor 4 Intelligence com atenção às questões de propriedade intelectual, “Non compete” e transição da solução para o domínio VLI;",
+    "texto": "P.A.: [Projeto P50] Estratégia do novo aditivo de contrato com o fornecedor 4 Intelligence com atenção às questões de propriedade intelectual, “Non compete” e transição da solução para o domínio Empresa C0;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Centro de Inteligência: PDD aguardando aprovação da diretoria.",
+    "texto": "P.A. Projeto P17: Projeto P42 aguardando aprovação da diretoria.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -90,13 +90,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada fase 1 – Projeto replanejado com go live em jun/25",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto replanejado com go live em jun/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Migração SAP: Atraso na liberação do Funding da Microsoft impactando início do Lift and Shift do BW, pela LPJ – Liberado em 06/03.",
+    "texto": "Projeto P15: Atraso na liberação do Funding da Empresa C21 impactando início do Lift and Shift do BW, pela LPJ – Liberado em 06/03.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -108,25 +108,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. S&OP Digital (Bain): Incerteza na entrega do trabalho pela Bain. Bain prometeu nova data limite para entrega do escopo no dia 15/08. Na semana do dia 09/09 vamos receber a Bain em BH e faremos em conjunto a deliberação da entrega (ou não) do produto de simulador mensal.",
+    "texto": "P.A. Projeto P10 (Empresa C26): Incerteza na entrega do trabalho pela Empresa C26. Empresa C26 prometeu nova data limite para entrega do escopo no dia 15/08. Na semana do dia 09/09 vamos receber a Empresa C26 em Localidade L30 e faremos em conjunto a deliberação da entrega (ou não) do produto de simulador mensal.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Não há rastreabilidade das decisões tomadas nas reuniões de governança.",
+    "texto": "Não há Projeto P56 das decisões tomadas nas reuniões de governança.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "[ENCERRAMENTO OPERAÇÕES TIVIT]: concluída a migração de 100% dos serviços e ativos de TI VLI para cloud e DC Ascenty com sucesso; Mitigação de risco TIVIT e modernização de infraestrutura e das aplicações concluída com sucesso.",
+    "texto": "[ENCERRAMENTO OPERAÇÕES TIVIT]: concluída a migração de 100% dos serviços e ativos de TI Empresa C0 para cloud e DC Ascenty com sucesso; Mitigação de risco TIVIT e modernização de infraestrutura e das aplicações concluída com sucesso.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute CX] Torre de Controle: Concluir MVP em Itacibá-ES e realizar Go Live Full da Torre para o Corredor Centro Leste;",
+    "texto": "P.P.: [Projeto P47] Projeto P49: Concluir MVP em Localidade L22-ES e realizar Go Live Full da Torre para o Corredor Localidade L4;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -138,7 +138,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "[MBV VP] GED Alfresco: atraso na instalação dos componentes em ambiente Windows, gerando riscos para o go live em 2024.",
+    "texto": "[MBV VP] GED Projeto P23: atraso na instalação dos componentes em ambiente Windows, gerando riscos para o go live em 2024.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -174,13 +174,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Vênus]:atraso na frente de sistemas de TI decorrente de morosidade pela decisão de modelo operacional e uso do portal ATF VALE; Decisão ocorreu somente em 24/03 e permitirá a retomada dos trabalhos com postergação do go live para out/26.",
+    "texto": "[Projeto P13]:atraso na frente de sistemas de TI decorrente de morosidade pela decisão de modelo operacional e uso do portal ATF Empresa C1; Decisão ocorreu somente em 24/03 e permitirá a retomada dos trabalhos com postergação do go live para out/26.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute CX] Salesforce: Planejamento de entregáveis para o segundo semestre 2023 e revisão do contrato com o fornecedor Everymind;",
+    "texto": "P.P.: [Projeto P47] Projeto P39: Planejamento de entregáveis para o segundo semestre 2023 e revisão do contrato com o fornecedor Everymind;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -198,13 +198,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] MBC VP: Geral: Validação da base georreferenciada de curvas e tangentes.",
+    "texto": "P.P. [Projeto P46] Projeto P54 VP: Geral: Validação da base georreferenciada de curvas e tangentes.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. SAT: Roll out pros demais portos e terminais em 2024. Configurar Elastic e realizar análise de performance da ferramenta.",
+    "texto": "P.P. Projeto P27: Roll out pros demais Setor A2 em 2024. Configurar Elastic e realizar análise de performance da ferramenta.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -222,19 +222,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "Demora em Sumprimentos para formalização de aditivo contratual para extensão de saldo no SAP, que pode causar a interrupção do Mamute Data Driven em jun/23. Essa interrupção significa a desmobilização do times dos squads e pode por a perder 6 meses de montagem da equipe e igual período de atraso no programa.",
+    "texto": "Demora em Sumprimentos para formalização de aditivo contratual para extensão de saldo no Empresa C20, que pode causar a interrupção do Projeto P46 Data Driven em jun/23. Essa interrupção significa a desmobilização do times dos squads e pode por a perder 6 meses de montagem da equipe e igual período de atraso no programa.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] CRM e TORRE: Ativação da integração entre Salesforce e ServiceNow. Atendimento TILD e Integração Command Center com Torre.",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM e TORRE: Ativação da integração entre Projeto P39 e Empresa C25. Atendimento Setor A1 e Integração Command Center com Torre.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Alta rotatividade no time de suprimentos atrasou os processos de contratação.",
+    "texto": "Alta rotatividade no time de Setor A4 atrasou os processos de contratação.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -246,7 +246,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com SCCF – rastreamento de vagões. Tentativa de agregar valor de rastreamento da carga do cliente com a junção de dados do NITRO e SCCF. Em execução – [Jul/25]",
+    "texto": "P.P.: [Projeto P49] Integração com SCCF – rastreamento de vagões. Tentativa de agregar valor de rastreamento da carga do cliente com a junção de dados do NITRO e SCCF. Em execução – [Jul/25]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -258,19 +258,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Salesforce: Integração Flou para cliente Gestão;",
+    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Projeto P39: Integração Projeto P57 para cliente Gestão;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Integração entre CRM e SAP com o objetivo de centralizar a criação e padronização dos dados de clientes granulares. Em testes integrados, Go Live replanejamento para (14/12  16/01/2024);",
+    "texto": "P.P.: [Projeto P47] CRM: Integração entre CRM e Empresa C20 com o objetivo de centralizar a criação e padronização dos dados de clientes granulares. Em testes integrados, Go Live replanejamento para (14/12  16/01/2024);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Ativação da integração com a solução GBM no TEGRAM para monitorar ativos em pátio de terceiros (GBM TEGRAM vs UNILOG vs Torre de Controle) - Jul/24",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Ativação da integração com a solução GBM no TEGRAM para monitorar ativos em pátio de terceiros (GBM TEGRAM vs Projeto P74 vs Projeto P49) - Jul/24",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -282,7 +282,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [AMS Comercial]: Estudo reorganização do time de suporte, treinamento ServiceNow, Processos e Governança TILD",
+    "texto": "P.A.: [AMS Setor A9]: Estudo reorganização do time de suporte, treinamento Empresa C25, Processos e Governança Setor A1",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -306,19 +306,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] PV Digital: Produto congelado até substituição total pelo Salesforce",
+    "texto": "P.A.: [Projeto P48] PV Digital: Produto congelado até substituição total pelo Projeto P39",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – Gestão de Ativos de Infra de VP: PoC realizada com a Genesis no dia 28.mar em Azurita, porém aplicativo não permitiu inspecionar ativos não cadastrados no SAP (premissa do projeto). Genesis ficou de corrigir e dar retorno para próximos passos.",
+    "texto": "P.A. – Gestão de Ativos de Infra de VP: PoC realizada com a Genesis no dia 28.mar em Azurita, porém aplicativo não permitiu inspecionar ativos não cadastrados no Empresa C20 (premissa do projeto). Genesis ficou de corrigir e dar retorno para próximos passos.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "A falta de governança sobre os dados mestres gera inconsistências nos relatórios.",
+    "texto": "A falta de governança sobre os Projeto P53 gera inconsistências nos relatórios.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -330,19 +330,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Salesforce Plataforma] Renovação contratual – RC aberta como contratação direta, processo iniciado com Suprimentos ~8MM – Material explicativo em elaboração – [Ago/25]",
+    "texto": "P.P.: [Projeto P39 Plataforma] Renovação contratual – RC aberta como contratação direta, processo iniciado com Setor A4 ~8MM – Material explicativo em elaboração – [Ago/25]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] PV Digital: Processo de descomissionamento com início em Jun/25 e conclusão em Set/25",
+    "texto": "P.A.: [Projeto P48] PV Digital: Processo de descomissionamento com início em Jun/25 e conclusão em Set/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Linha Mestra – AMZ Inteligente: Atraso na emissão do pedido de materiais para instalação elétrica do TIUB, devido a reclassificação de materiais conforme o projeto W2W.",
+    "texto": "Projeto P51 – AMZ Inteligente: Atraso na emissão do pedido de materiais para instalação elétrica do Localidade L7, devido a reclassificação de materiais conforme o projeto W2W.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -360,25 +360,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Ativação Data Lake e ações de ingestão de dados operacionais:",
+    "texto": "P.P.: [Projeto P49] Ativação Projeto P61 e ações de ingestão de dados operacionais:",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[P&T] Requalificação Suite SIOP: PROJETO NIEMEYER – Atraso na validação do roadmap macro do fluxo de valor para autorizar o desenvolvimento dos novos módulos e concluir o material da PDD.",
+    "texto": "[Setor A2] Requalificação Projeto P67: PROJETO NIEMEYER – Atraso na validação do roadmap macro do fluxo de valor para autorizar o desenvolvimento dos novos módulos e concluir o material da Projeto P42.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Centro de Inteligência: Validação da nova arquitetura de integração de dados com GPV (Vale) para início dos desenvolvimentos.",
+    "texto": "P.P. Projeto P17: Validação da nova arquitetura de integração de dados com GPV (Empresa C1) para início dos desenvolvimentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -402,7 +402,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Definição dos POs para as frentes de Jetsons Contratos e PV Digital",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e PV Digital",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -414,7 +414,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Salesforce: Negociação final com o implementador Salesforce sobre escopo fechado e próximas fases;",
+    "texto": "P.P.: [Projeto P47] Projeto P39: Negociação final com o implementador Projeto P39 sobre escopo fechado e próximas fases;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -432,13 +432,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "Alfresco: Atraso na instalação dos componentes em ambiente windows, gerando riscos para o go live em 2024.",
+    "texto": "Projeto P23: Atraso na instalação dos componentes em ambiente windows, gerando riscos para o go live em 2024.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. Niemeyer RH: Contratação da implantação do sistema LG Cloud.",
+    "texto": "P.P. Niemeyer RH: Contratação da implantação do sistema Empresa C32 Cloud.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -450,19 +450,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Participação no premeio ABM Week em conjunto com o Cliente Usiminas;",
+    "texto": "P.P.: [Projeto P47] Participação no premeio ABM Week em conjunto com o Cliente Empresa C10;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Salesforce: Integração Flou para cliente Gestão",
+    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Projeto P39: Integração Projeto P57 para cliente Gestão",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Suprimentos]: novo turnover no Especialista de compras de tecnologia já acumula lentidão nos processos Microsoft, Oracle, outros que já deveriam ter sido concluídos. A lentidão coloca em risco a estratégia de redução de custos desses contratos, pressionando o opex 2024.",
+    "texto": "[Setor A4]: novo turnover no Especialista de compras de tecnologia já acumula lentidão nos processos Empresa C21, Empresa C24, outros que já deveriam ter sido concluídos. A lentidão coloca em risco a estratégia de redução de custos desses contratos, pressionando o opex 2024.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -480,7 +480,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Problema de performance no Databricks em produção afeta os pipelines de dados críticos.",
+    "texto": "Problema de performance no Empresa C23 em produção afeta os pipelines de dados críticos.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -498,7 +498,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "RPA: Atraso na liberação de acessos impedindo a conclusão de 3 automações.",
+    "texto": "Projeto P63: Atraso na liberação de acessos impedindo a conclusão de 3 automações.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -528,7 +528,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023. Risco iminente de grande redução de equipe alocada no Centro de Inteligência.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023. Risco iminente de grande redução de equipe alocada no Projeto P17.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -540,37 +540,37 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Pátio do Futuro: Defesa da PDD da temática Pátio do Futuro da Linha Mestra com escopo da iniciativa de Controle Remoto de Locomotivas para operações de carregamento e descarga no TIUB.",
+    "texto": "P.P. [Projeto P46] Projeto P69: Defesa da Projeto P42 da temática Projeto P69 da Projeto P51 com escopo da iniciativa de Controle Remoto de Locomotivas para operações de carregamento e descarga no Localidade L7.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Mamute] MBC VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual.",
+    "texto": "[Projeto P46] Projeto P54 VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Solução de gestão de estadia na Torre de Controle – desenvolvimento Jul/2024 e início rollout para os demais clientes / Segmentos até out/24.",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Solução de gestão de estadia na Projeto P49 – desenvolvimento Jul/2024 e início rollout para os demais clientes / Segmentos até out/24.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Atualização Windows 10 → 11: Fim do suporte Microsoft e atraso na renegociação do contrato de computadores. Frente integrada (CX, SI, Network, Kyndryl) em testes para atualização remota, com conclusão prevista até 14/10/25 (1.521 equipamentos). Risco formalizado devido à demora na reposição de notebooks.",
+    "texto": "Atualização Windows 10 → 11: Fim do suporte Empresa C21 e atraso na renegociação do contrato de computadores. Frente integrada (Setor A7, Setor A6, Setor A13, Kyndryl) em testes para atualização remota, com conclusão prevista até 14/10/25 (1.521 equipamentos). Risco formalizado devido à demora na reposição de notebooks.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "[Jornada Vendas] No Go Onda 2 Jornada Vendas no processo de gestão do aditivo contratual comercial - Replanejamento para Go Live ainda em Julho/25.",
+    "texto": "[Jornada Vendas] No Go Onda 2 Jornada Vendas no processo de gestão do aditivo contratual Setor A9 - Replanejamento para Go Live ainda em Julho/25.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Os dados mestres de clientes estão desatualizados e com registros duplicados.",
+    "texto": "Os Projeto P53 de clientes estão desatualizados e com registros duplicados.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -582,7 +582,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jetsons Contrato: Processo de descomissionamento com início em Jun/25 conclusão em Set/25",
+    "texto": "P.A.: [Projeto P48] Jetsons Contrato: Processo de descomissionamento com início em Jun/25 conclusão em Set/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -594,7 +594,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. S&OP Digital: Rollout S&OP Digital para CN.",
+    "texto": "P.P. Projeto P10: Rollout Projeto P10 para CN.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -612,7 +612,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Redução de incidentes de peso balança]: A partir de julho, foram implementadas ações corretivas, como a aplicação do Peso Fiscal para Notas Complementares, a clareza sobre a necessidade de intervenção no Complexo Portuário (Tegram) e a melhoria no sincronismo SIOP para EDI (redução de 12h para 1h). Após essas correções, não houve novos incidentes. Uma melhoria futura planejada é o alinhamento com o TEGRAM para envio dos dados do Impressão Zero, substituindo a ficha trem/EDI.",
+    "texto": "[Redução de incidentes de peso balança]: A partir de julho, foram implementadas ações corretivas, como a aplicação do Peso Fiscal para Notas Complementares, a clareza sobre a necessidade de intervenção no Complexo Portuário (Tegram) e a melhoria no sincronismo Projeto P36 para EDI (redução de 12h para 1h). Após essas correções, não houve novos incidentes. Uma melhoria futura planejada é o alinhamento com o TEGRAM para envio dos dados do Impressão Zero, substituindo a ficha trem/EDI.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -630,13 +630,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "JDD/ Termos de Negócio: Entrega de fluxo de aprovação de termos de negócio pelos Data Stewards na ferramenta INFORMATICA.",
+    "texto": "JDD/ Termos de Negócio: Entrega de fluxo de aprovação de termos de negócio pelos Data Stewards na ferramenta Empresa C31.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P Centro de Inteligência: Definição de roadmap estruturado para saneamento de indicadores chave.",
+    "texto": "P.P Projeto P17: Definição de roadmap estruturado para saneamento de indicadores chave.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -648,7 +648,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -660,31 +660,31 @@
     "confianca": "alta"
   },
   {
-    "texto": "Atualização Windows 10 → 11: Fim do suporte Microsoft e atraso na renegociação do contrato de computadores. Frente integrada (CX, SI, Network, Kyndryl) em testes para atualização remota, com conclusão prevista até 14/10/25 (272 equipamentos). Risco formalizado devido à demora na reposição de notebooks.",
+    "texto": "Atualização Windows 10 → 11: Fim do suporte Empresa C21 e atraso na renegociação do contrato de computadores. Frente integrada (Setor A7, Setor A6, Setor A13, Kyndryl) em testes para atualização remota, com conclusão prevista até 14/10/25 (272 equipamentos). Risco formalizado devido à demora na reposição de notebooks.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Migração MDM para Databricks [Cliente e Localidade]: Go Live realizado.",
+    "texto": "Migração Projeto P73 para Empresa C23 [Cliente e Localidade]: Go Live realizado.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada – Substituição PV pela plataforma Salesforce. Processo de contratação em fase final com Suprimentos.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada – Substituição PV pela plataforma Projeto P39. Processo de contratação em fase final com Setor A4.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Solução Jetsons Contratos e Preços: Essa solução Digital está em transição da área comercial para de Vendas e Faturamento GA André Cesar e GG Marcos Laranja. Essa transição visa fortalecer os produtos digitais e os processos. Seguimos sem alteração na TILD.",
+    "texto": "P.A.: [Projeto P48] Solução Jetsons Contratos e Preços: Essa solução Digital está em transição da área Setor A9 para de Vendas e Setor A10 GA Pessoa E2 Cesar e GG Marcos Laranja. Essa transição visa fortalecer os produtos digitais e os processos. Seguimos sem alteração na Setor A1.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "SUITE SIOP: P.A. API Recintos: Atraso na entrega pela Accenture irá postergar o início da operação do Trato para setembro/24  | P.A. Rollout EDGE para TIA e TIGU planejados para julho em risco devido aos atrasos nas correções de incidadentes pela equipe Accenture. | P.P. Avaliar efetividade do plano de ações da Accenture para ganho de performance dos squads;",
+    "texto": "Projeto P67: P.A. API Recintos: Atraso na entrega pela Empresa C19 irá postergar o início da operação do Trato para setembro/24  | P.A. Rollout EDGE para Localidade L1 e Localidade L11 planejados para julho em risco devido aos atrasos nas correções de incidadentes pela equipe Empresa C19. | P.P. Avaliar efetividade do plano de ações da Empresa C19 para ganho de performance dos squads;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -696,7 +696,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Inspeção visual por câmeras: Realizar avaliação com CIMATEC para encerramento do contrato. Avaliação de novos fornecedores já em andamento para seguimento do projeto.",
+    "texto": "P.P. – [Projeto P46] Inspeção visual por câmeras: Realizar avaliação com CIMATEC para encerramento do contrato. Avaliação de novos fornecedores já em andamento para seguimento do projeto.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -708,7 +708,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "[SI] Redesenho de Perfis/SOD: O atraso na reconstrução dos perfis se deve a não conclusão dos testes principalmente da área de manutenção.",
+    "texto": "[Setor A6] Redesenho de Perfis/SOD: O atraso na reconstrução dos perfis se deve a não conclusão dos testes principalmente da área de manutenção.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -720,19 +720,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM e Torre de Controle: Phase-out e Phase-in fornecedor Salesforce de sustentação e desenvolvimento (06/24);",
+    "texto": "P.P.: [Projeto P47] CRM e Projeto P49: Phase-out e Phase-in fornecedor Projeto P39 de sustentação e desenvolvimento (06/24);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Trato ( 05/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Trato ( 05/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Pátio do Futuro: Avaliar se PoC do Controle Remoto no TIUB atende os requisitos da meta.",
+    "texto": "P.P. – [Projeto P46] Projeto P69: Avaliar se PoC do Controle Remoto no Localidade L7 atende os requisitos da meta.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -762,7 +762,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jetsons Contrato: Produto congelado até substituição total pelo Salesforce em 2025",
+    "texto": "P.A.: [Projeto P48] Jetsons Contrato: Produto congelado até substituição total pelo Projeto P39 em 2025",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -786,25 +786,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. SIOP Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09;",
+    "texto": "P.A. Projeto P36 Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. S&OP Digital (Bain): Incerteza na entrega do trabalho pela Bain. Bain prometeu nova data limite para entrega do escopo no dia 15/08.",
+    "texto": "P.A. Projeto P10 (Empresa C26): Incerteza na entrega do trabalho pela Empresa C26. Empresa C26 prometeu nova data limite para entrega do escopo no dia 15/08.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Linha Mestra: Detalhamento da apresentação para realização do “Linha Mestra Day”.",
+    "texto": "P.P. – [Projeto P46] Projeto P51: Detalhamento da apresentação para realização do “Projeto P51 Day”.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jetsons Contrato: Processo de descomissionamento com início em Jun/25",
+    "texto": "P.A.: [Projeto P48] Jetsons Contrato: Processo de descomissionamento com início em Jun/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -822,25 +822,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Integrações Empresa C1 – Assinatura de contratos com fornecedores prevista para 24/03",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] CRM – Customer Portal: Estudo de viabilidade e POC para evolir a solução CONECTA para um portal integrado na plataforma Salesforce (06/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM – Customer Portal: Estudo de viabilidade e POC para evolir a solução CONECTA para um portal integrado na plataforma Projeto P39 (06/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Databricks: Concluída preparação do ambiente de produção para projetos da VLI. Habilitados Engenharia de Dados & Ingestão no Databricks. Fechados os aceleradores que serão usados nos projetos de migração.",
+    "texto": "Empresa C23: Concluída preparação do ambiente de produção para projetos da Empresa C0. Habilitados Engenharia de Dados & Ingestão no Empresa C23. Fechados os aceleradores que serão usados nos projetos de migração.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "[Mamute] MBC VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual (tripartite). Situação já escalada.",
+    "texto": "[Projeto P46] Projeto P54 VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual (tripartite). Situação já escalada.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -858,7 +858,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Centro de Inteligência: Não aprovação da PDD gerando possível desmobilização das equipes de desenvolvimento.",
+    "texto": "P.A. Projeto P17: Não aprovação da Projeto P42 gerando possível desmobilização das equipes de desenvolvimento.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -870,19 +870,19 @@
     "confianca": "media"
   },
   {
-    "texto": "Centro de Inteligência: Conclusão da entrega do 2º ciclo de OKR de 2025 e definição do 3º ciclo.",
+    "texto": "Projeto P17: Conclusão da entrega do 2º ciclo de OKR de 2025 e definição do 3º ciclo.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute Ef. Comercial] Smart Pricing – estratégia de migração 4 Intelligence para VLI em conjunto com Arquitetura;",
+    "texto": "P.P.: [Projeto P46 Ef. Setor A9] Projeto P58 – estratégia de migração 4 Intelligence para Empresa C0 em conjunto com Arquitetura;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. RPA:  Discovery de automações nas GGs de Serviços ao Negócio.",
+    "texto": "P.P. Projeto P63:  Discovery de automações nas GGs de Serviços ao Negócio.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -894,25 +894,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Conecta - Relatório de saldo de estoque SIOP;",
+    "texto": "P.P.: [Projeto P47] Conecta - Relatório de saldo de estoque Projeto P36;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Analytics: Nova versão do replicador DW para Data Lake com melhoria de estabilidade e redução de custos. O replicador é fundamental para reaproveitamento dos dados (aceleração) e para evitar redundância de regras de negócio.",
+    "texto": "Analytics: Nova versão do replicador DW para Projeto P61 com melhoria de estabilidade e redução de custos. O replicador é fundamental para reaproveitamento dos dados (aceleração) e para evitar redundância de regras de negócio.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. SAT: Iniciar em novembro a operação assistida no TMIB e avaliar continuidade da ferramenta na VLI.",
+    "texto": "P.P. Projeto P27: Iniciar em novembro a operação assistida no Localidade L14 e avaliar continuidade da ferramenta na Empresa C0.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. SAT: Iniciar em outubro a operação assistida no TIPN e avaliar continuidade da ferramenta na VLI.",
+    "texto": "P.P. Projeto P27: Iniciar em outubro a operação assistida no Localidade L9 e avaliar continuidade da ferramenta na Empresa C0.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -924,25 +924,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Alfresco: Migração de documentos.",
+    "texto": "P.P. Projeto P23: Migração de documentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: PIPELINE AZURE DEVOPS SALESFORCE: Previsão de conclusão em 11/24 (Versionamento, qualidade de código, testes automatizados, CONVISO SI, CI, CD).",
+    "texto": "P.P.: PIPELINE Projeto P64 DEVOPS Projeto P39: Previsão de conclusão em 11/24 (Versionamento, qualidade de código, testes automatizados, CONVISO Setor A6, Projeto P18, CD).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. S&OP Digital: Definição dos OKRs do 2T25.",
+    "texto": "P.P. Projeto P10: Definição dos OKRs do 2T25.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Preparação Torre de Controle Centro Sudeste em Paulínia-SP 21/07",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Preparação Projeto P49 Centro Sudeste em Localidade L24-SP 21/07",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -954,13 +954,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Trato ( 04/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Trato ( 04/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Linha Mestra – AMZ Inteligente: Atraso na ativação dos equipamentos do AZF2 do TIPLAM, impactando a visualização dos dados no sistema. Conclusão prevista para jan/25;",
+    "texto": "Projeto P51 – AMZ Inteligente: Atraso na ativação dos equipamentos do AZF2 do Localidade L3, impactando a visualização dos dados no sistema. Conclusão prevista para jan/25;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -978,43 +978,43 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com SCCF – rastreamento de vagões. Tentativa de agregar valor de rastreamento da carga do cliente com a junção de dados do NITRO e SCCF. (Em planejamento)",
+    "texto": "P.P.: [Projeto P49] Integração com SCCF – rastreamento de vagões. Tentativa de agregar valor de rastreamento da carga do cliente com a junção de dados do NITRO e SCCF. (Em planejamento)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] MBC VP: Sistema Autônomo de Geometria e Sistema Inspeção por Imagem em fase de aprovação por suprimentos, faltando negociação comercial, alinhamentos com Comexport (responsável pela importação) e assinatura de contrato;",
+    "texto": "P.P. – [Projeto P46] Projeto P54 VP: Sistema Autônomo de Geometria e Sistema Inspeção por Imagem em fase de aprovação por Setor A4, faltando negociação Setor A9, alinhamentos com Comexport (responsável pela importação) e assinatura de contrato;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado;",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [Mamute 2023] PDD Mamutes P&T Inteligentes: Atraso na aprovação da PDD deslocou os ganhos de 2023 para 2024;",
+    "texto": "P.A. [Projeto P46 2023] Projeto P42 Mamutes Setor A2 Inteligentes: Atraso na aprovação da Projeto P42 deslocou os ganhos de 2023 para 2024;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Preparação Torre de Controle Centro Leste em Itacibá 30/06",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Preparação Projeto P49 Localidade L4 em Localidade L22 30/06",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Orçamento Digital: Atraso na mobilização do arquiteto que irá definir o Stack tecnológico que será utilizado para modernização do legado.",
+    "texto": "Projeto P20: Atraso na mobilização do arquiteto que irá definir o Stack tecnológico que será utilizado para modernização do legado.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P Mamute Planejamento Dinâmico: Alinhamento com liderança e Sponsor sobre a continuidade dos produtos Smartplanner/S&OP Digital",
+    "texto": "P.P Projeto P46 Planejamento Dinâmico: Alinhamento com liderança e Sponsor sobre a continuidade dos produtos Smartplanner/Projeto P10",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1026,7 +1026,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Melhorar a arquitetura entre CIAM e Salesforce;",
+    "texto": "P.P.: [Projeto P47] CRM: Melhorar a arquitetura entre Projeto P72 e Projeto P39;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1044,31 +1044,31 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. S&OP Digital: Execução de plano \"Kamikaze\" na CN em Março para rodar o plano oficial na ferramenta.",
+    "texto": "P.P. Projeto P10: Execução de plano \"Kamikaze\" na CN em Março para rodar o plano oficial na ferramenta.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Implantação de Starlink como redundância em unidades da VLI desalinhado com a área de SI e com risco de não atender as expectativas da empresa devido ao bloqueio de segurança por geolocalização (alerta realizado em abril/24)",
+    "texto": "Implantação de Starlink como redundância em unidades da Empresa C0 desalinhado com a área de Setor A6 e com risco de não atender as expectativas da empresa devido ao bloqueio de segurança por geolocalização (alerta realizado em abril/24)",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P Centro de Inteligência: Entrega do DRO dos corredores CL, CN, MR e MB.",
+    "texto": "P.P Projeto P17: Entrega do DRO dos corredores CL, CN, MR e MB.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Smart Sales] PV e Jetsons: Renovação do contrato IOASYS será por contratação direta. Sinergia com P&D Salesforce. RC 10623054 aberta já na caixa fiori do Loic e na sequência irá para autorização da Diretora Rute.",
+    "texto": "P.A.:[Projeto P48] PV e Jetsons: Renovação do contrato IOASYS será por contratação direta. Sinergia com P&D Projeto P39. RC 10623054 aberta já na caixa fiori do Pessoa E16 e na sequência irá para autorização da Diretora Rute.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] Torre de Controle: Solução de gestão de estadia na Torre de Controle – planejamento rollout em Jul/2024 para os demais clientes / Segmentos;",
+    "texto": "P.P.: [Iniciativa Setor A7] Projeto P49: Solução de gestão de estadia na Projeto P49 – planejamento rollout em Jul/2024 para os demais clientes / Segmentos;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1080,7 +1080,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Alfresco: Replanejamento da implantação.",
+    "texto": "P.P. Projeto P23: Replanejamento da implantação.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1092,7 +1092,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Centro de Inteligência: Conclusão do 2º ciclo de OKR de 2024 com entrega de 100% dos objetivos propostos, e definição dos objetivos e resultados chave do 3º ciclo de OKR de 2024.",
+    "texto": "Projeto P17: Conclusão do 2º ciclo de OKR de 2024 com entrega de 100% dos objetivos propostos, e definição dos objetivos e resultados chave do 3º ciclo de OKR de 2024.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -1110,7 +1110,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Definição dos POs para as frentes de Jetsons Contratos e PV Digital;",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e PV Digital;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1140,7 +1140,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Integração com CCO sistema NITRO para captura do dado de localização de trens (Agosto/24).",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Integração com Setor A8 sistema NITRO para captura do dado de localização de trens (Agosto/24).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1152,7 +1152,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Pátio do Futuro: Apresentação do resultado da PoC para Fabrício Rezende dia 21.dez. Abertura das PEPs para aquisições 2024.",
+    "texto": "P.P. [Projeto P46] Projeto P69: Apresentação do resultado da PoC para Fabrício Rezende dia 21.dez. Abertura das PEPs para aquisições 2024.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1170,19 +1170,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] MBC VP: Geral - Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem - Assinatura de contrato das aquisições dos equipamentos.",
+    "texto": "P.P. – [Projeto P46] Projeto P54 VP: Geral - Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem - Assinatura de contrato das aquisições dos equipamentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Preditiva 4.0: Morgaoo: Emitir a requisição de compra de mais 2 kits a serem instalados em locomotivas. Evoluir na definição da arquitetura de dados do projeto.",
+    "texto": "P.P. [Projeto P46] Preditiva 4.0: Morgaoo: Emitir a requisição de compra de mais 2 kits a serem instalados em locomotivas. Evoluir na definição da arquitetura de dados do projeto.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: atraso na contratação da TCS coloca em risco o cumprimento do roadmap de ativação do otimizador da Smartplanner até 30/06.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso na contratação da TCS coloca em risco o cumprimento do roadmap de ativação do otimizador da Smartplanner até 30/06.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1212,7 +1212,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Preditiva 4.0: Morgaoo: Emitir a requisição de compra de mais 2 kits a serem instalados em locomotivas.",
+    "texto": "P.P. [Projeto P46] Preditiva 4.0: Morgaoo: Emitir a requisição de compra de mais 2 kits a serem instalados em locomotivas.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1224,13 +1224,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. SAT: Necessário realizar análise de performance da ferramenta.",
+    "texto": "P.A. Projeto P27: Necessário realizar análise de performance da ferramenta.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.:[Mamute CX] CRM e Torre de Controle – Planejamento anual financeiro, definição das rotinas de projeto e estrutura de report;",
+    "texto": "P.P.:[Projeto P47] CRM e Projeto P49 – Planejamento anual financeiro, definição das rotinas de projeto e estrutura de report;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1254,7 +1254,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com UNILOG em homologação com problemas na junção NITRO CCO – Problemas em tratamento nova previsão 19/02",
+    "texto": "P.P.: [Projeto P49] Integração com Projeto P74 em homologação com problemas na junção NITRO Setor A8 – Problemas em tratamento nova previsão 19/02",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1272,37 +1272,37 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [Mamute] [Otimização dos tombadores]: Acompanhar a realização de correções e melhorias solicitadas pelo terminal ao fornecedor – até 29/09",
+    "texto": "P.A. [Projeto P46] [Otimização dos tombadores]: Acompanhar a realização de correções e melhorias solicitadas pelo terminal ao fornecedor – até 29/09",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Renovação do contrato com a 4intelligence;",
+    "texto": "P.A.: [Projeto P50] Renovação do contrato com a 4intelligence;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Linha Mestra: Confecção das fichas de meta compartilhadas com as engenharias dada priorização das iniciativas com orçamento.",
+    "texto": "P.P. [Projeto P46] Projeto P51: Confecção das fichas de meta compartilhadas com as engenharias dada priorização das iniciativas com orçamento.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: Área de negócio (GG Planejamento Curto Prazo) estuda pleitear a PDD como habilitadora sem ganho previsto em 2024 para avançar nos gates de aprovação.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: Área de negócio (GG Planejamento Curto Prazo) estuda pleitear a Projeto P42 como habilitadora sem ganho previsto em 2024 para avançar nos gates de aprovação.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Encapsular painéis OTIF PowerBi dentro do Salesforce [item de maior prioridade 03/25]",
+    "texto": "P.P.: [Projeto P49] Encapsular painéis OTIF Projeto P62 dentro do Projeto P39 [item de maior prioridade 03/25]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P – OKTO: Início dos testes integrados no OKTO previsto para última semana março;",
+    "texto": "P.P – Projeto P71: Início dos testes integrados no Projeto P71 previsto para última semana março;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1314,13 +1314,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Smart Pricing – Renovação dos contratos com a 4intelligence e Ioasys;",
+    "texto": "P.A.: [Projeto P50] Projeto P58 – Renovação dos contratos com a 4intelligence e Ioasys;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [SAT] Necessário realizar análise de performance da ferramenta e avaliar permanência da VLI",
+    "texto": "P.A. [Projeto P27] Necessário realizar análise de performance da ferramenta e avaliar permanência da Empresa C0",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1332,19 +1332,19 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Integrações de Localização de Vagões – Início do desenvolvimento com a Vale.",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Integrações de Localização de Vagões – Início do desenvolvimento com a Empresa C1.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Revisão técnica do Salesforce com Arquitetura, SI e Dados;",
+    "texto": "P.P.: [Projeto P47] CRM: Revisão técnica do Projeto P39 com Arquitetura, Setor A6 e Dados;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Conclusão da aprovação da PDD/SI para sequencia dos projetos;",
+    "texto": "Conclusão da aprovação da Projeto P42/Setor A6 para sequencia dos projetos;",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -1356,7 +1356,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. +Valor | SAT (Mobilidade na manutenção): Definir com a Engenharia o plano de ação para conclusão do projeto – até 25/08;",
+    "texto": "P.P. +Valor | Projeto P27 (Mobilidade na manutenção): Definir com a Engenharia o plano de ação para conclusão do projeto – até 25/08;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1392,7 +1392,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Jornada Comercial Integrada fase 2 – Especificação técnica em elaboração, com RC e início da contratação em Fev/25.",
+    "texto": "P.P.: [Projeto P48] Jornada Setor A9 Integrada fase 2 – Especificação técnica em elaboração, com RC e início da contratação em Fev/25.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1404,7 +1404,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: Integração DL com Salesforce",
+    "texto": "P.P.: Integração DL com Projeto P39",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1416,13 +1416,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "RPA: Atraso em entregas de automação devido à dificuldade de configuração do Microsoft Graph.",
+    "texto": "Projeto P63: Atraso em entregas de automação devido à dificuldade de configuração do Empresa C21 Graph.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Aprovação de somente 50% do CAPEX TI para 2026, gerando a paralização total de iniciativas de dados/data driven e postergação da conclusão de uma série de projetos relevantes i.e: FLINK e SICOF, digitalização e automação de áreas de negócio.",
+    "texto": "Aprovação de somente 50% do CAPEX TI para 2026, gerando a paralização total de iniciativas de dados/data driven e postergação da conclusão de uma série de projetos relevantes i.e: Projeto P40 e Projeto P41, digitalização e automação de áreas de negócio.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -1434,7 +1434,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Melhorar qualidade informação operacional de combustível: Integração GBM com Pontos Operacionais de Combustíveis e UNILOG. (Out/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Melhorar qualidade informação operacional de combustível: Integração GBM com Pontos Operacionais de Combustíveis e Projeto P74. (Out/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1452,7 +1452,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [CX] Entrada em produção do NEE gerou impacto no serviço GBM por não ter provisionado acesso específico a dados de clientes de Combustíveis e Tegram. Em elaboração plano para construir integração. Contingência montada pela área de negócio",
+    "texto": "P.A.: [Setor A7] Entrada em produção do Projeto P43 gerou impacto no serviço GBM por não ter provisionado acesso específico a dados de clientes de Combustíveis e Tegram. Em elaboração plano para construir integração. Contingência montada pela área de negócio",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1488,25 +1488,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Ativação do novo processo de padrão de negociação e operacionalização de contratos comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/10);",
+    "texto": "P.P.: [Projeto P50] Ativação do novo processo de padrão de negociação e operacionalização de contratos comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/10);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Erros recorrentes na sincronização de dados entre SAP e Data Lake comprometem a confiabilidade.",
+    "texto": "Erros recorrentes na sincronização de dados entre Empresa C20 e Projeto P61 comprometem a confiabilidade.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Sistema Bain: Bloqueio de acessos dos consultores da Bain, aguardando conclusão do processo de contratação, assinatura do contrato e mobilização dos profissionais no SAP Fieldglass.",
+    "texto": "P.A. Sistema Empresa C26: Bloqueio de acessos dos consultores da Empresa C26, aguardando conclusão do processo de contratação, assinatura do contrato e mobilização dos profissionais no Empresa C20 Fieldglass.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "A capacitação do time em Databricks foi concluída com aprovação de todos os participantes.",
+    "texto": "A capacitação do time em Empresa C23 foi concluída com aprovação de todos os participantes.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
@@ -1518,13 +1518,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Salesforce: Implementação da solução de curtíssimo para integração SSO entre Salesforce e Conecta. Solução definitiva será o CIAM;",
+    "texto": "P.P.: [Projeto P47] Projeto P39: Implementação da solução de curtíssimo para integração SSO entre Projeto P39 e Conecta. Solução definitiva será o Projeto P72;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "SUITE SIOP - Porto/Expedição: Conclusão das correção de DI's (Declaração de Importação) - Total: 631; Encerradas: 570; Pendente: 6; Solicitação para permanecer aberto com saldo: 55 (esta ação corrigiu inconsistências na gestão do volume de importação do TIPLAM).",
+    "texto": "Projeto P67 - Porto/Expedição: Conclusão das correção de DI's (Declaração de Importação) - Total: 631; Encerradas: 570; Pendente: 6; Solicitação para permanecer aberto com saldo: 55 (esta ação corrigiu inconsistências na gestão do volume de importação do Localidade L3).",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -1572,7 +1572,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: Integração DL com Salesforce: MVP Informatica com apoio da Cris Leão, Testes TIBCO, Avaliação MuleSoft.",
+    "texto": "P.P.: Integração DL com Projeto P39: MVP Empresa C31 com apoio da Cris Leão, Testes Projeto P44, Avaliação Empresa C39.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1590,19 +1590,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. RPA: Finalização de processo concorrencial para renovação/nova contratação de empresa para manutenção e desenvolvimento de automações.",
+    "texto": "P.P. Projeto P63: Finalização de processo concorrencial para renovação/nova contratação de empresa para manutenção e desenvolvimento de automações.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Process Mining SAP]: conclusão do processo envolvendo SAP e times VLI. Através do Signávio, foi possível identificar gargalos nos processos de manutenção, gestão de estoque e financeiro, que geram ineficiência a VLI. Trabalho apresentado aos executivos de Tecnologia e Suprimentos, com recomendação para desdobramento com a área de manutenção e engenharia de MR e VP. Relatório indicou desvios de processo relevantes que geram aumento de estoque de materiais, potencial desvios de processo e perdas financeiras. Importante oportunidade para VLI, visto que a SAP indicou uso de apenas 40% do potencial do ERP pela manutenção.",
+    "texto": "[Process Mining Empresa C20]: conclusão do processo envolvendo Empresa C20 e times Empresa C0. Através do Signávio, foi possível identificar gargalos nos processos de manutenção, gestão de estoque e financeiro, que geram ineficiência a Empresa C0. Trabalho apresentado aos executivos de Tecnologia e Setor A4, com recomendação para desdobramento com a área de manutenção e engenharia de MR e VP. Relatório indicou desvios de processo relevantes que geram aumento de estoque de materiais, potencial desvios de processo e perdas financeiras. Importante oportunidade para Empresa C0, visto que a Empresa C20 indicou uso de apenas 40% do potencial do ERP pela manutenção.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "A ingestão de dados no Data Lake está sendo realizada sem erros ou perdas de registros.",
+    "texto": "A ingestão de dados no Projeto P61 está sendo realizada sem erros ou perdas de registros.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
@@ -1614,13 +1614,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03 14/04.",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Integrações Empresa C1 – Assinatura de contratos com fornecedores prevista para 24/03 14/04.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Dados SIOP para Clientes] Instabilidade nas consultas tem gerado impacto para os clientes. Plano de estabilização em andamento.",
+    "texto": "P.P.: [Dados Projeto P36 para Clientes] Instabilidade nas consultas tem gerado impacto para os clientes. Plano de estabilização em andamento.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1638,7 +1638,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Torre de Controle: Solução de gestão de estadia na Torre de Controle – planejamento rollout 2024 para os demais clientes / Segmentos;",
+    "texto": "P.P.: [Projeto P47] Projeto P49: Solução de gestão de estadia na Projeto P49 – planejamento rollout 2024 para os demais clientes / Segmentos;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1656,7 +1656,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] PV Digital e Jetsons Contratos:",
+    "texto": "P.A.: [Projeto P48] PV Digital e Jetsons Contratos:",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1668,7 +1668,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "CRM: time accenture e atraso no cronograma",
+    "texto": "CRM: time Empresa C19 e atraso no cronograma",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -1680,19 +1680,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "S&OP Digital: Habilitação de R$ 1,7 MM de ganho em março com aumento de volume na CS.",
+    "texto": "Projeto P10: Habilitação de R$ 1,7 MM de ganho em março com aumento de volume na CS.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Alfresco: Erro na funcionalidade de filtros impossibilitando o go live em dezembro .",
+    "texto": "Projeto P23: Erro na funcionalidade de filtros impossibilitando o go live em dezembro .",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "A visibilidade dos dados de clientes melhorou com a centralização no MDM.",
+    "texto": "A visibilidade dos dados de clientes melhorou com a centralização no Projeto P73.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
@@ -1728,7 +1728,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Jornada de IA VLI: Kickoff com Embaixadores de IA |  Go Live Plataforma. Treinamento de 37  Embaixadores. Divulgação report de medição de consumo. Planeja-mento para disponibilização de ambiente de sandbox. Incorporação dos procedimentos de IA no Fluxo de Demanda da VLI.",
+    "texto": "Projeto P4: Kickoff com Embaixadores de IA |  Go Live Plataforma. Treinamento de 37  Embaixadores. Divulgação report de medição de consumo. Planeja-mento para disponibilização de ambiente de sandbox. Incorporação dos procedimentos de IA no Fluxo de Demanda da Empresa C0.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -1746,7 +1746,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Mamute] Inspeção visual de vagões com câmera: Câmeras instaladas, porém não foi possível rodar o software desenvolvido. CIMATEC acompanhando a equipe para resolução;",
+    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Câmeras instaladas, porém não foi possível rodar o software desenvolvido. CIMATEC acompanhando a equipe para resolução;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1764,7 +1764,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "A trilha de capacitação em Power BI foi bem avaliada com boa aderência das equipes.",
+    "texto": "A trilha de capacitação em Projeto P62 foi bem avaliada com boa aderência das equipes.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
@@ -1794,13 +1794,13 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P. Alfresco: Configuração de SSO para todos os componentes e migração de documentos.",
+    "texto": "P.P. Projeto P23: Configuração de SSO para todos os componentes e migração de documentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Integração entre CRM e SAP com o objetivo de centralizar a criação e padronização dos dados de clientes granulares. Em testes integrados, Go Live replanejamento para (14/12  10/01/2024);",
+    "texto": "P.P.: [Projeto P47] CRM: Integração entre CRM e Empresa C20 com o objetivo de centralizar a criação e padronização dos dados de clientes granulares. Em testes integrados, Go Live replanejamento para (14/12  10/01/2024);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1842,7 +1842,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Preparação entrega do MVP CRM em julho/23",
+    "texto": "P.P.: [Projeto P47] Preparação entrega do MVP CRM em julho/23",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1872,7 +1872,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P. Low Code: Mobilização de arquiteto para desenho dos pontos desejáveis na implantação do modelo de governança VLI.",
+    "texto": "P.P. Low Code: Mobilização de arquiteto para desenho dos pontos desejáveis na implantação do modelo de governança Empresa C0.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1890,37 +1890,37 @@
     "confianca": "alta"
   },
   {
-    "texto": "A integração entre CRM e SAP está funcionando corretamente desde o go-live.",
+    "texto": "A integração entre CRM e Empresa C20 está funcionando corretamente desde o go-live.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM e Torre de Controle: Phase-in e Phase-out fornecedor de suporte Salesfore em andamento (06/24 05/24);",
+    "texto": "P.P.: [Projeto P47] CRM e Projeto P49: Phase-in e Phase-out fornecedor de suporte Salesfore em andamento (06/24 05/24);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Pátio do Futuro: Submissão da PDD da temática Pátio do Futuro da Linha Mestra com escopo da iniciativa de Controle Remoto de Locomotivas para operações de carregamento e descarga no TIUB.",
+    "texto": "P.P. [Projeto P46] Projeto P69: Submissão da Projeto P42 da temática Projeto P69 da Projeto P51 com escopo da iniciativa de Controle Remoto de Locomotivas para operações de carregamento e descarga no Localidade L7.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Encapsular painéis OTIF PowerBi dentro do Salesforce (24/04)",
+    "texto": "P.P.: [Projeto P49] Encapsular painéis OTIF Projeto P62 dentro do Projeto P39 (24/04)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. RPA:  Discovery de automaçõesnas GGs de Serviços ao Negócio e Controladoria.",
+    "texto": "P.P. Projeto P63:  Discovery de automaçõesnas GGs de Serviços ao Negócio e Controladoria.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Smart Sales] PV e Jetsons: Renovação do contrato IOASYS será por contratação direta. Sinergia com P&D Salesforce. RC será aberta e irá para autorização da Diretora Rute.",
+    "texto": "P.A.:[Projeto P48] PV e Jetsons: Renovação do contrato IOASYS será por contratação direta. Sinergia com P&D Projeto P39. RC será aberta e irá para autorização da Diretora Rute.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1938,13 +1938,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "Linha Mestra – SPEED: Atraso na apuração dos ganhos da iniciativa em 2025. Nova previsão para jun/25;",
+    "texto": "Projeto P51 – SPEED: Atraso na apuração dos ganhos da iniciativa em 2025. Nova previsão para jun/25;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Intelex: Go live do módulo de gestão de riscos.",
+    "texto": "Projeto P16: Go live do módulo de gestão de riscos.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -1956,37 +1956,37 @@
     "confianca": "media"
   },
   {
-    "texto": "A migração do MDM para Databricks foi realizada com sucesso sem impacto para usuários.",
+    "texto": "A migração do Projeto P73 para Empresa C23 foi realizada com sucesso sem impacto para usuários.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. JurimetrIA: Aprovação de PDD para implantação do projeto.",
+    "texto": "P.P. JurimetrIA: Aprovação de Projeto P42 para implantação do projeto.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "SAP: atraso no projeto de migração do ERP (lift&shift) motivado por problemas técnicos da SAP na disponibilização dos ambientes. Notificação comercial feita por Suprimentos.",
+    "texto": "Empresa C20: atraso no projeto de migração do ERP (lift&shift) motivado por problemas técnicos da Empresa C20 na disponibilização dos ambientes. Notificação Setor A9 feita por Setor A4.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "A qualidade dos dados mestres melhorou significativamente após a implementação dos controles.",
+    "texto": "A qualidade dos Projeto P53 melhorou significativamente após a implementação dos controles.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "S&OP Digital: Geração de R$ 3,3 MM de ganho em abril com aumento de volume na CN. ( Em validação junto a área de negócios)",
+    "texto": "Projeto P10: Geração de R$ 3,3 MM de ganho em abril com aumento de volume na CN. ( Em validação junto a área de negócios)",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. S&OP Digital: Execução de um cenário oficial de S&OP para CN.",
+    "texto": "P.P. Projeto P10: Execução de um cenário oficial de Projeto P10 para CN.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1998,25 +1998,25 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais para mitigar conflito, sobreposição de funções  e oportunidades com o Salesforce;",
+    "texto": "P.A.: [Projeto P50] Revisão das estratégias dos produtos digitais para mitigar conflito, sobreposição de funções  e oportunidades com o Projeto P39;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. S&OP Digital: Realizar novo contrato com Enacom para desenvolvimentos em 2025.",
+    "texto": "P.P. Projeto P10: Realizar novo contrato com Enacom para desenvolvimentos em 2025.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Preparação Torre de Controle Centro Sudeste em Paulínia-SP 21/07.",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Preparação Projeto P49 Centro Sudeste em Localidade L24-SP 21/07.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "A área de suprimentos não conseguiu contratar o fornecedor no prazo necessário.",
+    "texto": "A área de Setor A4 não conseguiu contratar o fornecedor no prazo necessário.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -2028,7 +2028,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do Centro de Inteligência.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2040,13 +2040,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Salesforce: Desenho de processo, Gestão de mudança e integração com primeiros sistemas transacionais VLI;",
+    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Projeto P39: Desenho de processo, Gestão de mudança e integração com primeiros sistemas transacionais Empresa C0;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM e Torre de Controle: Phase-out e Phase-in fornecedor Salesforce de sustentação e desenvolvimento (06/24 04/24);",
+    "texto": "P.P.: [Projeto P47] CRM e Projeto P49: Phase-out e Phase-in fornecedor Projeto P39 de sustentação e desenvolvimento (06/24 04/24);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2070,7 +2070,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Integração com UNILOG (em homologação).",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Integração com Projeto P74 (em homologação).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2088,7 +2088,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "S&OP Digital: Entrega de ganho de R$ 11,6 MM em janeiro de 2026.",
+    "texto": "Projeto P10: Entrega de ganho de R$ 11,6 MM em janeiro de 2026.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -2100,19 +2100,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P Centro de Inteligência: Definição do escopo 2023, mapeamento dos épicos e definição da equipe necessária para squads.",
+    "texto": "P.P Projeto P17: Definição do escopo 2023, mapeamento dos épicos e definição da equipe necessária para squads.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Salesforce;",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. SAT: Necessário realizar análise de performance da ferramenta",
+    "texto": "P.A. Projeto P27: Necessário realizar análise de performance da ferramenta",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2136,7 +2136,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Intelex: Kickoff e definição de cronograma do projeto.",
+    "texto": "P.P. Projeto P16: Kickoff e definição de cronograma do projeto.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2160,7 +2160,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "A solução está em produção sem cobertura de suporte fora do horário comercial.",
+    "texto": "A solução está em produção sem cobertura de suporte fora do horário Setor A9.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -2172,7 +2172,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Jornada Comercial Integrada fase 2 – Especificação técnica em elaboração, com RC e início da contratação em Jan/25.",
+    "texto": "P.P.: [Projeto P48] Jornada Setor A9 Integrada fase 2 – Especificação técnica em elaboração, com RC e início da contratação em Jan/25.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2184,7 +2184,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada fase 1 – Projeto em andamento com foco em “Negociação” e revisão da estratégia de “Formalização” – sobre retirar ou manter a solução NETLEX em uma versão atualizada. (conclusão em 01/2025)",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto em andamento com foco em “Negociação” e revisão da estratégia de “Formalização” – sobre retirar ou manter a solução NETLEX em uma versão atualizada. (conclusão em 01/2025)",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2196,13 +2196,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "SAP: Recuperação do atraso no projeto de migração do ERP (lift & shift)",
+    "texto": "Empresa C20: Recuperação do atraso no projeto de migração do ERP (lift & shift)",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A. – [Mamute] Linha Mestra: Definir melhor forma de apresentar visão estratégica sobre a frente da Linha Mestra.",
+    "texto": "P.A. – [Projeto P46] Projeto P51: Definir melhor forma de apresentar visão estratégica sobre a frente da Projeto P51.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2214,55 +2214,55 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Linha Mestra: Gestão de mudanças na execução dos projetos 2024 e refinar ganhos das iniciativas.",
+    "texto": "P.P. Projeto P51: Gestão de mudanças na execução dos projetos 2024 e refinar ganhos das iniciativas.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Salesforce – “Plan & Design” Salesforce contratado com início em 30/10 – Iniciado e com prazo de conclusão 19/01/24",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39 – “Plan & Design” Projeto P39 contratado com início em 30/10 – Iniciado e com prazo de conclusão 19/01/24",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] Preditiva 4.0: Concluir documento sobre a avaliação dos kits testados na PoC e enviar para aprovação.",
+    "texto": "P.P. [Projeto P46] Preditiva 4.0: Concluir documento sobre a avaliação dos kits testados na PoC e enviar para aprovação.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Conclusão da integração entre CRM e SAP com o objetivo de centralizar a criação e padronização dos dados de clientes granulares.",
+    "texto": "P.P.: [Projeto P50] Conclusão da integração entre CRM e Empresa C20 com o objetivo de centralizar a criação e padronização dos dados de clientes granulares.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Novo WMS TISL: Concluir planejamento com a APERAM para definir data de homologação da 1ª integração – 18/08;",
+    "texto": "P.P. Novo WMS Localidade L2: Concluir planejamento com a APERAM para definir data de homologação da 1ª integração – 18/08;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Falta de ponto focal para correção de vulnerabilidades de Portos e Terminais (OT).",
+    "texto": "Falta de ponto focal para correção de vulnerabilidades de Setor A2 (OT).",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com UNILOG (em homologação com finalização em 17/01/25).",
+    "texto": "P.P.: [Projeto P49] Integração com Projeto P74 (em homologação com finalização em 17/01/25).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] PV Digital: Processo de descomissionamento com início em Jun/25",
+    "texto": "P.A.: [Projeto P48] PV Digital: Processo de descomissionamento com início em Jun/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. S&OP Digital: Finalização da homologação da solução completa para todos os corredores.",
+    "texto": "P.P. Projeto P10: Finalização da homologação da solução completa para todos os corredores.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2274,19 +2274,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [SIOP Porto] Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024",
+    "texto": "P.A. [Projeto P36 Porto] Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – SAT: Reteste das vulnerabilidades encontradas no pentest, já corrigidas pela SAT (ainda não agendada);",
+    "texto": "P.P. – Projeto P27: Reteste das vulnerabilidades encontradas no pentest, já corrigidas pela Projeto P27 (ainda não agendada);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Mamute planejamento dinâmico: Atraso na contratação da TCS para integrações com GPV da Vale.",
+    "texto": "Projeto P46 planejamento dinâmico: Atraso na contratação da TCS para integrações com GPV da Empresa C1.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -2298,7 +2298,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Mamute] Pátio do Futuro: Verificar impacto que cortes nos investimentos podem vir a causar neste marco de meta.",
+    "texto": "P.A. – [Projeto P46] Projeto P69: Verificar impacto que cortes nos investimentos podem vir a causar neste marco de meta.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2310,19 +2310,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com UNILOG em homologação aguardando solução DE->PARA de fluxo (09/05)",
+    "texto": "P.P.: [Projeto P49] Integração com Projeto P74 em homologação aguardando solução DE->PARA de fluxo (09/05)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado.",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Integração com CCO sistema NITRO para captura do dado de localização de trens (out/24).",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Integração com Setor A8 sistema NITRO para captura do dado de localização de trens (out/24).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2340,7 +2340,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM e Torre de Controle: Estabelecer fluxo de sustentação e melhoria contínua 12/23",
+    "texto": "P.P.: [Projeto P47] CRM e Projeto P49: Estabelecer fluxo de sustentação e melhoria contínua 12/23",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2352,13 +2352,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P Megabuyer: Validação junto à SAP do novo fluxo do Megabuyer, pivotando a solução e definindo novo roadmap.",
+    "texto": "P.P Megabuyer: Validação junto à Empresa C20 do novo fluxo do Megabuyer, pivotando a solução e definindo novo roadmap.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Mamute 2023] PDD: Atraso na aprovação da PDD. Será necessário defesa da PDD com postergação de iniciativas para 2024;",
+    "texto": "[Projeto P46 2023] Projeto P42: Atraso na aprovação da Projeto P42. Será necessário defesa da Projeto P42 com postergação de iniciativas para 2024;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -2370,7 +2370,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jetsons: Plano de convivência integração a Iniciativa Jornada de Vendas Integrada e evoluções controladas considerando a substituição da solução em 2026.",
+    "texto": "P.A.: [Projeto P48] Jetsons: Plano de convivência integração a Iniciativa Jornada de Vendas Integrada e evoluções controladas considerando a substituição da solução em 2026.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2388,13 +2388,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM e Torre de Controle: Estabelecer fluxo de sustentação e melhoria contínua;",
+    "texto": "P.P.: [Projeto P47] CRM e Projeto P49: Estabelecer fluxo de sustentação e melhoria contínua;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Dados VALE] Processos de integração com o cliente Gerdau – Ação com a Vale (Pendente nova data 20/01/25) e EDI VLI a definir",
+    "texto": "P.A.: [Dados Empresa C1] Processos de integração com o cliente Empresa C27 – Ação com a Empresa C1 (Pendente nova data 20/01/25) e EDI Empresa C0 a definir",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2418,13 +2418,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "Go Live Estoque Sobre Trilhos 4.0;",
+    "texto": "Go Live Projeto P55 4.0;",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. Alfresco: Contratação DXC para sustentação da solução.",
+    "texto": "P.P. Projeto P23: Contratação Empresa C3 para sustentação da solução.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2448,13 +2448,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. S&OP: Tomada de decisão de seguimento com Enacom ou Bain.",
+    "texto": "P.P. Projeto P10: Tomada de decisão de seguimento com Enacom ou Empresa C26.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada fase 1 – Projeto replanejado com go live em 27/05 onda 1 e 25/06 onda 2.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto replanejado com go live em 27/05 onda 1 e 25/06 onda 2.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2472,37 +2472,37 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Alfresco: Finalização da instalação dos componentes, migração de documentos e 1º go live da solução.",
+    "texto": "P.P. Projeto P23: Finalização da instalação dos componentes, migração de documentos e 1º go live da solução.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Dados VALE]: Processos de integração com o cliente Gerdal – Ação com a Vale (24/11) e EDI VLI a definir",
+    "texto": "P.P.: [Dados Empresa C1]: Processos de integração com o cliente Gerdal – Ação com a Empresa C1 (24/11) e EDI Empresa C0 a definir",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [AMS Comercial]: Estudo reorganização do time de suporte, treinamento ServiceNow, Processos e Governança.",
+    "texto": "P.A.: [AMS Setor A9]: Estudo reorganização do time de suporte, treinamento Empresa C25, Processos e Governança.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [CIAM] Determinar suporte CIAM para VLI - Governança de clientes e usuários dos clientes. Adoção no CRM, PNEE e SIOP.",
+    "texto": "P.A.: [Projeto P72] Determinar suporte Projeto P72 para Empresa C0 - Governança de clientes e usuários dos clientes. Adoção no CRM, PNEE e Projeto P36.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Cadeia Ct-e]: Conclusão da migração para cloud, com melhoria da produtividade, velocidade do processo de faturamento e carregamento de trens, com redução de incidentes. Evidencias indicam performance até 10 vezes mais rápida para geração de CT-e ferroviários.",
+    "texto": "[Cadeia Ct-e]: Conclusão da migração para cloud, com melhoria da produtividade, velocidade do processo de Setor A10 e carregamento de trens, com redução de incidentes. Evidencias indicam performance até 10 vezes mais rápida para geração de CT-e ferroviários.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A. Migração de bases FLOU: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do FLOU.",
+    "texto": "P.A. Migração de bases Projeto P57: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do Projeto P57.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2514,13 +2514,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Flink] Go Live do “Formalização Rodo” em 09/06/25. Todos os contratos, itens e fluxos do modal rodoviário passaram a ser geridos pelo Flink, promovendo mais integração, agilidade e simplicidade na gestão para faturamento.",
+    "texto": "[Projeto P40] Go Live do “Formalização Rodo” em 09/06/25. Todos os contratos, itens e fluxos do modal rodoviário passaram a ser geridos pelo Projeto P40, promovendo mais integração, agilidade e simplicidade na gestão para Setor A10.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Dados] Contrato LPJ e MGI com data final para Dez/25 sem opção de substituição do serviço para outro fornecedor. Impacto direto em clientes e serviço gerais Corporativos. Tentativa de aditivo em suprimentos até conclusão BID comandado pela área de Dados TILD.",
+    "texto": "P.A.: [Dados] Contrato LPJ e MGI com data final para Dez/25 sem opção de substituição do serviço para outro fornecedor. Impacto direto em clientes e serviço gerais Corporativos. Tentativa de aditivo em Setor A4 até conclusão BID comandado pela área de Dados Setor A1.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2550,7 +2550,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: Dificuldade nas tratativas da integração com GPV da Vale.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: Dificuldade nas tratativas da integração com GPV da Empresa C1.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2562,19 +2562,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "Projeto Classificação às Cegas – Toda parte SIOP concluída e disponível em produção, aguardando finalização lado TA para ativação do piloto no TIPN.",
+    "texto": "Projeto Classificação às Cegas – Toda parte Projeto P36 concluída e disponível em produção, aguardando finalização lado TA para ativação do piloto no Localidade L9.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Smart Sales] PV Digital: Produto congelado até substituição total pelo Salesforce em 2025",
+    "texto": "P.A.: [Projeto P48] PV Digital: Produto congelado até substituição total pelo Projeto P39 em 2025",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [Mamute Planejamento Dinâmico] atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do CI / Necessidade de +R$2MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A. [Projeto P46 Planejamento Dinâmico] atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P18 / Necessidade de +R$2MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2598,37 +2598,37 @@
     "confianca": "alta"
   },
   {
-    "texto": "Centro de Inteligência: Conclusão do 1º ciclo de OKR com entrega de todos os objetivos propostos.",
+    "texto": "Projeto P17: Conclusão do 1º ciclo de OKR com entrega de todos os objetivos propostos.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. S&OP Digital: Realizar novo contrato com Enacom para entrega da S&OP Digital na CN e CL, e dimensionamento por margem.",
+    "texto": "P.P. Projeto P10: Realizar novo contrato com Enacom para entrega da Projeto P10 na CN e CL, e dimensionamento por margem.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] MBC VP: Geral: Instalação de equipamentos de telecom para extração dos dados dos equipamentos estacionados em Divinópolis.",
+    "texto": "P.P. [Projeto P46] Projeto P54 VP: Geral: Instalação de equipamentos de telecom para extração dos dados dos equipamentos estacionados em Localidade L20.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada fase 1 – Projeto replanejado com conclusão em maio/25.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto replanejado com conclusão em maio/25.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Recorrência de problemas de intercambio FNS e descarga Tegram]:  recorrência de atraso na descarga por falha de recebimento de peso de clientes VLI pelo TEGRAM. Foi identificada falha no sistema GTS (TEGRAM), correção realizada na última semana e após correção não houve novos erros. .",
+    "texto": "[Recorrência de problemas de intercambio FNS e descarga Tegram]:  recorrência de atraso na descarga por falha de recebimento de peso de clientes Empresa C0 pelo TEGRAM. Foi identificada falha no sistema GTS (TEGRAM), correção realizada na última semana e após correção não houve novos erros. .",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A. Migração de bases FLOU: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do FLOU. Após o mapeamento, será necessário buscar orçamento para mobilizar recursos para fazer a migração.",
+    "texto": "P.A. Migração de bases Projeto P57: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do Projeto P57. Após o mapeamento, será necessário buscar orçamento para mobilizar recursos para fazer a migração.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2640,7 +2640,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Novo sistema ECM: Contratação da solução da Hyland para novo sistema de ECM da VLI.",
+    "texto": "P.P. Novo sistema ECM: Contratação da solução da Hyland para novo sistema de ECM da Empresa C0.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2652,13 +2652,13 @@
     "confianca": "media"
   },
   {
-    "texto": "[Estoque Sobre Trilhos Norte]: Operação assistida com sucesso junto a VALE e operação VLI, os faturamentos de trens que antes ocorriam próximo a origem e com isso limitando as possibilidade de volume, agora ocorrem no pátio da VALE em QAA a 5 horas da descarga, ampliando as possibilidades de planejamento comercial e operacional. Ganhos em apuração pelo PPC e TILD.",
+    "texto": "[Projeto P55 Norte]: Operação assistida com sucesso junto a Empresa C1 e operação Empresa C0, os faturamentos de trens que antes ocorriam próximo a origem e com isso limitando as possibilidade de volume, agora ocorrem no pátio da Empresa C1 em QAA a 5 horas da descarga, ampliando as possibilidades de planejamento Setor A9 e operacional. Ganhos em apuração pelo PPC e Setor A1.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Mamute Inteligência Comercial] Planejamento 2024 e organização dos times e rotinas.",
+    "texto": "P.P.: [Projeto P46 Inteligência Setor A9] Planejamento 2024 e organização dos times e rotinas.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2694,7 +2694,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Requalificação SIOP 2.0 [Módulo Expedição (eliminação SIACON)]: Novo atraso no desenvolvimento sinalizado pela Accenture, nova previsão de entrega para setembro/24.;",
+    "texto": "Requalificação Projeto P36 2.0 [Módulo Expedição (eliminação SIACON)]: Novo atraso no desenvolvimento sinalizado pela Empresa C19, nova previsão de entrega para setembro/24.;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -2706,7 +2706,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. S&OP Digital: Falha técnica colocou em risco a S&OP da CS em janeiro 2025 (corrigido em tempo de execução da rotina).",
+    "texto": "P.A. Projeto P10: Falha técnica colocou em risco a Projeto P10 da CS em janeiro 2025 (corrigido em tempo de execução da rotina).",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2718,7 +2718,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Mamute] MBC VP: Sistema Autônomo de Geometria - Devido ao valor da RC a etapa de aprovações de compra vai até o diretor financeiro (hoje presidente interino da VLI). Sistema de Imagem e Sistema Autônomo de Geometria - Prazo para assinatura do contrato envolvendo 3 partes (fornecedor, importador e VLI). Equipamento de Ultrassom RTI - Equipamento não está coberto na apólice de seguro.\u000bGeral - Corte de investimentos podendo impactar entregas de 2023.",
+    "texto": "P.A. – [Projeto P46] Projeto P54 VP: Sistema Autônomo de Geometria - Devido ao valor da RC a etapa de aprovações de compra vai até o diretor financeiro (hoje presidente interino da Empresa C0). Sistema de Imagem e Sistema Autônomo de Geometria - Prazo para assinatura do contrato envolvendo 3 partes (fornecedor, importador e Empresa C0). Equipamento de Ultrassom RTI - Equipamento não está coberto na apólice de seguro.\u000bGeral - Corte de investimentos podendo impactar entregas de 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2742,13 +2742,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[PNE]:atraso devido a dificuldade na implementação do CIAM pela Segurança da informação, e desvios de entrega/prazo na ordem de 38% devido a alteração de escopo solicitada pelo P.O. A revisão do cronograma está em replanejamento.",
+    "texto": "[PNE]:atraso devido a dificuldade na implementação do Projeto P72 pela Segurança da informação, e desvios de entrega/prazo na ordem de 38% devido a alteração de escopo solicitada pelo P.O. A revisão do cronograma está em replanejamento.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Substituição dos firewalls do TIPLAM, eliminando os picos de processamento em períodos de maior volume operacional e garantindo ganho imediato de performance, estabilidade e aderência às atuais demandas de segurança e resiliência da operação.",
+    "texto": "Substituição dos firewalls do Localidade L3, eliminando os picos de processamento em períodos de maior volume operacional e garantindo ganho imediato de performance, estabilidade e aderência às atuais demandas de segurança e resiliência da operação.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -2778,7 +2778,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Intelex: Necessidade de aditivo de escopo e custo para atendimento a incidentes de Segurança Operacional.",
+    "texto": "P.A. Projeto P16: Necessidade de aditivo de escopo e custo para atendimento a incidentes de Segurança Operacional.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2790,19 +2790,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Mamute] Inspeção visual de vagões com câmera: CIMATEC errou na especificação deixando de fora 3 itens (memória, placa de rede e lente) que impediu o software de rodar. VLI já adquiriu os itens faltantes, aguardando SLA de entrega. CIMATEC está analisando empréstimo de componentes para tentar antecipar nova tentativa testes.",
+    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: CIMATEC errou na especificação deixando de fora 3 itens (memória, placa de rede e lente) que impediu o software de rodar. Empresa C0 já adquiriu os itens faltantes, aguardando SLA de entrega. CIMATEC está analisando empréstimo de componentes para tentar antecipar nova tentativa testes.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Melhorar qualidade informação operacional com dados GBM Combustível e Tegram (12/24 até 02/25).",
+    "texto": "P.P.: [Projeto P49] Melhorar qualidade informação operacional com dados GBM Combustível e Tegram (12/24 até 02/25).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Smart Sales] PV e Jetsons: Renovação do contrato IOASYS, processo em suprimentos (julho/24, agosto/24).",
+    "texto": "P.A.:[Projeto P48] PV e Jetsons: Renovação do contrato IOASYS, processo em Setor A4 (julho/24, agosto/24).",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2832,25 +2832,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. +Valor | SAT (Mobilidade na manutenção): Iniciar implantação SAT em P&T pelo TMIB – a partir de 25/10;",
+    "texto": "P.P. +Valor | Projeto P27 (Mobilidade na manutenção): Iniciar implantação Projeto P27 em Setor A2 pelo Localidade L14 – a partir de 25/10;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Mamute] Preditiva 4.0:",
+    "texto": "P.A. – [Projeto P46] Preditiva 4.0:",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Salesforce e Whatsapp (01/24 02/24);",
+    "texto": "P.P.: [Projeto P47] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Projeto P39 e Whatsapp (01/24 02/24);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2862,7 +2862,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Execução da migração da infraestrutura 4 Intelligence para VLI;",
+    "texto": "P.A.: [Projeto P50] Execução da migração da infraestrutura 4 Intelligence para Empresa C0;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2874,25 +2874,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Pátio do Futuro: Devido não disponibilidade do controle remoto Cattron para realizar o teste no TIUB, alteramos a estratégia do teste/PoC para o TPSL onde utilizaremos o equipamento da EFC (já disponibilizado).",
+    "texto": "P.P. – [Projeto P46] Projeto P69: Devido não disponibilidade do controle remoto Cattron para realizar o teste no Localidade L7, alteramos a estratégia do teste/PoC para o Localidade L15 onde utilizaremos o equipamento da EFC (já disponibilizado).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Smart Sales] Falta de representatividade das áreas de negócio como responsável pelas soluções digitais. Fortalecer os papeis e responsabilidades de PMs, POs. Agendas entre GGs no dia 19/02;",
+    "texto": "P.A.:[Projeto P48] Falta de representatividade das áreas de negócio como responsável pelas soluções digitais. Fortalecer os papeis e responsabilidades de PMs, POs. Agendas entre GGs no dia 19/02;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[LM] Speed Corporativo: Implantação concluída em 4 dos 5 portos da VLI (TPD, TMIB, TIPLAM e TPSL), gerando entre abril e maio a redução total de 40h na operação de marítimas da VLI. (ganho de junho em validação)",
+    "texto": "[LM] Speed Corporativo: Implantação concluída em 4 dos 5 portos da Empresa C0 (Localidade L16, Localidade L14, Localidade L3 e Localidade L15), gerando entre abril e maio a redução total de 40h na operação de marítimas da Empresa C0. (ganho de junho em validação)",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A. Centro de Inteligência, Gestão 4.0 e DWs: Conclusão do processo concorrencial de novo fornecedor e necessidade de troca de fornecedor.",
+    "texto": "P.A. Projeto P17, Gestão 4.0 e DWs: Conclusão do processo concorrencial de novo fornecedor e necessidade de troca de fornecedor.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2904,25 +2904,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.:[Iniciativa CX] CRM e Torre de Controle: Ativação do novo serviço de sustentação Salesforce com Accenture – Fase de transição em andamento. Conclusão 31/05.",
+    "texto": "P.P.:[Iniciativa Setor A7] CRM e Projeto P49: Ativação do novo serviço de sustentação Projeto P39 com Empresa C19 – Fase de transição em andamento. Conclusão 31/05.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Jornada Comercial Integrada fase 1 – Sprint 3 em andamento.",
+    "texto": "P.P.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Sprint 3 em andamento.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: Banco SIOP Replica: Gestão do ambiente com alto impacto nos reports para o cliente. Inicialmente a LD Comercial e Clientes vai assumir a responsabilidade do ambiente até definir Governança.",
+    "texto": "P.P.: Banco Projeto P36 Replica: Gestão do ambiente com alto impacto nos reports para o cliente. Inicialmente a LD Setor A9 e Clientes vai assumir a responsabilidade do ambiente até definir Governança.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "O ambiente de produção do Databricks está estável e operando dentro dos parâmetros.",
+    "texto": "O ambiente de produção do Empresa C23 está estável e operando dentro dos parâmetros.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
@@ -2940,13 +2940,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Aditivo DXC]: Em razão dos atrasos de Suprimentos motivado por turnover e mudaça dos atores, o saldo do contrato está em risco de não atendimento as demandas de melhorias e projetos, existentes. Há mudança de estratégia de Suprimentos em função do alto valor envolvido, aumentando a incerteza sobre AMS.",
+    "texto": "[Aditivo Empresa C3]: Em razão dos atrasos de Setor A4 motivado por turnover e mudaça dos atores, o saldo do contrato está em risco de não atendimento as demandas de melhorias e projetos, existentes. Há mudança de estratégia de Setor A4 em função do alto valor envolvido, aumentando a incerteza sobre AMS.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Integração com UNILOG (11/24).",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Integração com Projeto P74 (11/24).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2982,7 +2982,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Jornada Comercial Integrada – Sprint 0 Concluído e Iniciamos Sprint 1",
+    "texto": "P.P.: [Projeto P48] Jornada Setor A9 Integrada – Sprint 0 Concluído e Iniciamos Sprint 1",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3012,7 +3012,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos” comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/11);",
+    "texto": "P.P.: [Projeto P50] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos” comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/11);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3024,19 +3024,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Preditiva 4.0:",
+    "texto": "P.P. – [Projeto P46] Preditiva 4.0:",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com UNILOG em homologação aguardando solução DE->PARA de fluxo (09/05 – 10/06)",
+    "texto": "P.P.: [Projeto P49] Integração com Projeto P74 em homologação aguardando solução DE->PARA de fluxo (09/05 – 10/06)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] CRM – Customer Portal: Estudo de viabilidade e POC para evoluir a solução CONECTA para um portal integrado na plataforma Salesforce (06/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM – Customer Portal: Estudo de viabilidade e POC para evoluir a solução CONECTA para um portal integrado na plataforma Projeto P39 (06/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3066,13 +3066,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Melhorar qualidade informação operacional de combustível: Integração GBM com Pontos Operacionais de Combustíveis e UNILOG.",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Melhorar qualidade informação operacional de combustível: Integração GBM com Pontos Operacionais de Combustíveis e Projeto P74.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Torre de Controle: Rollout para os corredores Centro Norte e Minas Rio e Minas Bahia",
+    "texto": "P.P.: [Projeto P47] Projeto P49: Rollout para os corredores Localidade L26 e Minas Rio e Minas Bahia",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3090,7 +3090,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Salesforce – “Plan & Design” contratado com início em 30/10 –(conclusão 19/01/24  02/02/2024).",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Projeto P39 – “Plan & Design” contratado com início em 30/10 –(conclusão 19/01/24  02/02/2024).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3108,25 +3108,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Dados VALE]: Processos de integração com o cliente Gerdau – Ação com a Vale (concluído ) e EDI VLI a definir",
+    "texto": "P.P.: [Dados Empresa C1]: Processos de integração com o cliente Empresa C27 – Ação com a Empresa C1 (concluído ) e EDI Empresa C0 a definir",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. Alfresco: Valiidação dos documentos, workflows e desenvolvimento de integrações.",
+    "texto": "P.P. Projeto P23: Valiidação dos documentos, workflows e desenvolvimento de integrações.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "S&OP Digital: Geração de R$ 2,7 MM de ganho em março com aumento de volume na CS.",
+    "texto": "Projeto P10: Geração de R$ 2,7 MM de ganho em março com aumento de volume na CS.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. [Mamute] Linha Mestra: Defesa de orçamento junto aos corredores, consolidando as frentes de Transformação Digital e Engenharias.",
+    "texto": "P.P. [Projeto P46] Projeto P51: Defesa de orçamento junto aos corredores, consolidando as frentes de Transformação Digital e Engenharias.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3204,31 +3204,31 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] TORRE: Melhorar qualidade informação operacional com dados GBM Combustível e Tegram – Criar infra e trazer informações para dentro da VLI (12/24).",
+    "texto": "P.P.: [Iniciativa Setor A7] TORRE: Melhorar qualidade informação operacional com dados GBM Combustível e Tegram – Criar infra e trazer informações para dentro da Empresa C0 (12/24).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM e Torre de Controle – Contratação do fornecedor que irá implementar as Soluções de CRM e Torre de Controle;",
+    "texto": "P.P.: [Projeto P47] CRM e Projeto P49 – Contratação do fornecedor que irá implementar as Soluções de CRM e Projeto P49;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Torre de Controle: Preparação Torre de Controle Centro Sudeste em Paulínia-SP;",
+    "texto": "P.P.: [Projeto P47] Projeto P49: Preparação Projeto P49 Centro Sudeste em Localidade L24-SP;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Revisão da estratégia de organização de time e estrutura de sustentação;",
+    "texto": "P.P.: [Projeto P48] Revisão da estratégia de organização de time e estrutura de sustentação;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. RPA: Orçamento 2025 para pagamento mensal da Twilio não aprovado em OPEX, colocando em risco a continuidade da automação do CCE.",
+    "texto": "P.A. Projeto P63: Orçamento 2025 para pagamento mensal da Twilio não aprovado em OPEX, colocando em risco a continuidade da automação do CCE.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3246,7 +3246,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Salesforce – “Plan & Design” – Business case conclusão 19/01/24  25/02  - Fase atual de Estudo de Viabilidade VLI (03/24)",
+    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Projeto P39 – “Plan & Design” – Business case conclusão 19/01/24  25/02  - Fase atual de Estudo de Viabilidade Empresa C0 (03/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3264,19 +3264,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jetsons: Em estudo possibilidade de descomissionar Jetsons contratos ainda em 2015 juntamente com o PV.",
+    "texto": "P.A.: [Projeto P48] Jetsons: Em estudo possibilidade de descomissionar Jetsons contratos ainda em 2015 juntamente com o PV.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Integrações VALE – Assinatura de contratos com fornecedores prevista para 24/03.",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Integrações Empresa C1 – Assinatura de contratos com fornecedores prevista para 24/03.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "O processo de gestão de dados mestres está funcionando conforme desenhado no projeto.",
+    "texto": "O processo de gestão de Projeto P53 está funcionando conforme desenhado no projeto.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
@@ -3288,7 +3288,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "S&OP Digital: Geração de R$ 1,4 MM de ganho em abril com aumento de volume na CN. ( Em validação junto a área de negócios)",
+    "texto": "Projeto P10: Geração de R$ 1,4 MM de ganho em abril com aumento de volume na CN. ( Em validação junto a área de negócios)",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -3306,7 +3306,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do Centro de Inteligência.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3336,25 +3336,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. [Mamute] MBC VP: Geral: Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem: Assinatura de contrato tripartite para aquisições dos equipamentos.",
+    "texto": "P.P. [Projeto P46] Projeto P54 VP: Geral: Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem: Assinatura de contrato tripartite para aquisições dos equipamentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Dados VALE] Processos de integração com o cliente Gerdau – Ação VLI em planejamento.",
+    "texto": "P.A.: [Dados Empresa C1] Processos de integração com o cliente Empresa C27 – Ação Empresa C0 em planejamento.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Linha Mestra – Speed Corporativo: Implantação concluída em 4 dos 5 portos da VLI (TPD, TMIB, TIPLAM e TPSL), gerando entre abril e maio a redução total de 40h na operação de marítimas da VLI. (ganho de junho em validação)",
+    "texto": "Projeto P51 – Speed Corporativo: Implantação concluída em 4 dos 5 portos da Empresa C0 (Localidade L16, Localidade L14, Localidade L3 e Localidade L15), gerando entre abril e maio a redução total de 40h na operação de marítimas da Empresa C0. (ganho de junho em validação)",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "[Término da Operação Assistida do FLINK-Formalização] O módulo FLINK-Formalização que teve seu go live em 17/07/24. A partir desta data, teve sua operação assistida realizada e a transição de 100% dos processos de atendimento para a sustentação AMS, com sua conclusão em 05/09/24. Desde seu go live, não houve nenhum impacto na produção da companhia. Neste período foram contabilizados com sucesso 140 mil documentos de faturamento, totalizando aproximadamente R$ 1.553 MM.",
+    "texto": "[Término da Operação Assistida do Projeto P40-Formalização] O módulo Projeto P40-Formalização que teve seu go live em 17/07/24. A partir desta data, teve sua operação assistida realizada e a transição de 100% dos processos de atendimento para a sustentação AMS, com sua conclusão em 05/09/24. Desde seu go live, não houve nenhum impacto na produção da companhia. Neste período foram contabilizados com sucesso 140 mil documentos de Setor A10, totalizando aproximadamente R$ 1.553 MM.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -3366,19 +3366,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "Linha Mestra - AMZ Inteligente e Pátio de futuro: Novo atraso na conclusão das negociações comerciais com o fornecedor. Nova previsão de suprimentos para 10/04",
+    "texto": "Projeto P51 - AMZ Inteligente e Pátio de futuro: Novo atraso na conclusão das negociações comerciais com o fornecedor. Nova previsão de Setor A4 para 10/04",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Smart Sales] Jornada Comercial Integrada fase 2 – RC aberta e processo de contratação iniciado – [jun/25]",
+    "texto": "P.P.: [Projeto P48] Jornada Setor A9 Integrada fase 2 – RC aberta e processo de contratação iniciado – [jun/25]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: Risco de descontinuidade das iniciativas S&OP Digital e Smartplanner do Programa MPD por adoção de outra solução de mercado indicada pela diretoria executiva.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: Risco de descontinuidade das iniciativas Projeto P10 e Smartplanner do Programa MPD por adoção de outra solução de mercado indicada pela diretoria executiva.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3396,7 +3396,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Migrar portais de Atendimento, Faturamento e Indenizações para o Salesforce;",
+    "texto": "P.P.: [Projeto P47] CRM: Migrar portais de Atendimento, Setor A10 e Indenizações para o Projeto P39;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3408,13 +3408,13 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] CRM: ChatBot  para atendimento de cliente em testes com primeira fluxo automatizado para informar Fila de Vagões. Lançamento previsto para jun/24",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM: ChatBot  para atendimento de cliente em testes com primeira fluxo automatizado para informar Fila de Vagões. Lançamento previsto para jun/24",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. SIOP Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09",
+    "texto": "P.A. Projeto P36 Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3438,19 +3438,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. CI: Necessidade de redução do time pela metade devido à redução de orçamento para pagamento à Bain.",
+    "texto": "P.A. Projeto P18: Necessidade de redução do time pela metade devido à redução de orçamento para pagamento à Empresa C26.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Salesforce Plataforma] Renovação contratual",
+    "texto": "P.P.: [Projeto P39 Plataforma] Renovação contratual",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. RPA: Redução do orçamento disponibilizado para desenvolvimento de automações de RPA, necessitando desmobilizar os recursos alocados a partir do 2º semestre de 2024, mantendo apenas sustentação das automações entregues.",
+    "texto": "P.A. Projeto P63: Redução do orçamento disponibilizado para desenvolvimento de automações de Projeto P63, necessitando desmobilizar os recursos alocados a partir do 2º semestre de 2024, mantendo apenas sustentação das automações entregues.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3462,13 +3462,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Mamute Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor DTI para os desenvolvimentos do Centro de Inteligência. / Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17. / Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. RPA: Mapeamento de áreas para discovery de automação.",
+    "texto": "P.P. Projeto P63: Mapeamento de áreas para discovery de automação.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3492,25 +3492,25 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] Salesforce: Revisão técnica da solução de Identidade para suportar a conexão dos nossos clientes no Salesforce e Conecta;",
+    "texto": "P.P.: [Projeto P47] Projeto P39: Revisão técnica da solução de Identidade para suportar a conexão dos nossos clientes no Projeto P39 e Conecta;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[Processo de Major Incident]: avanço importante no processo de comunicação e atualização de status de incidente e crises. Implementado com sucesso notificações automáticas, para aviso de incidentes com impacto ao negócio através de grupo de whatsapp (Digital Command Center TILD ) especifico para o processo de resposta a crises. Importante avanço de integração com torre de controle.",
+    "texto": "[Processo de Major Incident]: avanço importante no processo de comunicação e atualização de status de incidente e crises. Implementado com sucesso notificações automáticas, para aviso de incidentes com impacto ao negócio através de grupo de whatsapp (Digital Command Center Setor A1 ) especifico para o processo de resposta a crises. Importante avanço de integração com Projeto P49.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Smart Sales] Jornada Comercial Integrada fase 2 – RC aberta e processo de contratação iniciado – [Jul/25]",
+    "texto": "P.P.: [Projeto P48] Jornada Setor A9 Integrada fase 2 – RC aberta e processo de contratação iniciado – [Jul/25]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Execução da migração da infraestrutura 4 Intelligence para VLI;",
+    "texto": "P.P.: [Projeto P50] Execução da migração da infraestrutura 4 Intelligence para Empresa C0;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3522,7 +3522,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Linha Mestra – Controle Remoto CN (Carregador de Navio): Conclusão da implantação, comissionamento nos 2 DNs do TIPLAM e treinamentos operacionais. Go-live previsto para 14/11.",
+    "texto": "Projeto P51 – Controle Remoto CN (Carregador de Navio): Conclusão da implantação, comissionamento nos 2 DNs do Localidade L3 e treinamentos operacionais. Go-live previsto para 14/11.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -3534,19 +3534,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [AMS Comercial]: Migração de vários serviços já realizado para a Gov. TILD. Seguimos a migração de outros serviços da GA.",
+    "texto": "P.A.: [AMS Setor A9]: Migração de vários serviços já realizado para a Gov. Setor A1. Seguimos a migração de outros serviços da GA.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Revisão técnica do Salesforce com Arquitetura, SI e Dados",
+    "texto": "P.P.: [Projeto P47] CRM: Revisão técnica do Projeto P39 com Arquitetura, Setor A6 e Dados",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "O fornecedor Simpress, recém premiado para fornecimento de 2000 computadores, apresentou pleito para reajuste de preços, alegando desequilíbrio contratual e interrupção integral de fornecimento. Risco elevado de falta de equipamentos para colaboradores nível staff e executivo. Assunto sendo cuidado por Suprimentos e jurídico.",
+    "texto": "O fornecedor Simpress, recém premiado para fornecimento de 2000 computadores, apresentou pleito para reajuste de preços, alegando desequilíbrio contratual e interrupção integral de fornecimento. Risco elevado de falta de equipamentos para colaboradores nível staff e executivo. Assunto sendo cuidado por Setor A4 e Setor A5.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -3558,7 +3558,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [AMS Comercial]: Integração Service Now com Salesforce. 04/25",
+    "texto": "P.A.: [AMS Setor A9]: Integração Service Now com Projeto P39. 04/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3570,31 +3570,31 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Salesforce Plataforma] Renovação contratual – RC aberta como contratação direta ~8MM – Material explicativo em elaboração – [Ago/25]",
+    "texto": "P.P.: [Projeto P39 Plataforma] Renovação contratual – RC aberta como contratação direta ~8MM – Material explicativo em elaboração – [Ago/25]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada fase 1 – Decidido por manter a solução NetLex com evolução para NextGen. Replanejamento dos entregáveis.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Decidido por manter a solução NetLex com evolução para NextGen. Replanejamento dos entregáveis.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Mamute] Inspeção visual de vagões com câmera: Necessário definir a forma de sustentação do software desenvolvido com a CIMATEC.",
+    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Necessário definir a forma de sustentação do software desenvolvido com a CIMATEC.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Estratégia de migração 4 Intelligence será AS IS igual a TO BE com ajustes de infra e requisitos técnicos. Estratégia definida com o intuito de manter evolução sistêmica e processual;",
+    "texto": "P.A.: [Projeto P50] Estratégia de migração 4 Intelligence será AS IS igual a TO BE com ajustes de infra e requisitos técnicos. Estratégia definida com o intuito de manter evolução sistêmica e processual;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa CX] Torre de Controle: Solução de gestão de estadia na Torre de Controle – planejamento rollout 2024 para os demais clientes / Segmentos;",
+    "texto": "P.P.: [Iniciativa Setor A7] Projeto P49: Solução de gestão de estadia na Projeto P49 – planejamento rollout 2024 para os demais clientes / Segmentos;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3624,13 +3624,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [Mamute] [Otimização dos tombadores]: Acompanhar a realização de correções e melhorias solicitadas pelo terminal ao fornecedor – até 29/09;",
+    "texto": "P.A. [Projeto P46] [Otimização dos tombadores]: Acompanhar a realização de correções e melhorias solicitadas pelo terminal ao fornecedor – até 29/09;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "SUITE SIOP:  Conclusão da homologação, treinamento, validação do ambiente de produção e plano de cutover para autorizar go-live no dia 21/10;",
+    "texto": "Projeto P67:  Conclusão da homologação, treinamento, validação do ambiente de produção e plano de cutover para autorizar go-live no dia 21/10;",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -3642,13 +3642,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Salesforce – “Plan & Design” Salesforce contratado com início em 30/10;",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39 – “Plan & Design” Projeto P39 contratado com início em 30/10;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. RPA: Handover entre fornecedores, da Smarthis para TCS.",
+    "texto": "P.P. Projeto P63: Handover entre fornecedores, da Smarthis para TCS.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3666,13 +3666,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Concluído o vínculo dos Clientes Segmentação e Gestão no CRM e  Saneamento e padronização do dado do Cliente “Gestão” em 95% entre CRM e FLOU – (Conclusão em dez/23);",
+    "texto": "P.P.: [Projeto P47] CRM: Concluído o vínculo dos Clientes Segmentação e Gestão no CRM e  Saneamento e padronização do dado do Cliente “Gestão” em 95% entre CRM e Projeto P57 – (Conclusão em dez/23);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Salesforce e Whatsapp (01/2024)",
+    "texto": "P.P.: [Projeto P47] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Projeto P39 e Whatsapp (01/2024)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3702,19 +3702,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "A proposta de parceria com a EMBRAPII foi aprovada, viabilizando captação de recursos.",
+    "texto": "A proposta de parceria com a Empresa C36 foi aprovada, viabilizando captação de recursos.",
     "label": 0,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "Melhoria SIOP Tulha TIPLAM: Devido à falta de documentação e definições de escopo de TA, o time SIOP foi desmobilizado e postergado o projeto; Aguardando definições de TA para novo planejamento;",
+    "texto": "Melhoria Projeto P36 Tulha Localidade L3: Devido à falta de documentação e definições de escopo de TA, o time Projeto P36 foi desmobilizado e postergado o projeto; Aguardando definições de TA para novo planejamento;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Dados VALE]: Processos de integração com o cliente Gerdau – Ação com a Vale (24/11) e EDI VLI a definir",
+    "texto": "P.P.: [Dados Empresa C1]: Processos de integração com o cliente Empresa C27 – Ação com a Empresa C1 (24/11) e EDI Empresa C0 a definir",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3732,7 +3732,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [OKTO] Arquitetura revisada, sendo necessária a criação de usuário sistêmico para a manutenção da integração SAP/OKTO.",
+    "texto": "P.P. – [Projeto P71] Arquitetura revisada, sendo necessária a criação de usuário sistêmico para a manutenção da integração Empresa C20/Projeto P71.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3744,13 +3744,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Carga de contratos comerciais no Salesforce:",
+    "texto": "P.A.: [Projeto P48] Carga de contratos comerciais no Projeto P39:",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P – [Mamute] Linha Mestra: Visitas ao TIPLAM, TIUB e Pátio de Paulínia para apresentação junto às lideranças destes locais definidos para o Piloto, alinhamento das iniciativas levantadas, validação das ações frente às necessidades dos locais e alinhamentos para quick wins. Revisão das fichas de projetos pelos especialistas das áreas para revisão de ganhos e investimentos.",
+    "texto": "P.P – [Projeto P46] Projeto P51: Visitas ao Localidade L3, Localidade L7 e Pátio de Localidade L24 para apresentação junto às lideranças destes locais definidos para o Piloto, alinhamento das iniciativas levantadas, validação das ações frente às necessidades dos locais e alinhamentos para quick wins. Revisão das fichas de projetos pelos especialistas das áreas para revisão de ganhos e investimentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3762,19 +3762,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Salesforce: Desenho de processo, Gestão de mudança;",
+    "texto": "P.P.: [Fonte Primária – Dado do Cliente] Projeto P39: Desenho de processo, Gestão de mudança;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] Preditiva 4.0: Morgaoo: testes na locomotiva 8685 reagendados para 24 a 28.abr. Ai4: instalação na locomotiva 6028 reagendada para 24 a 28.abr.",
+    "texto": "P.P. – [Projeto P46] Preditiva 4.0: Morgaoo: testes na locomotiva 8685 reagendados para 24 a 28.abr. Ai4: instalação na locomotiva 6028 reagendada para 24 a 28.abr.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jetsons: Produto congelado até substituição total pelo Salesforce em 2025 (exceto Jetsons preços)",
+    "texto": "P.A.: [Projeto P48] Jetsons: Produto congelado até substituição total pelo Projeto P39 em 2025 (exceto Jetsons preços)",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3804,13 +3804,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Mamute] MBC VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual (contrato tripartite).",
+    "texto": "[Projeto P46] Projeto P54 VP: Equipamento de Imagem: Atraso na etapa de fechamento de minuta contratual (contrato tripartite).",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A. Centro de Inteligência: Necessidade de redução do time pela metade devido à redução de orçamento para pagamento à Bain.",
+    "texto": "P.A. Projeto P17: Necessidade de redução do time pela metade devido à redução de orçamento para pagamento à Empresa C26.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3834,7 +3834,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Smart Sales] Jornada Comercial Integrada fase 1 – Projeto replanejado com go live em 27/05 onda 1 e 25/06  [ data em revisão ]onda 2.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto replanejado com go live em 27/05 onda 1 e 25/06  [ data em revisão ]onda 2.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3858,7 +3858,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Conclusão implementação CIAM 20/06",
+    "texto": "P.P.: [Projeto P47] CRM: Conclusão implementação Projeto P72 20/06",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3870,7 +3870,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Envio de orçamento da VMM para FCA - ativação das unidades Paulínia, São Luiz e Lavras;",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Envio de orçamento da VMM para Empresa C40 - ativação das unidades Localidade L24, São Luiz e Localidade L25;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3882,13 +3882,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Salesforce – “Plan & Design” – Business case conclusão 19/01/24  25/02;",
+    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Projeto P39 – “Plan & Design” – Business case conclusão 19/01/24  25/02;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute Eficiência Comercial] Estratégia de migração da infraestrutura 4 Intelligence;",
+    "texto": "P.A.: [Projeto P50] Estratégia de migração da infraestrutura 4 Intelligence;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3912,13 +3912,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "A instabilidade do sistema de origem está comprometendo a confiabilidade do Data Lake.",
+    "texto": "A instabilidade do sistema de origem está comprometendo a confiabilidade do Projeto P61.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Mamute CX] Torre de Controle: Envio de equipamentos para o TPD – Ativação MVP 06/06",
+    "texto": "P.A.: [Projeto P47] Projeto P49: Envio de equipamentos para o Localidade L16 – Ativação MVP 06/06",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3930,7 +3930,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Timeout nas integrações com Salesforce impacta o fluxo de atendimento ao cliente.",
+    "texto": "Timeout nas integrações com Projeto P39 impacta o fluxo de atendimento ao cliente.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
@@ -3942,43 +3942,43 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Melhorar qualidade informação operacional com dados GBM Combustível e Tegram [12/24 até 02/25 04/25 Revisão arquitetural com dados].",
+    "texto": "P.P.: [Projeto P49] Melhorar qualidade informação operacional com dados GBM Combustível e Tegram [12/24 até 02/25 04/25 Revisão arquitetural com dados].",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "A mobilização do squad foi postergada aguardando aprovação contratual de suprimentos.",
+    "texto": "A mobilização do squad foi postergada aguardando aprovação contratual de Setor A4.",
     "label": 1,
     "origem": "sintetico",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Torre de Controle] Integração com UNILOG em homologação com problemas na junção NITRO CCO – Problemas em tratamento nova previsão 19/02 04/25 mudança de prioridade.",
+    "texto": "P.P.: [Projeto P49] Integração com Projeto P74 em homologação com problemas na junção NITRO Setor A8 – Problemas em tratamento nova previsão 19/02 04/25 mudança de prioridade.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "[CRM] Mini Go Live para atendimento via email centralizados na solução Salesforce",
+    "texto": "[CRM] Mini Go Live para atendimento via email centralizados na solução Projeto P39",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.P. – [Mamute] MBC VP: Geral - Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem - Assinatura de contrato tripartite para aquisições dos equipamentos.",
+    "texto": "P.P. – [Projeto P46] Projeto P54 VP: Geral - Validação da base georreferenciada de curvas e tangentes. Sistema Autônomo de Geometria & Sistema de Imagem - Assinatura de contrato tripartite para aquisições dos equipamentos.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Mamute] MBC VP: Sistema Autônomo de Geometria e Sistema Inspeção por Imagem em fase de aprovação por suprimentos, faltando negociação comercial e alinhamentos com Comexport (responsável pela importação), além da assinatura de contrato.",
+    "texto": "P.P. – [Projeto P46] Projeto P54 VP: Sistema Autônomo de Geometria e Sistema Inspeção por Imagem em fase de aprovação por Setor A4, faltando negociação Setor A9 e alinhamentos com Comexport (responsável pela importação), além da assinatura de contrato.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Smart Sales] Revisão das estratégias dos produtos digitais PV e Jetsons “Plan & Design” – Business case concluído em 25/02  - Fase atual de Estudo de Viabilidade VLI (04/24)",
+    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais PV e Jetsons “Plan & Design” – Business case concluído em 25/02  - Fase atual de Estudo de Viabilidade Empresa C0 (04/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3996,19 +3996,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute Eficiência Comercial] Construção da solução de gestão de estadia na Torre de Controle – MVP com a Usiminas e depois será replicados para os demais clientes - 12/23",
+    "texto": "P.P.: [Projeto P50] Construção da solução de gestão de estadia na Projeto P49 – MVP com a Empresa C10 e depois será replicados para os demais clientes - 12/23",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Mamute CX] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Salesforce e Whatsapp (01/24 02/24 03/24);",
+    "texto": "P.P.: [Projeto P47] CRM: Ativação primeiros ChatBots para atender o cliente – Integração Projeto P39 e Whatsapp (01/24 02/24 03/24);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "WMS INFOR – ARCELOR e BELGO: Entrega da melhoria de Gestão de Vagões, auxiliando o apontamento do TMD dos produtos siderúrgicos no TPSL.",
+    "texto": "WMS INFOR – ARCELOR e BELGO: Entrega da melhoria de Gestão de Vagões, auxiliando o apontamento do TMD dos produtos siderúrgicos no Localidade L15.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -4038,13 +4038,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "Processo contrato DXC (AMS / IMS)",
+    "texto": "Processo contrato Empresa C3 (AMS / IMS)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "a) Gerdau: Projeto Anti-Contaminação [em planejamento]",
+    "texto": "a) Empresa C27: Projeto Anti-Contaminação [em planejamento]",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -4062,7 +4062,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "RiskPoynt: Planejamento e início do projeto.",
+    "texto": "Projeto P14: Planejamento e início do projeto.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -4080,7 +4080,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Renovação contratos Cluster “Marco Antônio”",
+    "texto": "Renovação contratos Cluster “Pessoa E10”",
     "label": 0,
     "origem": "real",
     "confianca": "alta"

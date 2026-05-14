@@ -30,13 +30,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "Gestão 4.0: Atraso na integração para provisionamento de usuários.",
+    "texto": "Projeto P80: Atraso na integração para provisionamento de usuários.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "Projeto P51 – Speed Corporativo: Atraso na adoção do novo processo de otimização do plano de descarregamento de navios no PECÉM. Plano de ação já elaborado e em execução.",
+    "texto": "Projeto P51 – Projeto P81 Corporativo: Atraso na adoção do novo processo de otimização do plano de descarregamento de navios no PECÉM. Plano de ação já elaborado e em execução.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -72,7 +72,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Estratégia do novo aditivo de contrato com o fornecedor 4 Intelligence com atenção às questões de propriedade intelectual, “Non compete” e transição da solução para o domínio Empresa C0;",
+    "texto": "P.A.: [Projeto P50] Estratégia do novo aditivo de contrato com o fornecedor Empresa C47 com atenção às questões de propriedade intelectual, “Non compete” e transição da solução para o domínio Empresa C0;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -84,7 +84,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P Gestão 4.0: Integração Straws e DW.",
+    "texto": "P.P Projeto P80: Integração Straws e DW.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -306,7 +306,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] PV Digital: Produto congelado até substituição total pelo Projeto P39",
+    "texto": "P.A.: [Projeto P48] Projeto P76: Produto congelado até substituição total pelo Projeto P39",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -336,13 +336,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] PV Digital: Processo de descomissionamento com início em Jun/25 e conclusão em Set/25",
+    "texto": "P.A.: [Projeto P48] Projeto P76: Processo de descomissionamento com início em Jun/25 e conclusão em Set/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P51 – AMZ Inteligente: Atraso na emissão do pedido de materiais para instalação elétrica do Localidade L7, devido a reclassificação de materiais conforme o projeto W2W.",
+    "texto": "Projeto P51 – Projeto P38: Atraso na emissão do pedido de materiais para instalação elétrica do Localidade L7, devido a reclassificação de materiais conforme o projeto W2W.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -372,7 +372,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A Projeto P46 Projeto P79: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -402,7 +402,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e PV Digital",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Projeto P77 e Projeto P76",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -528,7 +528,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023. Risco iminente de grande redução de equipe alocada no Projeto P17.",
+    "texto": "P.A Projeto P46 Projeto P79: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023. Risco iminente de grande redução de equipe alocada no Projeto P17.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -582,7 +582,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jetsons Contrato: Processo de descomissionamento com início em Jun/25 conclusão em Set/25",
+    "texto": "P.A.: [Projeto P48] Projeto P77 Contrato: Processo de descomissionamento com início em Jun/25 conclusão em Set/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -648,7 +648,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A Projeto P46 Projeto P79: Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -672,19 +672,19 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada – Substituição PV pela plataforma Projeto P39. Processo de contratação em fase final com Setor A4.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada – Substituição Projeto P76 pela plataforma Projeto P39. Processo de contratação em fase final com Setor A4.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Solução Jetsons Contratos e Preços: Essa solução Digital está em transição da área Setor A9 para de Vendas e Setor A10 GA Pessoa E2 Cesar e GG Marcos Laranja. Essa transição visa fortalecer os produtos digitais e os processos. Seguimos sem alteração na Setor A1.",
+    "texto": "P.A.: [Projeto P48] Solução Projeto P77 e Preços: Essa solução Digital está em transição da área Setor A9 para de Vendas e Setor A10 GA Pessoa E2 Cesar e GG Marcos Laranja. Essa transição visa fortalecer os produtos digitais e os processos. Seguimos sem alteração na Setor A1.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P67: P.A. API Recintos: Atraso na entrega pela Empresa C19 irá postergar o início da operação do Trato para setembro/24  | P.A. Rollout EDGE para Localidade L1 e Localidade L11 planejados para julho em risco devido aos atrasos nas correções de incidadentes pela equipe Empresa C19. | P.P. Avaliar efetividade do plano de ações da Empresa C19 para ganho de performance dos squads;",
+    "texto": "Projeto P67: P.A. API Recintos: Atraso na entrega pela Empresa C19 irá postergar o início da operação do Setor A14 para setembro/24  | P.A. Rollout EDGE para Localidade L1 e Localidade L11 planejados para julho em risco devido aos atrasos nas correções de incidadentes pela equipe Empresa C19. | P.P. Avaliar efetividade do plano de ações da Empresa C19 para ganho de performance dos squads;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -696,7 +696,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P. – [Projeto P46] Inspeção visual por câmeras: Realizar avaliação com CIMATEC para encerramento do contrato. Avaliação de novos fornecedores já em andamento para seguimento do projeto.",
+    "texto": "P.P. – [Projeto P46] Inspeção visual por câmeras: Realizar avaliação com Empresa C48 para encerramento do contrato. Avaliação de novos fornecedores já em andamento para seguimento do projeto.",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -726,7 +726,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa Setor A7] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Trato ( 05/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Setor A14 ( 05/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -756,13 +756,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "Stratws: Atraso no provisionamento de usuários na ferramenta, gerando alto trabalho manual pela área de negócio.",
+    "texto": "Empresa C46: Atraso no provisionamento de usuários na ferramenta, gerando alto trabalho manual pela área de negócio.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jetsons Contrato: Produto congelado até substituição total pelo Projeto P39 em 2025",
+    "texto": "P.A.: [Projeto P48] Projeto P77 Contrato: Produto congelado até substituição total pelo Projeto P39 em 2025",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -786,7 +786,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Projeto P36 Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09;",
+    "texto": "P.A. Projeto P36 Setor A2: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -804,7 +804,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jetsons Contrato: Processo de descomissionamento com início em Jun/25",
+    "texto": "P.A.: [Projeto P48] Projeto P77 Contrato: Processo de descomissionamento com início em Jun/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -876,7 +876,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P.: [Projeto P46 Ef. Setor A9] Projeto P58 – estratégia de migração 4 Intelligence para Empresa C0 em conjunto com Arquitetura;",
+    "texto": "P.P.: [Projeto P46 Ef. Setor A9] Projeto P58 – estratégia de migração Empresa C47 para Empresa C0 em conjunto com Arquitetura;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -954,13 +954,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Iniciativa Setor A7] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Trato ( 04/24)",
+    "texto": "P.P.: [Iniciativa Setor A7] CRM: Devido problemas com a solução de chatbot CRM iniciamos POC com a solução BLIP Sinergia Setor A14 ( 04/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P51 – AMZ Inteligente: Atraso na ativação dos equipamentos do AZF2 do Localidade L3, impactando a visualização dos dados no sistema. Conclusão prevista para jan/25;",
+    "texto": "Projeto P51 – Projeto P38: Atraso na ativação dos equipamentos do AZF2 do Localidade L3, impactando a visualização dos dados no sistema. Conclusão prevista para jan/25;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -990,7 +990,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado;",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Projeto P77 e Inteligência de Mercado;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1014,7 +1014,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.P Projeto P46 Planejamento Dinâmico: Alinhamento com liderança e Sponsor sobre a continuidade dos produtos Smartplanner/Projeto P10",
+    "texto": "P.P Projeto P46 Projeto P79: Alinhamento com liderança e Sponsor sobre a continuidade dos produtos Smartplanner/Projeto P10",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1062,7 +1062,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Projeto P48] PV e Jetsons: Renovação do contrato IOASYS será por contratação direta. Sinergia com P&D Projeto P39. RC 10623054 aberta já na caixa fiori do Pessoa E16 e na sequência irá para autorização da Diretora Rute.",
+    "texto": "P.A.:[Projeto P48] Projeto P76 e Projeto P77: Renovação do contrato Empresa C44 será por contratação direta. Sinergia com P&D Projeto P39. RC 10623054 aberta já na caixa fiori do Pessoa E16 e na sequência irá para autorização da Diretora Rute.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1110,7 +1110,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e PV Digital;",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Projeto P77 e Projeto P76;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1182,7 +1182,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso na contratação da TCS coloca em risco o cumprimento do roadmap de ativação do otimizador da Smartplanner até 30/06.",
+    "texto": "P.A Projeto P46 Projeto P79: atraso na contratação da TCS coloca em risco o cumprimento do roadmap de ativação do otimizador da Smartplanner até 30/06.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1290,7 +1290,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: Área de negócio (GG Planejamento Curto Prazo) estuda pleitear a Projeto P42 como habilitadora sem ganho previsto em 2024 para avançar nos gates de aprovação.",
+    "texto": "P.A Projeto P46 Projeto P79: Área de negócio (GG Planejamento Curto Prazo) estuda pleitear a Projeto P42 como habilitadora sem ganho previsto em 2024 para avançar nos gates de aprovação.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1314,7 +1314,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Projeto P58 – Renovação dos contratos com a 4intelligence e Ioasys;",
+    "texto": "P.A.: [Projeto P50] Projeto P58 – Renovação dos contratos com a 4intelligence e Empresa C44;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1488,7 +1488,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Ativação do novo processo de padrão de negociação e operacionalização de contratos comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/10);",
+    "texto": "P.P.: [Projeto P50] Ativação do novo processo de padrão de negociação e operacionalização de contratos comerciais envolvendo Projeto P76, Projeto P77 e Empresa C45 (ativação em 20/10);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -1524,7 +1524,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P67 - Porto/Expedição: Conclusão das correção de DI's (Declaração de Importação) - Total: 631; Encerradas: 570; Pendente: 6; Solicitação para permanecer aberto com saldo: 55 (esta ação corrigiu inconsistências na gestão do volume de importação do Localidade L3).",
+    "texto": "Projeto P67 - Setor A2/Expedição: Conclusão das correção de DI's (Declaração de Importação) - Total: 631; Encerradas: 570; Pendente: 6; Solicitação para permanecer aberto com saldo: 55 (esta ação corrigiu inconsistências na gestão do volume de importação do Localidade L3).",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -1656,7 +1656,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] PV Digital e Jetsons Contratos:",
+    "texto": "P.A.: [Projeto P48] Projeto P76 e Projeto P77:",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1722,7 +1722,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Gestão 4.0: Mudança da arquitetura definida, podendo gerar impacto de prazo no go live.",
+    "texto": "P.A Projeto P80: Mudança da arquitetura definida, podendo gerar impacto de prazo no go live.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1746,7 +1746,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Câmeras instaladas, porém não foi possível rodar o software desenvolvido. CIMATEC acompanhando a equipe para resolução;",
+    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Câmeras instaladas, porém não foi possível rodar o software desenvolvido. Empresa C48 acompanhando a equipe para resolução;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1920,7 +1920,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Projeto P48] PV e Jetsons: Renovação do contrato IOASYS será por contratação direta. Sinergia com P&D Projeto P39. RC será aberta e irá para autorização da Diretora Rute.",
+    "texto": "P.A.:[Projeto P48] Projeto P76 e Projeto P77: Renovação do contrato Empresa C44 será por contratação direta. Sinergia com P&D Projeto P39. RC será aberta e irá para autorização da Diretora Rute.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -1938,7 +1938,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P51 – SPEED: Atraso na apuração dos ganhos da iniciativa em 2025. Nova previsão para jun/25;",
+    "texto": "Projeto P51 – Projeto P81: Atraso na apuração dos ganhos da iniciativa em 2025. Nova previsão para jun/25;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -2028,7 +2028,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17.",
+    "texto": "P.A Projeto P46 Projeto P79: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2106,7 +2106,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39;",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2184,7 +2184,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto em andamento com foco em “Negociação” e revisão da estratégia de “Formalização” – sobre retirar ou manter a solução NETLEX em uma versão atualizada. (conclusão em 01/2025)",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Projeto em andamento com foco em “Negociação” e revisão da estratégia de “Formalização” – sobre retirar ou manter a solução Empresa C45 em uma versão atualizada. (conclusão em 01/2025)",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2208,7 +2208,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Gestão 4.0 e DW: Início da troca de fornecedores para desenvolvimento no DW.",
+    "texto": "P.A. Projeto P80 e DW: Início da troca de fornecedores para desenvolvimento no DW.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2220,7 +2220,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39 – “Plan & Design” Projeto P39 contratado com início em 30/10 – Iniciado e com prazo de conclusão 19/01/24",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39 – “Plan & Design” Projeto P39 contratado com início em 30/10 – Iniciado e com prazo de conclusão 19/01/24",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -2256,7 +2256,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] PV Digital: Processo de descomissionamento com início em Jun/25",
+    "texto": "P.A.: [Projeto P48] Projeto P76: Processo de descomissionamento com início em Jun/25",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2274,7 +2274,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [Projeto P36 Porto] Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024",
+    "texto": "P.A. [Projeto P36 Setor A2] Planejamento das correções e novas implementações na API Recintos com previsão para maio/2024",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2286,7 +2286,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P46 planejamento dinâmico: Atraso na contratação da TCS para integrações com GPV da Empresa C1.",
+    "texto": "Projeto P46 Projeto P79: Atraso na contratação da TCS para integrações com GPV da Empresa C1.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -2316,7 +2316,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Jetsons Contratos e Inteligência de Mercado.",
+    "texto": "P.A.: [Projeto P50] Definição dos POs para as frentes de Projeto P77 e Inteligência de Mercado.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2370,7 +2370,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jetsons: Plano de convivência integração a Iniciativa Jornada de Vendas Integrada e evoluções controladas considerando a substituição da solução em 2026.",
+    "texto": "P.A.: [Projeto P48] Projeto P77: Plano de convivência integração a Iniciativa Jornada de Vendas Integrada e evoluções controladas considerando a substituição da solução em 2026.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2490,7 +2490,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P72] Determinar suporte Projeto P72 para Empresa C0 - Governança de clientes e usuários dos clientes. Adoção no CRM, PNEE e Projeto P36.",
+    "texto": "P.A.: [Projeto P72] Determinar suporte Projeto P72 para Empresa C0 - Governança de clientes e usuários dos clientes. Adoção no CRM, Projeto P43 e Projeto P36.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2502,7 +2502,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A. Migração de bases Projeto P57: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do Projeto P57.",
+    "texto": "P.A. Migração de bases Projeto P57: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Projeto P83 para os dados do Projeto P57.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2550,7 +2550,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: Dificuldade nas tratativas da integração com GPV da Empresa C1.",
+    "texto": "P.A Projeto P46 Projeto P79: Dificuldade nas tratativas da integração com GPV da Empresa C1.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2568,13 +2568,13 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A.: [Projeto P48] PV Digital: Produto congelado até substituição total pelo Projeto P39 em 2025",
+    "texto": "P.A.: [Projeto P48] Projeto P76: Produto congelado até substituição total pelo Projeto P39 em 2025",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. [Projeto P46 Planejamento Dinâmico] atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P18 / Necessidade de +R$2MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A. [Projeto P46 Projeto P79] atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P18 / Necessidade de +R$2MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2628,7 +2628,7 @@
     "confianca": "media"
   },
   {
-    "texto": "P.A. Migração de bases Projeto P57: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Tácito para os dados do Projeto P57. Após o mapeamento, será necessário buscar orçamento para mobilizar recursos para fazer a migração.",
+    "texto": "P.A. Migração de bases Projeto P57: Mapeamento em andamento do esforço necessário para migrar as réplicas de tabelas do Projeto P83 para os dados do Projeto P57. Após o mapeamento, será necessário buscar orçamento para mobilizar recursos para fazer a migração.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2694,7 +2694,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Requalificação Projeto P36 2.0 [Módulo Expedição (eliminação SIACON)]: Novo atraso no desenvolvimento sinalizado pela Empresa C19, nova previsão de entrega para setembro/24.;",
+    "texto": "Requalificação Projeto P36 2.0 [Módulo Expedição (eliminação Projeto P78)]: Novo atraso no desenvolvimento sinalizado pela Empresa C19, nova previsão de entrega para setembro/24.;",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -2760,7 +2760,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. PV e Jetsons: Renovação do contrato IOASYS será por contratação direta.",
+    "texto": "P.A. Projeto P76 e Projeto P77: Renovação do contrato Empresa C44 será por contratação direta.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2790,7 +2790,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: CIMATEC errou na especificação deixando de fora 3 itens (memória, placa de rede e lente) que impediu o software de rodar. Empresa C0 já adquiriu os itens faltantes, aguardando SLA de entrega. CIMATEC está analisando empréstimo de componentes para tentar antecipar nova tentativa testes.",
+    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Empresa C48 errou na especificação deixando de fora 3 itens (memória, placa de rede e lente) que impediu o software de rodar. Empresa C0 já adquiriu os itens faltantes, aguardando SLA de entrega. Empresa C48 está analisando empréstimo de componentes para tentar antecipar nova tentativa testes.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2802,7 +2802,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.:[Projeto P48] PV e Jetsons: Renovação do contrato IOASYS, processo em Setor A4 (julho/24, agosto/24).",
+    "texto": "P.A.:[Projeto P48] Projeto P76 e Projeto P77: Renovação do contrato Empresa C44, processo em Setor A4 (julho/24, agosto/24).",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2862,7 +2862,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Execução da migração da infraestrutura 4 Intelligence para Empresa C0;",
+    "texto": "P.A.: [Projeto P50] Execução da migração da infraestrutura Empresa C47 para Empresa C0;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -2886,13 +2886,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "[LM] Speed Corporativo: Implantação concluída em 4 dos 5 portos da Empresa C0 (Localidade L16, Localidade L14, Localidade L3 e Localidade L15), gerando entre abril e maio a redução total de 40h na operação de marítimas da Empresa C0. (ganho de junho em validação)",
+    "texto": "[LM] Projeto P81 Corporativo: Implantação concluída em 4 dos 5 portos da Empresa C0 (Localidade L16, Localidade L14, Localidade L3 e Localidade L15), gerando entre abril e maio a redução total de 40h na operação de marítimas da Empresa C0. (ganho de junho em validação)",
     "label": 0,
     "origem": "real",
     "confianca": "media"
   },
   {
-    "texto": "P.A. Projeto P17, Gestão 4.0 e DWs: Conclusão do processo concorrencial de novo fornecedor e necessidade de troca de fornecedor.",
+    "texto": "P.A. Projeto P17, Projeto P80 e DWs: Conclusão do processo concorrencial de novo fornecedor e necessidade de troca de fornecedor.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3000,7 +3000,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Gestão 4.0: Atraso na integração do Stratws com IAM para provisionamento de usuários.",
+    "texto": "Projeto P80: Atraso na integração do Empresa C46 com IAM para provisionamento de usuários.",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -3012,7 +3012,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos” comerciais envolvendo PV Digital, Jetsons e Netlex (ativação em 20/11);",
+    "texto": "P.P.: [Projeto P50] Ativação do “Novo Processo Padrão de Negociação e Operacionalização de Contratos” comerciais envolvendo Projeto P76, Projeto P77 e Empresa C45 (ativação em 20/11);",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3042,7 +3042,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Stratws: Proposta muito alta do fornecedor para implantação do módulo de metas.",
+    "texto": "P.A. Empresa C46: Proposta muito alta do fornecedor para implantação do módulo de metas.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3090,7 +3090,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Projeto P39 – “Plan & Design” contratado com início em 30/10 –(conclusão 19/01/24  02/02/2024).",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 considerando Projeto P39 – “Plan & Design” contratado com início em 30/10 –(conclusão 19/01/24  02/02/2024).",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3246,7 +3246,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Projeto P39 – “Plan & Design” – Business case conclusão 19/01/24  25/02  - Fase atual de Estudo de Viabilidade Empresa C0 (03/24)",
+    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 considerando Projeto P39 – “Plan & Design” – Business case conclusão 19/01/24  25/02  - Fase atual de Estudo de Viabilidade Empresa C0 (03/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3264,7 +3264,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jetsons: Em estudo possibilidade de descomissionar Jetsons contratos ainda em 2015 juntamente com o PV.",
+    "texto": "P.A.: [Projeto P48] Projeto P77: Em estudo possibilidade de descomissionar Projeto P77 ainda em 2015 juntamente com o Projeto P76.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3306,7 +3306,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17.",
+    "texto": "P.A Projeto P46 Projeto P79: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3348,7 +3348,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P51 – Speed Corporativo: Implantação concluída em 4 dos 5 portos da Empresa C0 (Localidade L16, Localidade L14, Localidade L3 e Localidade L15), gerando entre abril e maio a redução total de 40h na operação de marítimas da Empresa C0. (ganho de junho em validação)",
+    "texto": "Projeto P51 – Projeto P81 Corporativo: Implantação concluída em 4 dos 5 portos da Empresa C0 (Localidade L16, Localidade L14, Localidade L3 e Localidade L15), gerando entre abril e maio a redução total de 40h na operação de marítimas da Empresa C0. (ganho de junho em validação)",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -3366,7 +3366,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "Projeto P51 - AMZ Inteligente e Pátio de futuro: Novo atraso na conclusão das negociações comerciais com o fornecedor. Nova previsão de Setor A4 para 10/04",
+    "texto": "Projeto P51 - Projeto P38 e Projeto P85: Novo atraso na conclusão das negociações comerciais com o fornecedor. Nova previsão de Setor A4 para 10/04",
     "label": 1,
     "origem": "real",
     "confianca": "media"
@@ -3378,7 +3378,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: Risco de descontinuidade das iniciativas Projeto P10 e Smartplanner do Programa MPD por adoção de outra solução de mercado indicada pela diretoria executiva.",
+    "texto": "P.A Projeto P46 Projeto P79: Risco de descontinuidade das iniciativas Projeto P10 e Smartplanner do Programa MPD por adoção de outra solução de mercado indicada pela diretoria executiva.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3402,7 +3402,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "[Novo Sistema +Valor (Stratws)]:\u000b Go live do novo sistema para suportar o programa +Valor.",
+    "texto": "[Novo Sistema +Valor (Empresa C46)]:\u000b Go live do novo sistema para suportar o programa +Valor.",
     "label": 0,
     "origem": "real",
     "confianca": "media"
@@ -3414,7 +3414,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A. Projeto P36 Porto: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09",
+    "texto": "P.A. Projeto P36 Setor A2: Concluir a análise e o planejamento das correções e necessidade de novas implementações na API Recintos – 27/09",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3462,7 +3462,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A Projeto P46 Planejamento Dinâmico: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17. / Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
+    "texto": "P.A Projeto P46 Projeto P79: atraso no processo concorrencial para avaliação de continuidade ou troca do fornecedor Empresa C2 para os desenvolvimentos do Projeto P17. / Necessidade de incremento de orçamento em R$ 2 MM para entrega do escopo desejado e comprometido em meta em 2023.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3510,7 +3510,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Execução da migração da infraestrutura 4 Intelligence para Empresa C0;",
+    "texto": "P.P.: [Projeto P50] Execução da migração da infraestrutura Empresa C47 para Empresa C0;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3576,19 +3576,19 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Decidido por manter a solução NetLex com evolução para NextGen. Replanejamento dos entregáveis.",
+    "texto": "P.A.: [Projeto P48] Jornada Setor A9 Integrada fase 1 – Decidido por manter a solução Empresa C45 com evolução para NextGen. Replanejamento dos entregáveis.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Necessário definir a forma de sustentação do software desenvolvido com a CIMATEC.",
+    "texto": "P.A. – [Projeto P46] Inspeção visual de vagões com câmera: Necessário definir a forma de sustentação do software desenvolvido com a Empresa C48.",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Estratégia de migração 4 Intelligence será AS IS igual a TO BE com ajustes de infra e requisitos técnicos. Estratégia definida com o intuito de manter evolução sistêmica e processual;",
+    "texto": "P.A.: [Projeto P50] Estratégia de migração Empresa C47 será AS IS igual a TO BE com ajustes de infra e requisitos técnicos. Estratégia definida com o intuito de manter evolução sistêmica e processual;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3642,7 +3642,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais PV e Jetsons com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39 – “Plan & Design” Projeto P39 contratado com início em 30/10;",
+    "texto": "P.P.: [Projeto P50] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 com o intuito de evitar conflito, sobreposição de funções  e oportunidades com o Projeto P39 – “Plan & Design” Projeto P39 contratado com início em 30/10;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
@@ -3774,7 +3774,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P48] Jetsons: Produto congelado até substituição total pelo Projeto P39 em 2025 (exceto Jetsons preços)",
+    "texto": "P.A.: [Projeto P48] Projeto P77: Produto congelado até substituição total pelo Projeto P39 em 2025 (exceto Projeto P77 preços)",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3882,13 +3882,13 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais PV e Jetsons considerando Projeto P39 – “Plan & Design” – Business case conclusão 19/01/24  25/02;",
+    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 considerando Projeto P39 – “Plan & Design” – Business case conclusão 19/01/24  25/02;",
     "label": 0,
     "origem": "real",
     "confianca": "alta"
   },
   {
-    "texto": "P.A.: [Projeto P50] Estratégia de migração da infraestrutura 4 Intelligence;",
+    "texto": "P.A.: [Projeto P50] Estratégia de migração da infraestrutura Empresa C47;",
     "label": 1,
     "origem": "real",
     "confianca": "alta"
@@ -3978,7 +3978,7 @@
     "confianca": "alta"
   },
   {
-    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais PV e Jetsons “Plan & Design” – Business case concluído em 25/02  - Fase atual de Estudo de Viabilidade Empresa C0 (04/24)",
+    "texto": "P.P.: [Projeto P48] Revisão das estratégias dos produtos digitais Projeto P76 e Projeto P77 “Plan & Design” – Business case concluído em 25/02  - Fase atual de Estudo de Viabilidade Empresa C0 (04/24)",
     "label": 0,
     "origem": "real",
     "confianca": "alta"

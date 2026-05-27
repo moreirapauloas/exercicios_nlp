@@ -14272,5 +14272,35 @@
     "label": 1,
     "origem": "real",
     "confianca": "alta"
-  }
+  },
+  {
+    "texto": "Gestão de Identidades e Acessos:",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  },
+  {
+    "texto": "Descrever as principais acabativas do mês. Caso não tenha nenhuma inserir: “NÃO EXISTE”(",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  },
+  {
+    "texto": "Projeto P50 Execução da migração da infraestrutura Empresa C47 para Empresa C0;",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  },
+  {
+    "texto": "(favor não apagar este link)",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  },
+  {
+    "texto": "Cronograma Projeto P54 MR",
+    "label": 0,
+    "origem": "real",
+    "confianca": "alta"
+  }=
 ]
